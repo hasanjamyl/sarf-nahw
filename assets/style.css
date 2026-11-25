@@ -67,3 +67,7 @@ html[dir=rtl] .word small{direction:rtl;font-family:inherit}
 .master-select,.master-switch{min-width:0;max-width:100%}
 .master-select select{min-width:0;max-width:100%;flex:0 1 auto}
 @media(max-width:480px){.master-select{width:100%;align-items:stretch;flex-direction:column}.master-select select{width:100%;max-width:100%}.master-select label{overflow-wrap:anywhere}.master-switch .outline-btn{flex:1 1 110px}}
+
+/* Direction-aware navigation: leave diagrams and external-link icons unchanged. */
+.nav-arrow{display:inline-block;direction:ltr;unicode-bidi:isolate;white-space:nowrap}
+html[dir=rtl] .control-group{direction:rtl}
