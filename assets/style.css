@@ -71,3 +71,9 @@ html[dir=rtl] .word small{direction:rtl;font-family:inherit}
 /* Direction-aware navigation: leave diagrams and external-link icons unchanged. */
 .nav-arrow{display:inline-block;direction:ltr;unicode-bidi:isolate;white-space:nowrap}
 html[dir=rtl] .control-group{direction:rtl}
+
+/* RTL transformation diagrams: mirror sequence, not glyphs. */
+html[dir=rtl] .morph{direction:rtl}
+html[dir=rtl] .morph>.arrow{animation-name:rtl-flow-arrow}
+@keyframes rtl-flow-arrow{0%,100%{transform:translateX(0)}50%{transform:translateX(-4px)}}
+@media(prefers-reduced-motion:reduce){html[dir=rtl] .morph>.arrow{animation:none}}
