@@ -1,0 +1,5911 @@
+{
+  "source": "ASAN_NAHW_1.pdf",
+  "source_pdf_total_pages": 41,
+  "pdf_page_range": [
+    1,
+    41
+  ],
+  "instructional_page_range": [
+    3,
+    38
+  ],
+  "notes": "PDF p.1 title and p.2 introduction. The 30 textbook lessons begin at PDF p.3 and conclude on p.38. PDF pp.39–40 are preliminary pages for other books; p.41 is blank. The 30 lesson quizzes plus one cumulative review contain original educational questions aligned to the textbook—not verbatim copies of its printed exercises. Page numbers refer to the 1-based PDF page number, not the scanned book folio.",
+  "quiz_format": "Four choices per question; a is the zero-based correct index; why is an Urdu explanation; page is the 1-based source PDF page.",
+  "book_numbered_lessons": 30,
+  "quiz_lessons_count": 31,
+  "quiz_questions_count": 230,
+  "lessons": [
+    {
+      "lesson": 1,
+      "book_lesson_number": 1,
+      "title": "علمِ نحو، لفظ اور کلمہ",
+      "pages": "3",
+      "page_start": 3,
+      "page_end": 3,
+      "desc": "نحو کی غرض، لفظ اور کلمہ، اسم فعل حرف",
+      "questions": [
+        {
+          "q": "علمِ نحو کا اصل تعلق کس سے ہے؟",
+          "opts": [
+            "کلمات کے باہمی تعلق اور ترکیب سے",
+            "صرف اوزانِ افعال سے",
+            "صرف تجوید سے",
+            "صرف املا سے"
+          ],
+          "a": 0,
+          "why": "نحو میں کلمات کو جوڑ کر جملہ بنانے اور ان کے اعراب کی بحث ہوتی ہے۔",
+          "page": 3,
+          "level": "بنیادی",
+          "topic": "علمِ نحو، لفظ اور کلمہ",
+          "en": {
+            "q": "What is the principal concern of Arabic syntax (Nahw)?",
+            "opts": [
+              "The relationships and arrangement of words",
+              "Only verb patterns",
+              "Only recitation rules",
+              "Only spelling"
+            ],
+            "why": "Nahw studies how words combine into sentences and how their inflection is determined."
+          }
+        },
+        {
+          "q": "بامعنی اکیلے لفظ کو کیا کہتے ہیں؟",
+          "opts": [
+            "عبارت",
+            "کلمہ",
+            "مرکب",
+            "جملہ"
+          ],
+          "a": 1,
+          "why": "ایک معنی رکھنے والا مفرد لفظ کلمہ کہلاتا ہے۔",
+          "page": 3,
+          "level": "بنیادی",
+          "topic": "علمِ نحو، لفظ اور کلمہ",
+          "en": {
+            "q": "What is a single meaningful word called?",
+            "opts": [
+              "Passage",
+              "كَلِمَة (word)",
+              "Compound expression",
+              "Sentence"
+            ],
+            "why": "A single word with meaning is called a kalimah."
+          }
+        },
+        {
+          "q": "کلمہ کی بنیادی کتنی قسمیں ہیں؟",
+          "opts": [
+            "چار",
+            "پانچ",
+            "تین",
+            "دو"
+          ],
+          "a": 2,
+          "why": "کلمے کی اقسام اسم، فعل اور حرف ہیں۔",
+          "page": 3,
+          "level": "متوسط",
+          "topic": "علمِ نحو، لفظ اور کلمہ",
+          "en": {
+            "q": "How many basic categories of words are there?",
+            "opts": [
+              "Four",
+              "Five",
+              "Three",
+              "Two"
+            ],
+            "why": "The categories are noun, verb and particle."
+          }
+        },
+        {
+          "q": "«رَجُلٌ» کس قسم کا کلمہ ہے؟",
+          "opts": [
+            "فعل",
+            "حرف",
+            "جملہ",
+            "اسم"
+          ],
+          "a": 3,
+          "why": "رَجُلٌ ایک شخص کا نام یا معنی ظاہر کرتا ہے، زمانہ نہیں۔",
+          "page": 3,
+          "level": "متوسط",
+          "topic": "علمِ نحو، لفظ اور کلمہ",
+          "en": {
+            "q": "Which category of word is رَجُلٌ?",
+            "opts": [
+              "Verb",
+              "Particle",
+              "Sentence",
+              "Noun"
+            ],
+            "why": "رَجُلٌ denotes a person without expressing tense."
+          }
+        },
+        {
+          "q": "«كَتَبَ» کس قسم کا کلمہ ہے؟",
+          "opts": [
+            "فعل",
+            "اسم",
+            "حرف",
+            "موصول"
+          ],
+          "a": 0,
+          "why": "كَتَبَ لکھنے کا کام ماضی میں ہونے کو ظاہر کرتا ہے۔",
+          "page": 3,
+          "level": "عملی",
+          "topic": "علمِ نحو، لفظ اور کلمہ",
+          "en": {
+            "q": "Which category of word is كَتَبَ?",
+            "opts": [
+              "Verb",
+              "Noun",
+              "Particle",
+              "Relative pronoun"
+            ],
+            "why": "كَتَبَ expresses the action of writing in the past."
+          }
+        },
+        {
+          "q": "«مِنْ» کی نحوی قسم کیا ہے؟",
+          "opts": [
+            "صفت",
+            "حرف",
+            "اسم",
+            "فعل"
+          ],
+          "a": 1,
+          "why": "مِنْ حرفِ جر ہے جس کا تعلق دوسرے کلمے سے ہوتا ہے۔",
+          "page": 3,
+          "level": "عملی",
+          "topic": "علمِ نحو، لفظ اور کلمہ",
+          "en": {
+            "q": "What is the grammatical category of مِنْ?",
+            "opts": [
+              "Adjective",
+              "Particle",
+              "Noun",
+              "Verb"
+            ],
+            "why": "مِنْ is a preposition whose meaning relates to another word."
+          }
+        },
+        {
+          "q": "«لَفْظٌ مُهْمَلٌ» کی خصوصیت کیا ہے؟",
+          "opts": [
+            "ہمیشہ معرفہ ہوتا ہے",
+            "ہمیشہ منصوب ہوتا ہے",
+            "اہلِ زبان کے وضع کردہ معنی کے بغیر ہوتا ہے",
+            "ہمیشہ فعل ماضی ہوتا ہے"
+          ],
+          "a": 2,
+          "why": "مہمل لفظ زبان میں کسی مقررہ معنی کے لیے وضع نہیں کیا گیا ہوتا۔",
+          "page": 3,
+          "level": "اعادہ",
+          "topic": "علمِ نحو، لفظ اور کلمہ",
+          "en": {
+            "q": "What characterizes a لَفْظٌ مُهْمَلٌ (unassigned utterance)?",
+            "opts": [
+              "It is always definite",
+              "It is always accusative",
+              "It has no meaning conventionally assigned by speakers",
+              "It is always a past-tense verb"
+            ],
+            "why": "An unassigned utterance has not been established for a specific meaning in the language."
+          }
+        }
+      ],
+      "title_en": "Syntax, utterances and words"
+    },
+    {
+      "lesson": 2,
+      "book_lesson_number": 2,
+      "title": "اسم، فعل، حرف اور مشتق",
+      "pages": "4",
+      "page_start": 4,
+      "page_end": 4,
+      "desc": "اسم کی علامتیں، فعل کی قسمیں، مصدر، جامد اور مشتق",
+      "questions": [
+        {
+          "q": "اسم کو پہچاننے کی عام علامت کیا ہے؟",
+          "opts": [
+            "لازماً زمانہ بتاتا ہے",
+            "اس پر «ال» داخل ہو سکتا ہے",
+            "اس سے امر بنتا ہے",
+            "ہمیشہ آخر میں سکون ہوتا ہے"
+          ],
+          "a": 1,
+          "why": "الاسم پر ال کا داخل ہونا اس کی علامات میں سے ہے؛ ہر اسم پر ال نہیں آتا۔",
+          "page": 4,
+          "level": "بنیادی",
+          "topic": "اسم، فعل، حرف اور مشتق",
+          "en": {
+            "q": "What is the common sign to recognize a noun?",
+            "opts": [
+              "It necessarily indicates tense",
+              "It can take «ال»",
+              "Commands are formed from it",
+              "It always ends with a sukoon"
+            ],
+            "why": "The entry of «ال» on the noun is among its signs; however, «ال» does not come on every noun."
+          }
+        },
+        {
+          "q": "«الْكِتَابُ» میں «الْ» کس چیز کی علامت ہے؟",
+          "opts": [
+            "حرف ہونے کی",
+            "جزم کی",
+            "اسم ہونے کی",
+            "فعل ہونے کی"
+          ],
+          "a": 2,
+          "why": "ال اکثر اسم کے ساتھ آتا ہے، فعل کے ساتھ نہیں۔",
+          "page": 4,
+          "level": "بنیادی",
+          "topic": "اسم، فعل، حرف اور مشتق",
+          "en": {
+            "q": "In «الْكِتَابُ», what is the sign of «الْ»?",
+            "opts": [
+              "Indication of a particle",
+              "Indication of jussive",
+              "Indication of a noun",
+              "Indication of a verb"
+            ],
+            "why": "«ال» mostly comes with a noun and not with a verb."
+          }
+        },
+        {
+          "q": "«يَكْتُبُ» سے کون سا زمانہ ظاہر ہوتا ہے؟",
+          "opts": [
+            "صرف گزشتہ زمانہ",
+            "صرف حکم",
+            "کوئی زمانہ نہیں",
+            "حال یا استقبال"
+          ],
+          "a": 3,
+          "why": "فعلِ مضارع حال یا آنے والے زمانے پر دلالت کرتا ہے۔",
+          "page": 4,
+          "level": "متوسط",
+          "topic": "اسم، فعل، حرف اور مشتق",
+          "en": {
+            "q": "Which tense is indicated by «يَكْتُبُ»?",
+            "opts": [
+              "Only past tense",
+              "Only imperative",
+              "No tense",
+              "Present or future"
+            ],
+            "why": "The present tense verb indicates the present or the upcoming (future) time."
+          }
+        },
+        {
+          "q": "فعلِ امر کی مثال کون سی ہے؟",
+          "opts": [
+            "اُكْتُبْ",
+            "كَتَبَ",
+            "كِتَابٌ",
+            "فِي"
+          ],
+          "a": 0,
+          "why": "اُكْتُبْ مخاطب سے لکھنے کا مطالبہ یا حکم ہے۔",
+          "page": 4,
+          "level": "متوسط",
+          "topic": "اسم، فعل، حرف اور مشتق",
+          "en": {
+            "q": "Which is an example of an imperative verb?",
+            "opts": [
+              "اُكْتُبْ",
+              "كَتَبَ",
+              "كِتَابٌ",
+              "فِي"
+            ],
+            "why": "اُكْتُبْ is a command or request from the addressee to write."
+          }
+        },
+        {
+          "q": "مصدر «ضَرْبٌ» میں بنیادی مفہوم کیا ہے؟",
+          "opts": [
+            "مارنے والا",
+            "مارنے کا کام، زمانے کی تعیین کے بغیر",
+            "وہ مارے گا",
+            "تم نے مارا"
+          ],
+          "a": 1,
+          "why": "مصدر کام کا نام ہوتا ہے اور بذاتِ خود ماضی و حال کا تعین نہیں کرتا۔",
+          "page": 4,
+          "level": "عملی",
+          "topic": "اسم، فعل، حرف اور مشتق",
+          "en": {
+            "q": "What is the basic meaning in the verbal noun «ضَرْبٌ»?",
+            "opts": [
+              "The one who hits",
+              "The act of hitting, without specification of tense",
+              "He will hit",
+              "You hit"
+            ],
+            "why": "The verbal noun denotes the name of the act itself and does not specify past or present tense by itself."
+          }
+        },
+        {
+          "q": "وہ اسم جو دوسرے لفظ سے بنا ہو کیا کہلاتا ہے؟",
+          "opts": [
+            "حرف",
+            "ضمیر",
+            "مشتق",
+            "جامد"
+          ],
+          "a": 2,
+          "why": "مشتق کی بنیاد کسی دوسرے لفظ یا مادے میں ہوتی ہے؛ مثلاً كَاتِبٌ۔",
+          "page": 4,
+          "level": "عملی",
+          "topic": "اسم، فعل، حرف اور مشتق",
+          "en": {
+            "q": "What is a noun called that is derived from another word?",
+            "opts": [
+              "Particle",
+              "Pronoun",
+              "Derived",
+              "Non-derived"
+            ],
+            "why": "A derived word is based on another word or root; for example, كَاتِبٌ."
+          }
+        },
+        {
+          "q": "«رَجُلٌ» مشتق اور جامد میں کس قسم کا عام نمونہ ہے؟",
+          "opts": [
+            "اسم مشتق",
+            "فعل مضارع",
+            "حرف شرط",
+            "اسم جامد"
+          ],
+          "a": 3,
+          "why": "رَجُلٌ کسی دوسرے لفظ سے صیغہ بنا کر نہیں لیا گیا، اس لیے جامد کی مثال ہے۔",
+          "page": 4,
+          "level": "اعادہ",
+          "topic": "اسم، فعل، حرف اور مشتق",
+          "en": {
+            "q": "What common category does «رَجُلٌ» represent among derived and non-derived words?",
+            "opts": [
+              "Derived noun",
+              "Present tense verb",
+              "Conditional particle",
+              "Non-derived noun"
+            ],
+            "why": "رَجُلٌ is not formed by deriving from another word, so it is an example of a non-derived noun."
+          }
+        }
+      ],
+      "title_en": "Nouns, verbs, particles and derived words"
+    },
+    {
+      "lesson": 3,
+      "book_lesson_number": 3,
+      "title": "مرکب اور جملہ کی قسمیں",
+      "pages": "5",
+      "page_start": 5,
+      "page_end": 5,
+      "desc": "مرکب مفید، غیر مفید، جملہ اسمیہ و فعلیہ، خبریہ و انشائیہ",
+      "questions": [
+        {
+          "q": "دو یا زیادہ کلمات کا مجموعہ کیا کہلاتا ہے؟",
+          "opts": [
+            "ضمیر",
+            "اعراب",
+            "مرکب",
+            "مصدر"
+          ],
+          "a": 2,
+          "why": "متعدد کلمات کے ملنے کو مرکب کہتے ہیں۔",
+          "page": 5,
+          "level": "بنیادی",
+          "topic": "مرکب اور جملہ کی قسمیں",
+          "en": {
+            "q": "What is the term for a combination of two or more words?",
+            "opts": [
+              "Pronoun",
+              "Case ending (I‘rāb)",
+              "Compound",
+              "Verbal noun (Maṣdar)"
+            ],
+            "why": "The combination of multiple words is called a compound."
+          }
+        },
+        {
+          "q": "«زَيْدٌ قَائِمٌ» کی نحوی حیثیت کیا ہے؟",
+          "opts": [
+            "جملہ فعلیہ",
+            "صرف اسم",
+            "مرکب ناقص",
+            "جملہ اسمیہ"
+          ],
+          "a": 3,
+          "why": "زَيْدٌ سے جملہ شروع ہوا ہے اور خبر قَائِمٌ ہے۔",
+          "page": 5,
+          "level": "بنیادی",
+          "topic": "مرکب اور جملہ کی قسمیں",
+          "en": {
+            "q": "What is the grammatical status of «زَيْدٌ قَائِمٌ»?",
+            "opts": [
+              "Verbal sentence (Jumla Fi‘liyya)",
+              "Only noun",
+              "Incomplete compound",
+              "Nominal sentence (Jumla Ismiyya)"
+            ],
+            "why": "The sentence begins with زَيْدٌ and the predicate is قَائِمٌ."
+          }
+        },
+        {
+          "q": "«جَاءَ زَيْدٌ» کس قسم کا جملہ ہے؟",
+          "opts": [
+            "جملہ فعلیہ",
+            "جملہ اسمیہ",
+            "مرکب اضافی",
+            "جملہ شرطیہ"
+          ],
+          "a": 0,
+          "why": "فعل جَاءَ پہلے آیا ہے، اس لیے جملہ فعلیہ ہے۔",
+          "page": 5,
+          "level": "متوسط",
+          "topic": "مرکب اور جملہ کی قسمیں",
+          "en": {
+            "q": "What type of sentence is «جَاءَ زَيْدٌ»?",
+            "opts": [
+              "Verbal sentence (Jumla Fi‘liyya)",
+              "Nominal sentence (Jumla Ismiyya)",
+              "Construct phrase (Idāfa)",
+              "Conditional sentence"
+            ],
+            "why": "The verb جَاءَ appears first, so it is a verbal sentence."
+          }
+        },
+        {
+          "q": "«غُلَامُ زَيْدٍ» کس قسم کا مرکب ہے؟",
+          "opts": [
+            "جملہ فعلیہ",
+            "مرکب اضافی",
+            "مرکب توصیفی",
+            "جملہ انشائیہ"
+          ],
+          "a": 1,
+          "why": "غُلَامُ مضاف اور زَيْدٍ مضاف الیہ ہے۔",
+          "page": 5,
+          "level": "متوسط",
+          "topic": "مرکب اور جملہ کی قسمیں",
+          "en": {
+            "q": "What type of compound is «غُلَامُ زَيْدٍ»?",
+            "opts": [
+              "Verbal sentence (Jumla Fi‘liyya)",
+              "Construct phrase (Idāfa)",
+              "Descriptive compound",
+              "Declarative sentence"
+            ],
+            "why": "غُلَامُ is the first term (Muḍāf) and زَيْدٍ is the second term (Muḍāf ilayh)."
+          }
+        },
+        {
+          "q": "«الرَّجُلُ الصَّالِحُ» کی ترکیب کیا ہے؟",
+          "opts": [
+            "جملہ فعلیہ",
+            "حرفِ جر",
+            "مرکب توصیفی",
+            "مرکب اضافی"
+          ],
+          "a": 2,
+          "why": "الصَّالِحُ، الرَّجُلُ کی صفت ہے، اس لیے توصیفی مرکب ہے۔",
+          "page": 5,
+          "level": "عملی",
+          "topic": "مرکب اور جملہ کی قسمیں",
+          "en": {
+            "q": "What is the syntactic structure of «الرَّجُلُ الصَّالِحُ»?",
+            "opts": [
+              "Verbal sentence (Jumla Fi‘liyya)",
+              "Preposition (Ḥarf Jar)",
+              "Descriptive compound",
+              "Construct phrase (Idāfa)"
+            ],
+            "why": "الصَّالِحُ is an adjective (Ṣifa) of الرَّجُلُ, therefore it is a descriptive compound."
+          }
+        },
+        {
+          "q": "ایسا مرکب جس سے بات پوری سمجھ میں آ جائے کیا ہے؟",
+          "opts": [
+            "مرکب غیر مفید",
+            "مصدر",
+            "اسم مبنی",
+            "مرکب مفید"
+          ],
+          "a": 3,
+          "why": "پوری بات بتانے والا مرکب مفید کہلاتا ہے۔",
+          "page": 5,
+          "level": "عملی",
+          "topic": "مرکب اور جملہ کی قسمیں",
+          "en": {
+            "q": "What is a compound from which the entire meaning is understood?",
+            "opts": [
+              "Useless compound",
+              "Verbal noun (masdar)",
+              "Indeclinable noun (Ism Mabni)",
+              "Useful compound"
+            ],
+            "why": "A compound that conveys the entire meaning is called a useful compound."
+          }
+        },
+        {
+          "q": "«هَلْ جَاءَ زَيْدٌ؟» کس نوع کے جملے کی مثال ہے؟",
+          "opts": [
+            "جملہ انشائیہ",
+            "جملہ خبریہ",
+            "مرکب اضافی",
+            "صرف مفرد"
+          ],
+          "a": 0,
+          "why": "سوالیہ جملہ انشائیہ ہوتا ہے؛ اس کو خبر کی طرح سچا یا جھوٹا نہیں کہتے۔",
+          "page": 5,
+          "level": "اعادہ",
+          "topic": "مرکب اور جملہ کی قسمیں",
+          "en": {
+            "q": "«هَلْ جَاءَ زَيْدٌ؟» is an example of which type of sentence?",
+            "opts": [
+              "Interrogative sentence (Jumla Inshaiya)",
+              "Declarative sentence (Jumla Khabariyya)",
+              "Idafa compound (Murakkab Idhafi)",
+              "Only singular"
+            ],
+            "why": "An interrogative sentence is called Jumla Inshaiya; it is not termed true or false like a declarative sentence."
+          }
+        }
+      ],
+      "title_en": "Phrases and types of sentences"
+    },
+    {
+      "lesson": 4,
+      "book_lesson_number": 4,
+      "title": "واحد، تثنیہ اور جمع",
+      "pages": "6",
+      "page_start": 6,
+      "page_end": 6,
+      "desc": "عدد کے اعتبار سے اسم کی صورتیں اور سالم و مکسر جمع",
+      "questions": [
+        {
+          "q": "ایک فرد یا ایک چیز کے لیے اسم کی قسم کیا ہے؟",
+          "opts": [
+            "تثنیہ",
+            "جمع",
+            "مبنی",
+            "واحد"
+          ],
+          "a": 3,
+          "why": "ایک کے لیے واحد کا صیغہ استعمال ہوتا ہے۔",
+          "page": 6,
+          "level": "بنیادی",
+          "topic": "واحد، تثنیہ اور جمع",
+          "en": {
+            "q": "What is the type of noun used for one individual or one thing?",
+            "opts": [
+              "Dual",
+              "Plural",
+              "Conjugated",
+              "Singular"
+            ],
+            "why": "The form of singular is used for one."
+          }
+        },
+        {
+          "q": "«رَجُلَانِ» کس کی مثال ہے؟",
+          "opts": [
+            "تثنیہ",
+            "واحد",
+            "جمع مذکر سالم",
+            "جمع مکسر"
+          ],
+          "a": 0,
+          "why": "رَجُلَانِ دو مردوں کے لیے ہے۔",
+          "page": 6,
+          "level": "بنیادی",
+          "topic": "واحد، تثنیہ اور جمع",
+          "en": {
+            "q": "«رَجُلَانِ» is an example of which?",
+            "opts": [
+              "Dual",
+              "Singular",
+              "Sound masculine plural",
+              "Broken plural"
+            ],
+            "why": "رَجُلَانِ refers to two men."
+          }
+        },
+        {
+          "q": "«مُسْلِمُونَ» کس جمع کی مثال ہے؟",
+          "opts": [
+            "اسم واحد",
+            "جمع مذکر سالم",
+            "جمع مؤنث سالم",
+            "جمع مکسر"
+          ],
+          "a": 1,
+          "why": "مسلمون کے آخر میں واو نون کی اضافہ سے سالم جمع بنی ہے۔",
+          "page": 6,
+          "level": "متوسط",
+          "topic": "واحد، تثنیہ اور جمع",
+          "en": {
+            "q": "«مُسْلِمُونَ» is an example of which type of plural?",
+            "opts": [
+              "Singular noun",
+              "Sound masculine plural",
+              "Sound feminine plural",
+              "Broken plural"
+            ],
+            "why": "The ending واو نون in مُسْلِمُونَ forms the sound masculine plural."
+          }
+        },
+        {
+          "q": "«مُسْلِمَاتٌ» کس نوع کی جمع ہے؟",
+          "opts": [
+            "جمع مکسر",
+            "تثنیہ",
+            "جمع مؤنث سالم",
+            "جمع مذکر سالم"
+          ],
+          "a": 2,
+          "why": "مؤنث کی جمع الف تاء کے ساتھ تشکیل پاتی ہے۔",
+          "page": 6,
+          "level": "متوسط",
+          "topic": "واحد، تثنیہ اور جمع",
+          "en": {
+            "q": "«مُسْلِمَاتٌ» is which kind of plural?",
+            "opts": [
+              "Broken plural",
+              "Dual",
+              "Sound feminine plural",
+              "Sound masculine plural"
+            ],
+            "why": "The feminine plural is formed with ألف تاء ending."
+          }
+        },
+        {
+          "q": "«رِجَالٌ» کس جمع کی مثال ہے؟",
+          "opts": [
+            "جمع مذکر سالم",
+            "جمع مؤنث سالم",
+            "اسم تثنیہ",
+            "جمع مکسر"
+          ],
+          "a": 3,
+          "why": "رَجُلٌ سے رِجَالٌ بننے میں اصل ساخت بدلتی ہے۔",
+          "page": 6,
+          "level": "عملی",
+          "topic": "واحد، تثنیہ اور جمع",
+          "en": {
+            "q": "«رِجَالٌ» is an example of which type of plural?",
+            "opts": [
+              "Sound masculine plural",
+              "Sound feminine plural",
+              "Dual noun",
+              "Broken plural"
+            ],
+            "why": "From رَجُلٌ to رِجَالٌ the original structure changes."
+          }
+        },
+        {
+          "q": "جمع سالم کی پہچان کیا ہے؟",
+          "opts": [
+            "واحد کے بنیادی حروف و ترتیب عموماً محفوظ رہتے ہیں",
+            "ہمیشہ آخر میں یاء حذف ہوتی ہے",
+            "اصل لفظ ٹوٹ جاتا ہے",
+            "وہ صرف واحد کے لیے ہوتا ہے"
+          ],
+          "a": 0,
+          "why": "جمع سالم میں واحد کی اصل ہیئت زیادہ تر برقرار رہتی ہے۔",
+          "page": 6,
+          "level": "عملی",
+          "topic": "واحد، تثنیہ اور جمع",
+          "en": {
+            "q": "What is the characteristic of the sound plural (جمع سالم)?",
+            "opts": [
+              "The basic letters and order of the singular generally remain intact",
+              "The final yaa is always omitted",
+              "The original word breaks apart",
+              "It is only for the singular"
+            ],
+            "why": "In the sound plural, the original form of the singular mostly remains intact."
+          }
+        },
+        {
+          "q": "«كِتَابٌ → كُتُبٌ» کس تبدیلی کو دکھاتا ہے؟",
+          "opts": [
+            "تثنیہ",
+            "جمع مکسر",
+            "جمع مذکر سالم",
+            "جمع مؤنث سالم"
+          ],
+          "a": 1,
+          "why": "كُتُبٌ میں واحد كِتَابٌ کا اندرونی وزن بدل گیا ہے۔",
+          "page": 6,
+          "level": "اعادہ",
+          "topic": "واحد، تثنیہ اور جمع",
+          "en": {
+            "q": "What kind of change does «كِتَابٌ → كُتُبٌ» show?",
+            "opts": [
+              "Dual",
+              "Broken plural",
+              "Sound masculine plural",
+              "Sound feminine plural"
+            ],
+            "why": "In كُتُبٌ, the internal pattern of the singular كِتَابٌ has changed."
+          }
+        }
+      ],
+      "title_en": "Singular, dual and plural"
+    },
+    {
+      "lesson": 5,
+      "book_lesson_number": 5,
+      "title": "مذکر اور مؤنث",
+      "pages": "7",
+      "page_start": 7,
+      "page_end": 7,
+      "desc": "مذکر و مؤنث حقیقی، مجازی، قیاسی اور سماعی کی پہچان",
+      "questions": [
+        {
+          "q": "«رَجُلٌ» جنس کے اعتبار سے کیا ہے؟",
+          "opts": [
+            "مذکر",
+            "مؤنث",
+            "تثنیہ",
+            "جمع"
+          ],
+          "a": 0,
+          "why": "رَجُلٌ مرد کے لیے آتا ہے، لہٰذا مذکر ہے۔",
+          "page": 7,
+          "level": "بنیادی",
+          "topic": "مذکر اور مؤنث",
+          "en": {
+            "q": "What is the gender of «رَجُلٌ»?",
+            "opts": [
+              "Masculine",
+              "Feminine",
+              "Dual",
+              "Plural"
+            ],
+            "why": "رَجُلٌ is used for a man; therefore, it is masculine."
+          }
+        },
+        {
+          "q": "«اِمْرَأَةٌ» جنس کے لحاظ سے کیا ہے؟",
+          "opts": [
+            "فعل",
+            "مؤنث",
+            "مذکر",
+            "حرف"
+          ],
+          "a": 1,
+          "why": "اِمْرَأَةٌ عورت کے لیے آتا ہے اور مؤنث ہے۔",
+          "page": 7,
+          "level": "بنیادی",
+          "topic": "مذکر اور مؤنث",
+          "en": {
+            "q": "What is the gender of «اِمْرَأَةٌ»?",
+            "opts": [
+              "Verb",
+              "Feminine",
+              "Masculine",
+              "Particle"
+            ],
+            "why": "اِمْرَأَةٌ is used for a woman and is feminine."
+          }
+        },
+        {
+          "q": "«فَاطِمَةُ» کی مؤنث ہونے کی نوعیت کیا ہے؟",
+          "opts": [
+            "جمع مذکر",
+            "حرف",
+            "مؤنث حقیقی",
+            "مذکر مجازی"
+          ],
+          "a": 2,
+          "why": "فاطمہ کسی عورت کا نام ہے، اس لیے حقیقی مؤنث ہے۔",
+          "page": 7,
+          "level": "متوسط",
+          "topic": "مذکر اور مؤنث",
+          "en": {
+            "q": "What type of femininity does «فَاطِمَةُ» have?",
+            "opts": [
+              "Masculine plural",
+              "Particle",
+              "Real feminine",
+              "Metaphorical masculine"
+            ],
+            "why": "فاطمہ is the name of a woman; therefore, it is real feminine."
+          }
+        },
+        {
+          "q": "«أَرْضٌ» عام استعمال میں کیا ہے؟",
+          "opts": [
+            "مذکر حقیقی",
+            "جمع سالم",
+            "فعل مضارع",
+            "مؤنث سماعی"
+          ],
+          "a": 3,
+          "why": "أرض کو عربی استعمال میں مؤنث مانا جاتا ہے، باوجود ظاہری تاء کے نہ ہونے کے۔",
+          "page": 7,
+          "level": "متوسط",
+          "topic": "مذکر اور مؤنث",
+          "en": {
+            "q": "What is the common usage of «أَرْضٌ»?",
+            "opts": [
+              "Real masculine",
+              "Sound plural",
+              "Present tense verb",
+              "Sama'i (conventional) feminine"
+            ],
+            "why": "In Arabic usage, أَرْضٌ is considered feminine despite lacking a visible tāʾ marbūṭa (ة)."
+          }
+        },
+        {
+          "q": "«طَلْحَةُ» میں ظاہری تاءِ تانیث ہونے کے باوجود مسمّیٰ کیا ہے؟",
+          "opts": [
+            "مذکر علم",
+            "مؤنث حقیقی",
+            "جمع مؤنث",
+            "فعل امر"
+          ],
+          "a": 0,
+          "why": "طلحہ مرد کا نام ہو سکتا ہے؛ صرف تاء دیکھ کر شخص کی جنس طے نہیں ہوتی۔",
+          "page": 7,
+          "level": "عملی",
+          "topic": "مذکر اور مؤنث",
+          "en": {
+            "q": "Despite the apparent feminine tāʾ, what is the gender of the proper noun «طَلْحَةُ»?",
+            "opts": [
+              "Masculine proper noun",
+              "Real feminine",
+              "Feminine plural",
+              "Imperative verb"
+            ],
+            "why": "طلحہ can be a man's name; gender is not determined solely by the presence of tāʾ marbūṭa."
+          }
+        },
+        {
+          "q": "مؤنث قیاسی کی عام علامت کیا ہے؟",
+          "opts": [
+            "یائے متکلم",
+            "تاء مربوطة «ة»",
+            "واو جماعت",
+            "حرفِ جر"
+          ],
+          "a": 1,
+          "why": "بہت سے مؤنث اسماء تاء مربوطة کے ساتھ آتے ہیں۔",
+          "page": 7,
+          "level": "عملی",
+          "topic": "مذکر اور مؤنث",
+          "en": {
+            "q": "What is the common sign of the feminine analogical noun?",
+            "opts": [
+              "First person singular yaa",
+              "Taa Marbouta «ة»",
+              "Waw of plural",
+              "Preposition"
+            ],
+            "why": "Many feminine nouns come with Taa Marbouta."
+          }
+        },
+        {
+          "q": "«أُمٌّ» کس طرح کا اسم ہے؟",
+          "opts": [
+            "جمع مکسر",
+            "صفت مذکر",
+            "مؤنث حقیقی",
+            "مذکر مجازی"
+          ],
+          "a": 2,
+          "why": "أمٌّ ماں کا نام ہے، اس لیے مؤنث حقیقی ہے۔",
+          "page": 7,
+          "level": "اعادہ",
+          "topic": "مذکر اور مؤنث",
+          "en": {
+            "q": "What type of noun is «أُمٌّ»?",
+            "opts": [
+              "Broken plural",
+              "Masculine adjective",
+              "Real feminine",
+              "Figurative masculine"
+            ],
+            "why": "أمٌّ is the name for mother, therefore it is real feminine."
+          }
+        }
+      ],
+      "title_en": "Masculine and feminine"
+    },
+    {
+      "lesson": 6,
+      "book_lesson_number": 6,
+      "title": "معرفہ اور نکرہ",
+      "pages": "8",
+      "page_start": 8,
+      "page_end": 8,
+      "desc": "تعین و عدم تعین، علم، ضمیر، اشارہ، موصول اور ال",
+      "questions": [
+        {
+          "q": "«رَجُلٌ» عام حالت میں کیا ہے؟",
+          "opts": [
+            "اسم موصول",
+            "نکرہ",
+            "معرفہ",
+            "ضمیر"
+          ],
+          "a": 1,
+          "why": "رَجُلٌ کسی غیر متعین مرد پر دلالت کرتا ہے۔",
+          "page": 8,
+          "level": "بنیادی",
+          "topic": "معرفہ اور نکرہ",
+          "en": {
+            "q": "What is «رَجُلٌ» in the general state?",
+            "opts": [
+              "Relative noun",
+              "Indefinite noun",
+              "Definite noun",
+              "Pronoun"
+            ],
+            "why": "رَجُلٌ refers to an unspecified man."
+          }
+        },
+        {
+          "q": "«الرَّجُلُ» کس قسم کا اسم ہے؟",
+          "opts": [
+            "حرف",
+            "فعل",
+            "معرفہ",
+            "نکرہ"
+          ],
+          "a": 2,
+          "why": "ال کا داخل ہونا اسے متعین بنا رہا ہے۔",
+          "page": 8,
+          "level": "بنیادی",
+          "topic": "معرفہ اور نکرہ",
+          "en": {
+            "q": "What type of noun is «الرَّجُلُ»?",
+            "opts": [
+              "Particle",
+              "Verb",
+              "Definite noun",
+              "Indefinite noun"
+            ],
+            "why": "The addition of الـ (al) makes it definite."
+          }
+        },
+        {
+          "q": "«مُحَمَّدٌ» کس نوع کی معرفہ ہے؟",
+          "opts": [
+            "اسم نکرہ",
+            "اسم ظرف",
+            "مصدر",
+            "اسمِ علم"
+          ],
+          "a": 3,
+          "why": "محمد ایک شخص کا خاص نام ہے۔",
+          "page": 8,
+          "level": "متوسط",
+          "topic": "معرفہ اور نکرہ",
+          "en": {
+            "q": "What kind of definite noun is «مُحَمَّدٌ»?",
+            "opts": [
+              "Indefinite noun",
+              "Adverbial noun",
+              "Verbal noun",
+              "Proper noun"
+            ],
+            "why": "محمد is a proper name of a person."
+          }
+        },
+        {
+          "q": "«هُوَ» کس قسم کی معرفہ ہے؟",
+          "opts": [
+            "ضمیر",
+            "مصدر",
+            "نکرہ",
+            "صفت مشبہ"
+          ],
+          "a": 0,
+          "why": "ضمائر اسمائے معرفہ میں شامل ہیں۔",
+          "page": 8,
+          "level": "متوسط",
+          "topic": "معرفہ اور نکرہ",
+          "en": {
+            "q": "What kind of definite noun is «هُوَ»?",
+            "opts": [
+              "Pronoun",
+              "Verbal noun",
+              "Indefinite noun",
+              "Qualitative adjective"
+            ],
+            "why": "Pronouns are included among definite nouns."
+          }
+        },
+        {
+          "q": "«هَذَا» کون سی قسم کی معرفہ ہے؟",
+          "opts": [
+            "اسم نکرہ",
+            "اسم اشارہ",
+            "اسم فاعل",
+            "حرف جر"
+          ],
+          "a": 1,
+          "why": "هذا اشارہ کر کے متعین چیز بتاتا ہے۔",
+          "page": 8,
+          "level": "عملی",
+          "topic": "معرفہ اور نکرہ",
+          "en": {
+            "q": "What type of definite noun is «هَذَا»?",
+            "opts": [
+              "Indefinite noun",
+              "Demonstrative noun",
+              "Active participle",
+              "Preposition"
+            ],
+            "why": "هٰذا indicates and specifies by pointing."
+          }
+        },
+        {
+          "q": "«الَّذِي» کس قسم کی معرفہ ہے؟",
+          "opts": [
+            "فعل امر",
+            "مصدر",
+            "اسم موصول",
+            "اسم عدد"
+          ],
+          "a": 2,
+          "why": "الَّذِي اسم موصول ہے۔",
+          "page": 8,
+          "level": "عملی",
+          "topic": "معرفہ اور نکرہ",
+          "en": {
+            "q": "What kind of definite is «الَّذِي»?",
+            "opts": [
+              "Imperative verb",
+              "Verbal noun",
+              "Relative noun",
+              "Numeral noun"
+            ],
+            "why": "الَّذِي is a relative noun."
+          }
+        },
+        {
+          "q": "«كِتَابُ زَيْدٍ» میں مضاف «كِتَابُ» کس وجہ سے متعین ہے؟",
+          "opts": [
+            "فعل کے سبب",
+            "تثنیہ ہونے سے",
+            "جمع مکسر ہونے سے",
+            "معرفہ کی طرف اضافت سے"
+          ],
+          "a": 3,
+          "why": "معرفہ زید کی طرف اضافت اسم کو متعین کرتی ہے۔",
+          "page": 8,
+          "level": "اعادہ",
+          "topic": "معرفہ اور نکرہ",
+          "en": {
+            "q": "In «كِتَابُ زَيْدٍ», why is the annexed word «كِتَابُ» definite?",
+            "opts": [
+              "Because of the verb",
+              "Because it is dual",
+              "Because it is broken plural",
+              "Because of the annexation to a definite noun"
+            ],
+            "why": "Annexation to the definite noun زيد makes the annexed noun definite."
+          }
+        }
+      ],
+      "title_en": "Definite and indefinite nouns"
+    },
+    {
+      "lesson": 7,
+      "book_lesson_number": 7,
+      "title": "اعراب، معرب اور مبنی",
+      "pages": "9",
+      "page_start": 9,
+      "page_end": 9,
+      "desc": "عامل، معمول، رفع، نصب، جر، جزم اور اعراب کے اثرات",
+      "questions": [
+        {
+          "q": "عامل کے اثر سے لفظ کے آخر میں تبدیلی کو کیا کہتے ہیں؟",
+          "opts": [
+            "معرفہ",
+            "صلہ",
+            "اعراب",
+            "مصدر"
+          ],
+          "a": 2,
+          "why": "عامل کے سبب آخر کی حرکت یا علامت بدلنا اعراب ہے۔",
+          "page": 9,
+          "level": "بنیادی",
+          "topic": "اعراب، معرب اور مبنی",
+          "en": {
+            "q": "What is the change at the end of a word due to the effect of an agent called?",
+            "opts": [
+              "Definiteness (Ma'rifah)",
+              "Connection (Sila)",
+              "Declension (I'rab)",
+              "Verbal noun (Masdar)"
+            ],
+            "why": "The changing of the ending vowel or sign due to an agent is called declension (I'rab)."
+          }
+        },
+        {
+          "q": "جس لفظ میں عامل کی وجہ سے اعراب بدلتا ہو اسے کیا کہتے ہیں؟",
+          "opts": [
+            "مبنی",
+            "جامد",
+            "حرف",
+            "معرب"
+          ],
+          "a": 3,
+          "why": "معرب کے آخری حصے میں مختلف عوامل سے اعراب آتا ہے۔",
+          "page": 9,
+          "level": "بنیادی",
+          "topic": "اعراب، معرب اور مبنی",
+          "en": {
+            "q": "What is the word called in which the declension changes due to an agent?",
+            "opts": [
+              "Declinable (Mu'rabb)",
+              "Fixed (Mabni)",
+              "Particle (Harf)",
+              "Declinable (Mu'rabb)"
+            ],
+            "why": "A declinable word (Mu'rabb) shows different declensions at the end due to various agents."
+          }
+        },
+        {
+          "q": "وہ کلمہ جس کا آخری حصہ اپنی حالت پر قائم رہے کیا ہے؟",
+          "opts": [
+            "مبنی",
+            "معرب",
+            "منصرف",
+            "مضاف"
+          ],
+          "a": 0,
+          "why": "مبنی کا آخر عامل بدلنے سے نہیں بدلتا۔",
+          "page": 9,
+          "level": "متوسط",
+          "topic": "اعراب، معرب اور مبنی",
+          "en": {
+            "q": "What is the word called whose ending remains fixed in its state?",
+            "opts": [
+              "Fixed (Mabni)",
+              "Declinable (Mu'rabb)",
+              "Conjugated (Munsarif)",
+              "Idafa construction (Mudhaaf)"
+            ],
+            "why": "The ending of a fixed word (Mabni) does not change due to agents."
+          }
+        },
+        {
+          "q": "«جَاءَ زَيْدٌ» میں زَيْدٌ کی حالت کون سی ہے؟",
+          "opts": [
+            "مجزوم",
+            "مرفوع",
+            "منصوب",
+            "مجرور"
+          ],
+          "a": 1,
+          "why": "یہاں زید فاعل ہے اور مرفوع ہے۔",
+          "page": 9,
+          "level": "متوسط",
+          "topic": "اعراب، معرب اور مبنی",
+          "en": {
+            "q": "What is the grammatical case of زَيْدٌ in «جَاءَ زَيْدٌ»?",
+            "opts": [
+              "Jussive (Majzum)",
+              "Nominative (Marfoo')",
+              "Accusative (Mansub)",
+              "Genitive (Majrur)"
+            ],
+            "why": "Here, Zayd is the subject (Fa'il) and is in the nominative case (Marfoo')."
+          }
+        },
+        {
+          "q": "«رَأَيْتُ زَيْدًا» میں زَيْدًا کی حالت کیا ہے؟",
+          "opts": [
+            "مجرور",
+            "مجزوم",
+            "منصوب",
+            "مرفوع"
+          ],
+          "a": 2,
+          "why": "رأيتُ کا مفعول بہ منصوب آتا ہے۔",
+          "page": 9,
+          "level": "عملی",
+          "topic": "اعراب، معرب اور مبنی",
+          "en": {
+            "q": "What is the grammatical case of زَيْدًا in «رَأَيْتُ زَيْدًا»?",
+            "opts": [
+              "Genitive (Majrur)",
+              "Jussive (Majzum)",
+              "Accusative (Mansub)",
+              "Nominative (Marfoo')"
+            ],
+            "why": "The object (Maf'ool bihi) of رأيتُ is in the accusative case (Mansub)."
+          }
+        },
+        {
+          "q": "«مَرَرْتُ بِزَيْدٍ» میں زَيْدٍ کی حالت کیا ہے؟",
+          "opts": [
+            "مرفوع",
+            "منصوب",
+            "مجزوم",
+            "مجرور"
+          ],
+          "a": 3,
+          "why": "باء حرفِ جر ہے، اس کے بعد اسم مجرور آتا ہے۔",
+          "page": 9,
+          "level": "عملی",
+          "topic": "اعراب، معرب اور مبنی",
+          "en": {
+            "q": "What is the grammatical case of \"زَيْدٍ\" in the sentence «مَرَرْتُ بِزَيْدٍ»?",
+            "opts": [
+              "Nominative",
+              "Accusative",
+              "Jussive",
+              "Genitive"
+            ],
+            "why": "The letter 'ب' is a preposition; a noun following it is in the genitive case."
+          }
+        },
+        {
+          "q": "فعلِ مضارع پر «لَمْ» داخل ہو تو عام حالت میں کیا اثر ہوتا ہے؟",
+          "opts": [
+            "جزم",
+            "جر",
+            "تنوین",
+            "تثنیہ"
+          ],
+          "a": 0,
+          "why": "لمْ فعلِ مضارع کو مجزوم کرتا ہے۔",
+          "page": 9,
+          "level": "اعادہ",
+          "topic": "اعراب، معرب اور مبنی",
+          "en": {
+            "q": "What is the usual grammatical effect when \"لَمْ\" is applied to a present tense verb?",
+            "opts": [
+              "Jussive",
+              "Genitive",
+              "Nunation",
+              "Dual"
+            ],
+            "why": "The particle 'لَمْ' causes the present tense verb to be in the jussive mood."
+          }
+        }
+      ],
+      "title_en": "Inflection, declinable and indeclinable words"
+    },
+    {
+      "lesson": 8,
+      "book_lesson_number": 8,
+      "title": "مبنیات اور ضمائر",
+      "pages": "10",
+      "page_start": 10,
+      "page_end": 10,
+      "desc": "ضمیر متصل و منفصل اور مرفوع و منصوب کی مثالیں",
+      "questions": [
+        {
+          "q": "«أَنَا» ضمیر کی کس قسم کی مثال ہے؟",
+          "opts": [
+            "متصل",
+            "اسم فاعل",
+            "اسم موصول",
+            "منفصل"
+          ],
+          "a": 3,
+          "why": "انا الگ لکھا جانے والا ضمیر منفصل ہے۔",
+          "page": 10,
+          "level": "بنیادی",
+          "topic": "مبنیات اور ضمائر",
+          "en": {
+            "q": "What type of pronoun is «أَنَا» an example of?",
+            "opts": [
+              "Attached",
+              "Active participle",
+              "Relative pronoun",
+              "Separate"
+            ],
+            "why": "أَنَا is a separately written pronoun, hence it is separate."
+          }
+        },
+        {
+          "q": "«هُوَ» کس قسم کا ضمیر ہے؟",
+          "opts": [
+            "مرفوع منفصل",
+            "منصوب متصل",
+            "مجرور متصل",
+            "حرف"
+          ],
+          "a": 0,
+          "why": "هو ضمیر منفصل اور حالتِ رفع کا صیغہ ہے۔",
+          "page": 10,
+          "level": "بنیادی",
+          "topic": "مبنیات اور ضمائر",
+          "en": {
+            "q": "What type of pronoun is «هُوَ»?",
+            "opts": [
+              "Separate nominative",
+              "Attached accusative",
+              "Attached genitive",
+              "Particle"
+            ],
+            "why": "هُوَ is a separate pronoun in the nominative case."
+          }
+        },
+        {
+          "q": "«كَتَبْتُ» میں «تُ» کس قسم کا ضمیر ہے؟",
+          "opts": [
+            "موصول",
+            "مرفوع متصل",
+            "منصوب منفصل",
+            "حرف جر"
+          ],
+          "a": 1,
+          "why": "تاء فاعل فعل کے ساتھ جڑ کر فاعل بنتی ہے۔",
+          "page": 10,
+          "level": "متوسط",
+          "topic": "مبنیات اور ضمائر",
+          "en": {
+            "q": "In «كَتَبْتُ», what type of pronoun is the «تُ»?",
+            "opts": [
+              "Relative",
+              "Attached nominative",
+              "Separate accusative",
+              "Preposition"
+            ],
+            "why": "The تاء here is the subject attached to the verb, forming the subject pronoun."
+          }
+        },
+        {
+          "q": "«نَصَرَهُ» میں «هُ» کس نوع کا ضمیر ہے؟",
+          "opts": [
+            "اسم نکرہ",
+            "جمع مذکر سالم",
+            "منصوب متصل",
+            "مرفوع منفصل"
+          ],
+          "a": 2,
+          "why": "نَصَرَهُ میں ہُ مفعول بہ کے محل میں ضمیر متصل ہے۔",
+          "page": 10,
+          "level": "متوسط",
+          "topic": "مبنیات اور ضمائر",
+          "en": {
+            "q": "In «نَصَرَهُ», what type of pronoun is «هُ»?",
+            "opts": [
+              "Indefinite noun",
+              "Sound masculine plural",
+              "Attached accusative",
+              "Separate nominative"
+            ],
+            "why": "In نَصَرَهُ, the هُ is an attached pronoun in the object position (accusative)."
+          }
+        },
+        {
+          "q": "«إِيَّاكَ نَعْبُدُ» میں «إِيَّاكَ» کا محل کیا ہے؟",
+          "opts": [
+            "رفع",
+            "جر",
+            "جزم",
+            "نصب"
+          ],
+          "a": 3,
+          "why": "إِيَّاكَ ضمیر منصوب منفصل ہے، عبادت کا مفعول ہے۔",
+          "page": 10,
+          "level": "عملی",
+          "topic": "مبنیات اور ضمائر",
+          "en": {
+            "q": "In «إِيَّاكَ نَعْبُدُ», what is the grammatical position of «إِيَّاكَ»?",
+            "opts": [
+              "Nominative",
+              "Genitive",
+              "Jussive",
+              "Accusative"
+            ],
+            "why": "إِيَّاكَ is a separate accusative pronoun as the object of worship."
+          }
+        },
+        {
+          "q": "«أَنْتُمْ» کس مخاطب کے لیے استعمال ہوتا ہے؟",
+          "opts": [
+            "جمع مذکر مخاطب",
+            "واحد مؤنث غائب",
+            "واحد متکلم",
+            "تثنیہ غائب مؤنث"
+          ],
+          "a": 0,
+          "why": "أَنْتُمْ جمع مذکر مخاطب کا ضمیر منفصل ہے۔",
+          "page": 10,
+          "level": "عملی",
+          "topic": "مبنیات اور ضمائر",
+          "en": {
+            "q": "For which addressee is «أَنْتُمْ» used?",
+            "opts": [
+              "Masculine plural addressee",
+              "Singular feminine absent",
+              "Singular first person",
+              "Feminine dual absent"
+            ],
+            "why": "أَنْتُمْ is a separate pronoun for masculine plural addressee."
+          }
+        },
+        {
+          "q": "«كِتَابُهُ» میں «هُ» کا تعلق کیا ہے؟",
+          "opts": [
+            "مبتدا",
+            "مضاف الیہ کے محل میں ضمیر متصل",
+            "مرفوع فاعل",
+            "فعلِ مضارع"
+          ],
+          "a": 1,
+          "why": "كتابُهُ کا معنی اس کی کتاب ہے؛ ہُ مجرور محل میں مضاف الیہ ہے۔",
+          "page": 10,
+          "level": "اعادہ",
+          "topic": "مبنیات اور ضمائر",
+          "en": {
+            "q": "What is the relation of «هُ» in «كِتَابُهُ»?",
+            "opts": [
+              "Subject (مبتدا)",
+              "Attached pronoun in the position of genitive (مضاف الیہ)",
+              "Nominative subject (مرفوع فاعل)",
+              "Present tense verb (فعلِ مضارع)"
+            ],
+            "why": "كِتَابُهُ means \"his book\"; the هُ is a genitive attached pronoun."
+          }
+        }
+      ],
+      "title_en": "Indeclinable words and pronouns"
+    },
+    {
+      "lesson": 9,
+      "book_lesson_number": 9,
+      "title": "اسمِ اشارہ",
+      "pages": "11–12",
+      "page_start": 11,
+      "page_end": 12,
+      "desc": "قریب و بعید کے اسمائے اشارہ اور مختلف صیغے",
+      "questions": [
+        {
+          "q": "«هَذَا» کس کے لیے استعمال ہوتا ہے؟",
+          "opts": [
+            "قریب واحد مذکر",
+            "بعید واحد مؤنث",
+            "قریب جمع",
+            "بعید تثنیہ"
+          ],
+          "a": 0,
+          "why": "هَذَا قریب کے واحد مذکر کے لیے ہے۔",
+          "page": 11,
+          "level": "بنیادی",
+          "topic": "اسمِ اشارہ",
+          "en": {
+            "q": "For whom is «هَذَا» used?",
+            "opts": [
+              "Near singular masculine",
+              "Far singular feminine",
+              "Near plural",
+              "Far dual"
+            ],
+            "why": "هَذَا is for the near singular masculine."
+          }
+        },
+        {
+          "q": "«هَذِهِ» کس کے لیے استعمال ہوتا ہے؟",
+          "opts": [
+            "تثنیہ مذکر",
+            "قریب واحد مؤنث",
+            "قریب واحد مذکر",
+            "بعید جمع مذکر"
+          ],
+          "a": 1,
+          "why": "هَذِهِ قریب کی مؤنث واحد چیز کے لیے اشارہ ہے۔",
+          "page": 11,
+          "level": "بنیادی",
+          "topic": "اسمِ اشارہ",
+          "en": {
+            "q": "For whom is «هَذِهِ» used?",
+            "opts": [
+              "Dual masculine",
+              "Near singular feminine",
+              "Near singular masculine",
+              "Far plural masculine"
+            ],
+            "why": "هَذِهِ points to a near singular feminine thing."
+          }
+        },
+        {
+          "q": "«ذَلِكَ» کس نوع کا اسمِ اشارہ ہے؟",
+          "opts": [
+            "قریب جمع مؤنث",
+            "بعید تثنیہ",
+            "بعید واحد مذکر",
+            "قریب واحد مذکر"
+          ],
+          "a": 2,
+          "why": "ذَلِكَ دور کے واحد مذکر کے لیے استعمال ہوتا ہے۔",
+          "page": 11,
+          "level": "متوسط",
+          "topic": "اسمِ اشارہ",
+          "en": {
+            "q": "What kind of demonstrative noun is «ذَلِكَ»?",
+            "opts": [
+              "Near plural feminine",
+              "Far dual",
+              "Far singular masculine",
+              "Near singular masculine"
+            ],
+            "why": "ذَلِكَ is used for the far singular masculine."
+          }
+        },
+        {
+          "q": "«تِلْكَ» کس کی مثال ہے؟",
+          "opts": [
+            "قریب واحد مذکر",
+            "بعید جمع مذکر",
+            "قریب تثنیہ",
+            "بعید واحد مؤنث"
+          ],
+          "a": 3,
+          "why": "تِلْكَ بعید واحد مؤنث کے لیے ہے۔",
+          "page": 11,
+          "level": "متوسط",
+          "topic": "اسمِ اشارہ",
+          "en": {
+            "q": "What is an example of «تِلْكَ»?",
+            "opts": [
+              "Near singular masculine",
+              "Far plural masculine",
+              "Near dual",
+              "Far singular feminine"
+            ],
+            "why": "تِلْكَ is for the far singular feminine."
+          }
+        },
+        {
+          "q": "«هَؤُلَاءِ» کا عام استعمال کیا ہے؟",
+          "opts": [
+            "قریب جمع",
+            "قریب واحد مؤنث",
+            "بعید واحد مذکر",
+            "تثنیہ مذکر"
+          ],
+          "a": 0,
+          "why": "هَؤُلَاءِ قریب جمع کے لیے اسم اشارہ ہے۔",
+          "page": 11,
+          "level": "عملی",
+          "topic": "اسمِ اشارہ",
+          "en": {
+            "q": "What is the common use of «هَؤُلَاءِ»?",
+            "opts": [
+              "Near plural",
+              "Near singular feminine",
+              "Far singular masculine",
+              "Dual masculine"
+            ],
+            "why": "هَؤُلَاءِ is a demonstrative noun for near plural."
+          }
+        },
+        {
+          "q": "«هَذَانِ» کس کے لیے آتا ہے؟",
+          "opts": [
+            "قریب واحد مؤنث",
+            "قریب تثنیہ مذکر حالتِ رفع",
+            "بعید واحد مذکر",
+            "قریب جمع"
+          ],
+          "a": 1,
+          "why": "هَذَانِ دو مذکر اشخاص یا چیزوں کے قریب ہونے کو ظاہر کرتا ہے۔",
+          "page": 11,
+          "level": "عملی",
+          "topic": "اسمِ اشارہ",
+          "en": {
+            "q": "For which does «هَذَانِ» come?",
+            "opts": [
+              "Near singular feminine",
+              "Near dual masculine nominative case",
+              "Far singular masculine",
+              "Near plural"
+            ],
+            "why": "هَذَانِ indicates two masculine persons or things that are near."
+          }
+        },
+        {
+          "q": "«هَاتَانِ» کس کے لیے آتا ہے؟",
+          "opts": [
+            "بعید جمع",
+            "جمع مذکر سالم",
+            "قریب تثنیہ مؤنث حالتِ رفع",
+            "قریب واحد مذکر"
+          ],
+          "a": 2,
+          "why": "هَاتَانِ دو مؤنث چیزوں کی طرف اشارہ ہے۔",
+          "page": 11,
+          "level": "اعادہ",
+          "topic": "اسمِ اشارہ",
+          "en": {
+            "q": "For which does «هَاتَانِ» come?",
+            "opts": [
+              "Far plural",
+              "Sound masculine plural",
+              "Near dual feminine nominative case",
+              "Near singular masculine"
+            ],
+            "why": "هَاتَانِ points to two feminine things."
+          }
+        }
+      ],
+      "title_en": "Demonstrative nouns"
+    },
+    {
+      "lesson": 10,
+      "book_lesson_number": 10,
+      "title": "اسمِ موصول اور صلہ",
+      "pages": "12–13",
+      "page_start": 12,
+      "page_end": 13,
+      "desc": "موصول کی صورتیں، صلہ اور عائد",
+      "questions": [
+        {
+          "q": "«الَّذِي» کس کے لیے آتا ہے؟",
+          "opts": [
+            "تثنیہ مؤنث",
+            "واحد مذکر",
+            "واحد مؤنث",
+            "جمع مؤنث"
+          ],
+          "a": 1,
+          "why": "الَّذِي واحد مذکر کے لیے اسم موصول ہے۔",
+          "page": 13,
+          "level": "بنیادی",
+          "topic": "اسمِ موصول اور صلہ",
+          "en": {
+            "q": "For whom does «الَّذِي» come?",
+            "opts": [
+              "Dual feminine",
+              "Singular masculine",
+              "Singular feminine",
+              "Plural feminine"
+            ],
+            "why": "الَّذِي is a relative pronoun for singular masculine."
+          }
+        },
+        {
+          "q": "«الَّتِي» کس کے لیے آتا ہے؟",
+          "opts": [
+            "جمع مذکر",
+            "تثنیہ مذکر",
+            "واحد مؤنث",
+            "واحد مذکر"
+          ],
+          "a": 2,
+          "why": "الَّتِي واحد مؤنث کے لیے موصول ہے۔",
+          "page": 13,
+          "level": "بنیادی",
+          "topic": "اسمِ موصول اور صلہ",
+          "en": {
+            "q": "For whom does «الَّتِي» come?",
+            "opts": [
+              "Plural masculine",
+              "Dual masculine",
+              "Singular feminine",
+              "Singular masculine"
+            ],
+            "why": "الَّتِي is a relative pronoun for singular feminine."
+          }
+        },
+        {
+          "q": "«الَّذِينَ» عام طور پر کس کے لیے ہے؟",
+          "opts": [
+            "واحد مؤنث",
+            "تثنیہ مؤنث",
+            "جمع غیر عاقل کا فعل",
+            "جمع مذکر عاقل"
+          ],
+          "a": 3,
+          "why": "الَّذِينَ جمع مذکر عاقل کے لیے استعمال ہوتا ہے۔",
+          "page": 13,
+          "level": "متوسط",
+          "topic": "اسمِ موصول اور صلہ",
+          "en": {
+            "q": "Generally, for whom is «الَّذِينَ»?",
+            "opts": [
+              "Singular feminine",
+              "Dual feminine",
+              "Plural non-rational subject",
+              "Plural masculine rational"
+            ],
+            "why": "الَّذِينَ is used for plural masculine rational."
+          }
+        },
+        {
+          "q": "موصول کے بعد آنے والا اس کا مطلب مکمل کرنے والا جملہ کیا کہلاتا ہے؟",
+          "opts": [
+            "صلہ",
+            "نعت",
+            "بدل",
+            "خبر کان"
+          ],
+          "a": 0,
+          "why": "اسم موصول کا مفہوم صلہ سے مکمل ہوتا ہے۔",
+          "page": 13,
+          "level": "متوسط",
+          "topic": "اسمِ موصول اور صلہ",
+          "en": {
+            "q": "What is the clause that comes after the relative pronoun and completes its meaning called?",
+            "opts": [
+              "Relative clause",
+              "Adjective",
+              "Substitute",
+              "Predicate of Kana"
+            ],
+            "why": "The meaning of the relative pronoun is completed by the relative clause."
+          }
+        },
+        {
+          "q": "«جَاءَ الَّذِي نَجَحَ» میں «نَجَحَ» کس کا حصہ ہے؟",
+          "opts": [
+            "حرف جر",
+            "صلہ موصول",
+            "مضاف الیہ",
+            "اسم إن"
+          ],
+          "a": 1,
+          "why": "نَجَحَ کا جملہ الَّذِي کی صلہ ہے۔",
+          "page": 13,
+          "level": "عملی",
+          "topic": "اسمِ موصول اور صلہ",
+          "en": {
+            "q": "In «جَاءَ الَّذِي نَجَحَ» what part is «نَجَحَ»?",
+            "opts": [
+              "Preposition",
+              "Relative clause",
+              "Genitive annexed",
+              "Masdar of Inna"
+            ],
+            "why": "The clause نَجَحَ is the relative clause of الَّذِي."
+          }
+        },
+        {
+          "q": "صلہ میں موصول کی طرف لوٹنے والے ضمیر کو کیا کہتے ہیں؟",
+          "opts": [
+            "جامد",
+            "مصدر",
+            "عائد",
+            "عامل"
+          ],
+          "a": 2,
+          "why": "صلہ میں موصول کی طرف رجوع کرنے والا ضمیر عائد کہلاتا ہے۔",
+          "page": 13,
+          "level": "عملی",
+          "topic": "اسمِ موصول اور صلہ",
+          "en": {
+            "q": "What is the pronoun called that refers back to the antecedent in a relative clause?",
+            "opts": [
+              "Invariable (Jamed)",
+              "Verbal noun (Masdar)",
+              "Relative (Aa’id)",
+              "Agent (Aamil)"
+            ],
+            "why": "The pronoun that refers back to the antecedent in a relative clause is called 'Aa’id' (relative)."
+          }
+        },
+        {
+          "q": "«اللَّاتِي» عام طور پر کس کے لیے آتا ہے؟",
+          "opts": [
+            "واحد مذکر",
+            "تثنیہ مذکر",
+            "حرف نفی",
+            "جمع مؤنث"
+          ],
+          "a": 3,
+          "why": "اللاتي جمع مؤنث کے لیے اسم موصول ہے۔",
+          "page": 13,
+          "level": "اعادہ",
+          "topic": "اسمِ موصول اور صلہ",
+          "en": {
+            "q": "For whom does «اللَّاتِي» usually occur?",
+            "opts": [
+              "Singular masculine",
+              "Dual masculine",
+              "Negation particle",
+              "Feminine plural"
+            ],
+            "why": "«اللَّاتِي» is a relative pronoun for the feminine plural."
+          }
+        }
+      ],
+      "title_en": "Relative pronouns and relative clauses"
+    },
+    {
+      "lesson": 11,
+      "book_lesson_number": 11,
+      "title": "منصرف اور غیر منصرف",
+      "pages": "13–14",
+      "page_start": 13,
+      "page_end": 14,
+      "desc": "تنوین و کسرہ، غیر منصرف کے اسباب اور مثالیں",
+      "questions": [
+        {
+          "q": "منصرف اسم کی عام علامت کیا ہے؟",
+          "opts": [
+            "فعلِ امر بنتا ہے",
+            "صرف جزم قبول کرتا ہے",
+            "تنوین اور جر میں کسرہ قبول کرتا ہے",
+            "ہر حال میں مبنی رہتا ہے"
+          ],
+          "a": 2,
+          "why": "منصرف اسم تنوین لیتا ہے اور عام جر میں کسرہ کے ساتھ آتا ہے۔",
+          "page": 13,
+          "level": "بنیادی",
+          "topic": "منصرف اور غیر منصرف",
+          "en": {
+            "q": "What is the common sign of a declinable noun (Mansarif Ism)?",
+            "opts": [
+              "It forms the imperative verb",
+              "It accepts jussive inflection (jazm)",
+              "It takes tanween and has kasra in genitive case",
+              "It remains indeclinable (mabni) in all cases"
+            ],
+            "why": "A declinable noun takes tanween and comes with kasra in the common genitive case."
+          }
+        },
+        {
+          "q": "غیر منصرف عام طور پر کس چیز کو قبول نہیں کرتا؟",
+          "opts": [
+            "رفع اور نصب دونوں",
+            "اضافت ہر حالت میں",
+            "اسم ہونے کو",
+            "تنوین اور حالتِ جر میں کسرہ"
+          ],
+          "a": 3,
+          "why": "غیر منصرف عام حالت میں تنوین نہیں لیتا اور جر میں فتحہ آ سکتا ہے۔",
+          "page": 13,
+          "level": "بنیادی",
+          "topic": "منصرف اور غیر منصرف",
+          "en": {
+            "q": "What does the indeclinable noun (Ghair Mansarif) generally not accept?",
+            "opts": [
+              "Both nominative and accusative",
+              "Genitive in all cases",
+              "Being a noun",
+              "Tanween and kasra in genitive case"
+            ],
+            "why": "An indeclinable noun does not take tanween in the common case and may take fatha in the genitive."
+          }
+        },
+        {
+          "q": "«مَرَرْتُ بِأَحْمَدَ» میں «أَحْمَدَ» پر کسرہ کیوں نہیں؟",
+          "opts": [
+            "یہ غیر منصرف علم ہے",
+            "یہ فعل ہے",
+            "یہ ضمیر متصل ہے",
+            "یہ مبنی علی السکون ہے"
+          ],
+          "a": 0,
+          "why": "احمد علم اور وزنِ افعل کے سبب غیر منصرف ہے؛ عام حالت میں جر فتحہ سے ہوتا ہے۔",
+          "page": 14,
+          "level": "متوسط",
+          "topic": "منصرف اور غیر منصرف",
+          "en": {
+            "q": "Why is there no kasra on «أَحْمَدَ» in «مَرَرْتُ بِأَحْمَدَ»?",
+            "opts": [
+              "Because it is an indeclinable proper noun",
+              "Because it is a verb",
+              "Because it is an attached pronoun",
+              "Because it is built on sukoon"
+            ],
+            "why": "‘Ahmad’ is a proper noun and in the pattern ‘af‘al’, hence indeclinable; in the common case the genitive is with fatha."
+          }
+        },
+        {
+          "q": "«فَاطِمَةُ» کو غیر منصرف بنانے والی معروف وجہ کیا ہے؟",
+          "opts": [
+            "مصدر ہونا",
+            "علم اور تانیث کا اجتماع",
+            "حرف جر کا داخل ہونا",
+            "صرف جمع ہونا"
+          ],
+          "a": 1,
+          "why": "علم مؤنث غیر منصرف کی معروف مثال ہے۔",
+          "page": 14,
+          "level": "متوسط",
+          "topic": "منصرف اور غیر منصرف",
+          "en": {
+            "q": "What is the well-known reason for «فَاطِمَةُ» being indeclinable?",
+            "opts": [
+              "Being a verbal noun (masdar)",
+              "Combination of being a proper noun (ilm) and feminine",
+              "Occurrence of a preposition (harf jar)",
+              "Being plural only"
+            ],
+            "why": "A feminine proper noun is the famous example of an indeclinable noun."
+          }
+        },
+        {
+          "q": "«مَسَاجِدُ» کس وجہ سے غیر منصرف کی مثال ہو سکتا ہے؟",
+          "opts": [
+            "ضمیر ہونے سے",
+            "حرف استفہام سے",
+            "صیغہ منتہی الجموع",
+            "واحد مذکر"
+          ],
+          "a": 2,
+          "why": "مَسَاجِدُ جمع کے مخصوص وزن صیغہ منتہی الجموع پر ہے۔",
+          "page": 14,
+          "level": "عملی",
+          "topic": "منصرف اور غیر منصرف",
+          "en": {
+            "q": "For what reason can «مَسَاجِدُ» be an example of an indeclinable noun?",
+            "opts": [
+              "Being a pronoun",
+              "Being an interrogative particle",
+              "Ending form of sound broken plural (ṣīghat muntahā al-jumū‘)",
+              "Singular masculine"
+            ],
+            "why": "مَسَاجِدُ is a broken plural in the specific pattern called ṣīghah muntahā al-jumū‘."
+          }
+        },
+        {
+          "q": "غیر منصرف اسم پر «ال» آجائے تو حالتِ جر میں کیا آ سکتا ہے؟",
+          "opts": [
+            "جزم",
+            "تنوینِ فتح لازماً",
+            "صرف سکون",
+            "کسرہ"
+          ],
+          "a": 3,
+          "why": "ال یا اضافت کی حالت میں غیر منصرف مجرور کسرہ سے بھی ہوتا ہے۔",
+          "page": 14,
+          "level": "عملی",
+          "topic": "منصرف اور غیر منصرف",
+          "en": {
+            "q": "If the definite article «ال» comes to a diptote noun, what case can appear in the genitive state?",
+            "opts": [
+              "Jussive",
+              "Fatan-nun is mandatory",
+              "Only sukoon",
+              "Kasra"
+            ],
+            "why": "In the state of «ال» or idafa (construct state), a diptote noun in the genitive takes kasra as well."
+          }
+        },
+        {
+          "q": "«مَرَرْتُ بِأَحْمَدَ» کے مقابلے میں «مَرَرْتُ بِالْمَسَاجِدِ» میں جر کی علامت کیا ہے؟",
+          "opts": [
+            "کسرہ",
+            "فتحہ",
+            "ضمہ",
+            "حذف نون"
+          ],
+          "a": 0,
+          "why": "مَسَاجِدُ غیر منصرف ہے، لیکن ال کے ساتھ مجرور ہو کر کسرہ قبول کرتا ہے۔",
+          "page": 14,
+          "level": "اعادہ",
+          "topic": "منصرف اور غیر منصرف",
+          "en": {
+            "q": "In comparison to «مَرَرْتُ بِأَحْمَدَ», what is the case marker in «مَرَرْتُ بِالْمَسَاجِدِ»?",
+            "opts": [
+              "Kasra",
+              "Fatha",
+              "Damma",
+              "Nun deletion"
+            ],
+            "why": "مَسَاجِدُ is a diptote, but with «ال» it becomes genitive and takes kasra."
+          }
+        }
+      ],
+      "title_en": "Fully declinable nouns and diptotes"
+    },
+    {
+      "lesson": 12,
+      "book_lesson_number": 12,
+      "title": "مرفوعات اور فاعل",
+      "pages": "15",
+      "page_start": 15,
+      "page_end": 15,
+      "desc": "فاعل کی تعریف، رفع اور نائب فاعل کا تعارف",
+      "questions": [
+        {
+          "q": "فاعل کسے کہتے ہیں؟",
+          "opts": [
+            "جس پر فعل واقع ہو",
+            "حرف کے بعد مجرور اسم",
+            "دو اسموں کا مجموعہ",
+            "وہ اسم جس سے فعل کا صدور منسوب ہو"
+          ],
+          "a": 3,
+          "why": "فاعل کام کرنے والے یا کام کا صدور جس کی طرف نسبت ہو اس کا نام ہے۔",
+          "page": 15,
+          "level": "بنیادی",
+          "topic": "مرفوعات اور فاعل",
+          "en": {
+            "q": "What is the meaning of 'فاعل' (subject)?",
+            "opts": [
+              "The one upon whom the verb occurs",
+              "A noun in the genitive case after a particle",
+              "A combination of two nouns",
+              "The noun from which the action of the verb is attributed"
+            ],
+            "why": "The subject is the doer of the action or the one to whom the occurrence of the action is attributed."
+          }
+        },
+        {
+          "q": "«ضَرَبَ زَيْدٌ» میں فاعل کون ہے؟",
+          "opts": [
+            "زَيْدٌ",
+            "ضَرَبَ",
+            "دونوں حروف",
+            "کوئی نہیں"
+          ],
+          "a": 0,
+          "why": "زَيْدٌ فعل ضَرَبَ کا فاعل اور مرفوع ہے۔",
+          "page": 15,
+          "level": "بنیادی",
+          "topic": "مرفوعات اور فاعل",
+          "en": {
+            "q": "Who is the subject in «ضَرَبَ زَيْدٌ»?",
+            "opts": [
+              "زَيْدٌ",
+              "ضَرَبَ",
+              "Both are letters",
+              "None"
+            ],
+            "why": "زَيْدٌ is the subject of the verb ضَرَبَ and is in the nominative case."
+          }
+        },
+        {
+          "q": "فاعل کی بنیادی اعرابی حالت کیا ہے؟",
+          "opts": [
+            "جزم",
+            "رفع",
+            "نصب",
+            "جر"
+          ],
+          "a": 1,
+          "why": "اصل قاعدہ کے مطابق فاعل مرفوع ہوتا ہے۔",
+          "page": 15,
+          "level": "متوسط",
+          "topic": "مرفوعات اور فاعل",
+          "en": {
+            "q": "What is the basic grammatical case of the subject (فاعل)?",
+            "opts": [
+              "Jussive",
+              "Nominative",
+              "Accusative",
+              "Genitive"
+            ],
+            "why": "According to the basic rule, the subject is in the nominative case."
+          }
+        },
+        {
+          "q": "«كَتَبَ الطَّالِبُ الدَّرْسَ» میں فاعل کیا ہے؟",
+          "opts": [
+            "كَتَبَ",
+            "کوئی حرف",
+            "الطَّالِبُ",
+            "الدَّرْسَ"
+          ],
+          "a": 2,
+          "why": "الطَّالِبُ لکھنے والا اور مرفوع ہے۔",
+          "page": 15,
+          "level": "متوسط",
+          "topic": "مرفوعات اور فاعل",
+          "en": {
+            "q": "What is the subject in «كَتَبَ الطَّالِبُ الدَّرْسَ»?",
+            "opts": [
+              "كَتَبَ",
+              "Any particle",
+              "الطَّالِبُ",
+              "الدَّرْسَ"
+            ],
+            "why": "الطَّالِبُ is the one who wrote and is in the nominative case."
+          }
+        },
+        {
+          "q": "فاعل کے بجائے مفعول کو قائم کیا جائے تو اسے کیا کہتے ہیں؟",
+          "opts": [
+            "مضاف الیہ",
+            "حال",
+            "تمییز",
+            "نائب فاعل"
+          ],
+          "a": 3,
+          "why": "فعل مجہول میں مفعول یا دوسرا جز فاعل کی جگہ قائم ہو تو نائب فاعل ہے۔",
+          "page": 15,
+          "level": "عملی",
+          "topic": "مرفوعات اور فاعل",
+          "en": {
+            "q": "If the object is established instead of the subject, what is it called?",
+            "opts": [
+              "Genitive annexation (مضاف الیہ)",
+              "Circumstantial accusative (حال)",
+              "Specification (تمییز)",
+              "Deputy subject (نائب فاعل)"
+            ],
+            "why": "In a passive verb, if the object or another component stands in place of the subject, it is called the deputy subject."
+          }
+        },
+        {
+          "q": "«ضُرِبَ زَيْدٌ» میں زید کا نحوی مقام کیا ہے؟",
+          "opts": [
+            "نائب فاعل",
+            "مفعول بہ",
+            "خبرِ إن",
+            "مضاف الیہ"
+          ],
+          "a": 0,
+          "why": "ضُرِبَ فعل مجہول ہے، زید اس کا نائب فاعل ہے۔",
+          "page": 15,
+          "level": "عملی",
+          "topic": "مرفوعات اور فاعل",
+          "en": {
+            "q": "What is the grammatical role of 'Zayd' in «ضُرِبَ زَيْدٌ»?",
+            "opts": [
+              "Subject (Noun acting as doer)",
+              "Object",
+              "Predicate of 'Inna'",
+              "Genitive complement"
+            ],
+            "why": "ضُرِبَ is a passive verb, and زید is its subject (nominative agent in passive) called نائب فاعل (agent substitute)."
+          }
+        },
+        {
+          "q": "فعل معلوم اور فعل مجہول میں بنیادی فرق کیا ہے؟",
+          "opts": [
+            "معلوم میں کوئی کام نہیں ہوتا",
+            "معلوم میں فاعل مذکور یا متعین، مجہول میں فاعل حذف ہو سکتا ہے",
+            "معلوم ہمیشہ اسم ہوتا ہے",
+            "مجہول ہمیشہ حرف ہوتا ہے"
+          ],
+          "a": 1,
+          "why": "مجہول کی تشکیل میں فاعل کو ذکر نہیں کیا جاتا اور نائب فاعل آتا ہے۔",
+          "page": 15,
+          "level": "اعادہ",
+          "topic": "مرفوعات اور فاعل",
+          "en": {
+            "q": "What is the fundamental difference between an active verb and a passive verb?",
+            "opts": [
+              "There is no action in the active verb",
+              "In active, the subject is mentioned or specific; in passive, the subject can be omitted",
+              "Active is always a noun",
+              "Passive is always a particle"
+            ],
+            "why": "In passive voice formation, the actual doer (subject) is not mentioned and a substitute subject (agent substitute) is used."
+          }
+        }
+      ],
+      "title_en": "Nominatives and the subject of a verb"
+    },
+    {
+      "lesson": 13,
+      "book_lesson_number": 13,
+      "title": "نائب فاعل، مبتدا اور خبر",
+      "pages": "16",
+      "page_start": 16,
+      "page_end": 16,
+      "desc": "فعل مجہول، جملہ اسمیہ اور اس کے دونوں رکن",
+      "questions": [
+        {
+          "q": "«فُتِحَ الْبَابُ» میں نائب فاعل کون ہے؟",
+          "opts": [
+            "الْبَابُ",
+            "فُتِحَ",
+            "ال",
+            "کوئی نہیں"
+          ],
+          "a": 0,
+          "why": "فعلِ مجہول فُتِحَ کے بعد الْبَابُ نائب فاعل مرفوع ہے۔",
+          "page": 16,
+          "level": "بنیادی",
+          "topic": "نائب فاعل، مبتدا اور خبر",
+          "en": {
+            "q": "Who is the نائب فاعل (agent noun) in «فُتِحَ الْبَابُ»?",
+            "opts": [
+              "الْبَابُ",
+              "فُتِحَ",
+              "ال",
+              "None"
+            ],
+            "why": "After the passive verb فُتِحَ, الْبَابُ is the نائب فاعل (agent noun) and is in the nominative case."
+          }
+        },
+        {
+          "q": "مبتدا عموماً کس حالت میں ہوتا ہے؟",
+          "opts": [
+            "مجزوم",
+            "مرفوع",
+            "منصوب",
+            "مجرور"
+          ],
+          "a": 1,
+          "why": "جملہ اسمیہ کا مبتدا مرفوع ہوتا ہے۔",
+          "page": 16,
+          "level": "بنیادی",
+          "topic": "نائب فاعل، مبتدا اور خبر",
+          "en": {
+            "q": "Generally, in which case is the مبتدا (subject) found?",
+            "opts": [
+              "Jussive",
+              "Nominative",
+              "Accusative",
+              "Genitive"
+            ],
+            "why": "The مبتدا of a nominal sentence is in the nominative case."
+          }
+        },
+        {
+          "q": "خبر کی بنیادی حالت کیا ہے؟",
+          "opts": [
+            "مجزوم",
+            "منصوب لازماً",
+            "مرفوع",
+            "مجرور"
+          ],
+          "a": 2,
+          "why": "مبتدا کی خبر عام طور پر مرفوع ہوتی ہے۔",
+          "page": 16,
+          "level": "متوسط",
+          "topic": "نائب فاعل، مبتدا اور خبر",
+          "en": {
+            "q": "What is the basic case of the خبر (predicate)?",
+            "opts": [
+              "Jussive",
+              "Accusative (necessarily)",
+              "Nominative",
+              "Genitive"
+            ],
+            "why": "The خبر of the مبتدا is usually in the nominative case."
+          }
+        },
+        {
+          "q": "«زَيْدٌ عَالِمٌ» میں مبتدا کیا ہے؟",
+          "opts": [
+            "عَالِمٌ",
+            "دونوں افعال",
+            "کوئی نہیں",
+            "زَيْدٌ"
+          ],
+          "a": 3,
+          "why": "زید کے بارے میں خبر دی جا رہی ہے، لہٰذا مبتدا ہے۔",
+          "page": 16,
+          "level": "متوسط",
+          "topic": "نائب فاعل، مبتدا اور خبر",
+          "en": {
+            "q": "What is the مبتدا in «زَيْدٌ عَالِمٌ»?",
+            "opts": [
+              "عَالِمٌ",
+              "Both are verbs",
+              "None",
+              "زَيْدٌ"
+            ],
+            "why": "The information is being given about Zayd, therefore زَيْدٌ is the مبتدا (subject)."
+          }
+        },
+        {
+          "q": "«زَيْدٌ عَالِمٌ» میں خبر کیا ہے؟",
+          "opts": [
+            "عَالِمٌ",
+            "زَيْدٌ",
+            "کوئی حرف جر",
+            "فاعل مستتر"
+          ],
+          "a": 0,
+          "why": "عَالِمٌ مبتدا کی حالت یا وصف بتاتا ہے، اس لیے خبر ہے۔",
+          "page": 16,
+          "level": "عملی",
+          "topic": "نائب فاعل، مبتدا اور خبر",
+          "en": {
+            "q": "What is the خبر in «زَيْدٌ عَالِمٌ»?",
+            "opts": [
+              "عَالِمٌ",
+              "زَيْدٌ",
+              "No preposition",
+              "Hidden subject"
+            ],
+            "why": "عَالِمٌ describes the state or attribute of the مبتدا and thus is the خبر (predicate)."
+          }
+        },
+        {
+          "q": "«فِي الْبَيْتِ رَجُلٌ» میں خبر کہاں ہے؟",
+          "opts": [
+            "کوئی خبر نہیں",
+            "فِي الْبَيْتِ",
+            "رَجُلٌ",
+            "صرف الْبَيْتِ بطور مبتدا"
+          ],
+          "a": 1,
+          "why": "جار و مجرور خبر مقدم کے طور پر آیا، اور رجلٌ مبتدا مؤخر ہے۔",
+          "page": 16,
+          "level": "عملی",
+          "topic": "نائب فاعل، مبتدا اور خبر",
+          "en": {
+            "q": "In the sentence «فِي الْبَيْتِ رَجُلٌ», where is the predicate?",
+            "opts": [
+              "No predicate",
+              "فِي الْبَيْتِ",
+              "رَجُلٌ",
+              "Only الْبَيْتِ as the subject"
+            ],
+            "why": "The prepositional phrase (جار و مجرور) فِي الْبَيْتِ acts as a preceding predicate, and رَجُلٌ is the deferred subject."
+          }
+        },
+        {
+          "q": "«الطَّالِبُ مُجْتَهِدٌ» کس قسم کا جملہ ہے؟",
+          "opts": [
+            "استثناء",
+            "صرف اضافت",
+            "جملہ اسمیہ",
+            "جملہ فعلیہ"
+          ],
+          "a": 2,
+          "why": "مبتدا الطَّالِبُ اور خبر مُجْتَهِدٌ سے جملہ اسمیہ بنا۔",
+          "page": 16,
+          "level": "اعادہ",
+          "topic": "نائب فاعل، مبتدا اور خبر",
+          "en": {
+            "q": "What type of sentence is «الطَّالِبُ مُجْتَهِدٌ»?",
+            "opts": [
+              "Exception",
+              "Only annexation",
+              "Nominal sentence",
+              "Verbal sentence"
+            ],
+            "why": "The sentence is nominal because الطَّالِبُ is the subject and مُجْتَهِدٌ is the predicate."
+          }
+        }
+      ],
+      "title_en": "Passive subject, topic and predicate"
+    },
+    {
+      "lesson": 14,
+      "book_lesson_number": 14,
+      "title": "حروفِ مشبہ بالفعل",
+      "pages": "17",
+      "page_start": 17,
+      "page_end": 17,
+      "desc": "إنَّ، كأنَّ، لَيْتَ، لَعَلَّ، لَكِنَّ کے اثرات",
+      "questions": [
+        {
+          "q": "«إِنَّ» کا اپنے اسم پر کیا عمل ہوتا ہے؟",
+          "opts": [
+            "جزم",
+            "نصب",
+            "رفع",
+            "جر"
+          ],
+          "a": 1,
+          "why": "إِنَّ اپنے اسم کو منصوب اور خبر کو مرفوع کرتا ہے۔",
+          "page": 17,
+          "level": "بنیادی",
+          "topic": "حروفِ مشبہ بالفعل",
+          "en": {
+            "q": "What is the effect of «إِنَّ» on its noun?",
+            "opts": [
+              "Jussive",
+              "Accusative",
+              "Nominative",
+              "Genitive"
+            ],
+            "why": "إِنَّ makes its noun accusative and the predicate nominative."
+          }
+        },
+        {
+          "q": "«إِنَّ زَيْدًا قَائِمٌ» میں اسمِ إنَّ کیا ہے؟",
+          "opts": [
+            "إِنَّ",
+            "کوئی نہیں",
+            "زَيْدًا",
+            "قَائِمٌ"
+          ],
+          "a": 2,
+          "why": "زَيْدًا إِنَّ کا اسم منصوب ہے۔",
+          "page": 17,
+          "level": "بنیادی",
+          "topic": "حروفِ مشبہ بالفعل",
+          "en": {
+            "q": "In «إِنَّ زَيْدًا قَائِمٌ», what is the noun of إنَّ?",
+            "opts": [
+              "إِنَّ",
+              "None",
+              "زَيْدًا",
+              "قَائِمٌ"
+            ],
+            "why": "زَيْدًا is the accusative noun (ism) of إِنَّ."
+          }
+        },
+        {
+          "q": "اسی جملے میں خبرِ إنَّ کون ہے؟",
+          "opts": [
+            "زَيْدًا",
+            "إِنَّ",
+            "کوئی حرف جر",
+            "قَائِمٌ"
+          ],
+          "a": 3,
+          "why": "قَائِمٌ خبرِ إنَّ اور مرفوع ہے۔",
+          "page": 17,
+          "level": "متوسط",
+          "topic": "حروفِ مشبہ بالفعل",
+          "en": {
+            "q": "In the same sentence, who is the predicate (khabar) of إنَّ?",
+            "opts": [
+              "زَيْدًا",
+              "إِنَّ",
+              "No preposition",
+              "قَائِمٌ"
+            ],
+            "why": "قَائِمٌ is the predicate of إنَّ and is nominative."
+          }
+        },
+        {
+          "q": "«لَيْتَ» کا عمومی مفہوم کیا ہے؟",
+          "opts": [
+            "تمنا",
+            "انکار",
+            "زمانہ ماضی",
+            "جر"
+          ],
+          "a": 0,
+          "why": "لَيْتَ تمنّا کے لیے آتا ہے۔",
+          "page": 17,
+          "level": "متوسط",
+          "topic": "حروفِ مشبہ بالفعل",
+          "en": {
+            "q": "What is the general meaning of «لَيْتَ»?",
+            "opts": [
+              "Wish",
+              "Denial",
+              "Past tense indication",
+              "Preposition"
+            ],
+            "why": "لَيْتَ is used to express a wish."
+          }
+        },
+        {
+          "q": "«كَأَنَّ» کا عام مفہوم کیا ہے؟",
+          "opts": [
+            "حکم دینا",
+            "تشبیہ، گویا",
+            "یقینی نفی",
+            "حرف جر"
+          ],
+          "a": 1,
+          "why": "کأنّ کسی چیز کو دوسری چیز جیسا ظاہر کرتا ہے۔",
+          "page": 17,
+          "level": "عملی",
+          "topic": "حروفِ مشبہ بالفعل",
+          "en": {
+            "q": "What is the usual meaning of «كَأَنَّ»?",
+            "opts": [
+              "Giving an order",
+              "Simile, 'as if'",
+              "Certain negation",
+              "Preposition"
+            ],
+            "why": "كَأَنَّ indicates similarity of one thing to another, expressing 'as if'."
+          }
+        },
+        {
+          "q": "«لَعَلَّ» عام طور پر کس مفہوم کے لیے آتا ہے؟",
+          "opts": [
+            "صرف قسم",
+            "جر",
+            "امید یا اندیشہ",
+            "ماضی"
+          ],
+          "a": 2,
+          "why": "لعلّ امید یا توقع/اندیشہ کے معنی میں استعمال ہوتا ہے۔",
+          "page": 17,
+          "level": "عملی",
+          "topic": "حروفِ مشبہ بالفعل",
+          "en": {
+            "q": "What is the general meaning of «لَعَلَّ»?",
+            "opts": [
+              "Only oath",
+              "Genitive",
+              "Hope or fear",
+              "Past"
+            ],
+            "why": "لعلّ is used in the sense of hope or expectation/fear."
+          }
+        },
+        {
+          "q": "«لَكِنَّ» کا معروف استعمال کیا ہے؟",
+          "opts": [
+            "جزم مضارع",
+            "فعلِ امر",
+            "مضاف الیہ",
+            "استدراک"
+          ],
+          "a": 3,
+          "why": "لكنّ پچھلی بات کے بعد استدراک یا اصلاح کے لیے آتا ہے۔",
+          "page": 17,
+          "level": "اعادہ",
+          "topic": "حروفِ مشبہ بالفعل",
+          "en": {
+            "q": "What is the well-known use of «لَكِنَّ»?",
+            "opts": [
+              "Jussive of present tense",
+              "Imperative verb",
+              "Genitive of the annexed",
+              "Retraction"
+            ],
+            "why": "لكنّ comes to indicate retraction or correction after the previous statement."
+          }
+        }
+      ],
+      "title_en": "Particles resembling verbs"
+    },
+    {
+      "lesson": 15,
+      "book_lesson_number": 15,
+      "title": "افعالِ ناقصہ",
+      "pages": "18",
+      "page_start": 18,
+      "page_end": 18,
+      "desc": "كان اور اس کی بہنیں؛ اسم اور خبر کے اعراب",
+      "questions": [
+        {
+          "q": "«كَانَ» اپنے اسم پر کیا عمل کرتا ہے؟",
+          "opts": [
+            "جر",
+            "جزم",
+            "رفع",
+            "نصب"
+          ],
+          "a": 2,
+          "why": "كان کے بعد اسمِ كان مرفوع رہتا ہے۔",
+          "page": 18,
+          "level": "بنیادی",
+          "topic": "افعالِ ناقصہ",
+          "en": {
+            "q": "What grammatical case does «كَانَ» apply to its subject?",
+            "opts": [
+              "Genitive",
+              "Jussive",
+              "Nominative",
+              "Accusative"
+            ],
+            "why": "The subject of كان remains in the nominative case."
+          }
+        },
+        {
+          "q": "«كَانَ» اپنی خبر پر کیا عمل کرتا ہے؟",
+          "opts": [
+            "رفع",
+            "جر",
+            "جزم",
+            "نصب"
+          ],
+          "a": 3,
+          "why": "كان خبر کو منصوب کرتا ہے۔",
+          "page": 18,
+          "level": "بنیادی",
+          "topic": "افعالِ ناقصہ",
+          "en": {
+            "q": "What grammatical case does «كَانَ» apply to its predicate?",
+            "opts": [
+              "Nominative",
+              "Genitive",
+              "Jussive",
+              "Accusative"
+            ],
+            "why": "كان makes its predicate accusative."
+          }
+        },
+        {
+          "q": "«كَانَ زَيْدٌ قَائِمًا» میں اسمِ کان کیا ہے؟",
+          "opts": [
+            "زَيْدٌ",
+            "قَائِمًا",
+            "كَانَ",
+            "کوئی نہیں"
+          ],
+          "a": 0,
+          "why": "زیدٌ كان کا اسم اور مرفوع ہے۔",
+          "page": 18,
+          "level": "متوسط",
+          "topic": "افعالِ ناقصہ",
+          "en": {
+            "q": "In «كَانَ زَيْدٌ قَائِمًا», what is the اسمِ كان (subject of كان)?",
+            "opts": [
+              "زَيْدٌ",
+              "قَائِمًا",
+              "كَانَ",
+              "None"
+            ],
+            "why": "زَيْدٌ is the subject of كان and is nominative."
+          }
+        },
+        {
+          "q": "اسی جملے میں خبرِ کان کیا ہے؟",
+          "opts": [
+            "کوئی حرف",
+            "قَائِمًا",
+            "زَيْدٌ",
+            "كَانَ"
+          ],
+          "a": 1,
+          "why": "قائمًا كان کی خبر منصوب ہے۔",
+          "page": 18,
+          "level": "متوسط",
+          "topic": "افعالِ ناقصہ",
+          "en": {
+            "q": "In the same sentence, what is the خبرِ كان (predicate of كان)?",
+            "opts": [
+              "A particle",
+              "قَائِمًا",
+              "زَيْدٌ",
+              "كَانَ"
+            ],
+            "why": "قَائِمًا is the accusative predicate of كان."
+          }
+        },
+        {
+          "q": "«أَصْبَحَ» افعال ناقصہ میں عام طور پر کیا معنی دیتا ہے؟",
+          "opts": [
+            "جزا",
+            "شرط",
+            "صبح ہونے یا صبح کے وقت کی حالت",
+            "صرف ماضی منفی"
+          ],
+          "a": 2,
+          "why": "أصبح کسی کیفیت میں صبح ہونے کے مفہوم کے ساتھ استعمال ہوتا ہے۔",
+          "page": 18,
+          "level": "عملی",
+          "topic": "افعالِ ناقصہ",
+          "en": {
+            "q": "What meaning does «أَصْبَحَ» generally convey among the defective verbs?",
+            "opts": [
+              "Reward",
+              "Condition",
+              "Becoming morning or the state of morning time",
+              "Only past negation"
+            ],
+            "why": "أصبح indicates the occurrence of morning or a related state in its usage."
+          }
+        },
+        {
+          "q": "«لَيْسَ» کا معنی کیا ہے؟",
+          "opts": [
+            "شاید ہو",
+            "ضرور ہوا",
+            "ہو جاؤ",
+            "نہیں ہے"
+          ],
+          "a": 3,
+          "why": "ليس نفی کے لیے فعل ناقص ہے، اس کا اسم مرفوع اور خبر منصوب ہوتی ہے۔",
+          "page": 18,
+          "level": "عملی",
+          "topic": "افعالِ ناقصہ",
+          "en": {
+            "q": "What is the meaning of «لَيْسَ»?",
+            "opts": [
+              "It may be",
+              "It definitely happened",
+              "Become",
+              "Is not"
+            ],
+            "why": "ليس is a defective verb used for negation; its subject is nominative and its predicate is accusative."
+          }
+        },
+        {
+          "q": "«مَا زَالَ» کس مفہوم میں آتا ہے؟",
+          "opts": [
+            "اب تک برقرار ہونا",
+            "صرف حکم",
+            "صرف دعا",
+            "جر"
+          ],
+          "a": 0,
+          "why": "ما زال کسی حالت کے مسلسل برقرار رہنے کا مفہوم دیتا ہے۔",
+          "page": 18,
+          "level": "اعادہ",
+          "topic": "افعالِ ناقصہ",
+          "en": {
+            "q": "In which meaning does «مَا زَالَ» come?",
+            "opts": [
+              "To remain continuously until now",
+              "Only command",
+              "Only supplication",
+              "Genitive"
+            ],
+            "why": "ما زال conveys the meaning of a state continuing continuously."
+          }
+        }
+      ],
+      "title_en": "Defective verbs"
+    },
+    {
+      "lesson": 16,
+      "book_lesson_number": 16,
+      "title": "منصوبات کا تعارف",
+      "pages": "19",
+      "page_start": 19,
+      "page_end": 19,
+      "desc": "مفعول بہ، مطلق، لہ، فیہ اور دیگر منصوبات کی پہچان",
+      "questions": [
+        {
+          "q": "منصوبات سے مراد کیا ہے؟",
+          "opts": [
+            "صرف مجرور افعال",
+            "صرف مبنی حروف",
+            "صرف مرفوع اسماء",
+            "وہ اسماء جو حالتِ نصب میں آئیں"
+          ],
+          "a": 3,
+          "why": "منصوب ہونے والے اسماء کو منصوبات کہتے ہیں۔",
+          "page": 19,
+          "level": "بنیادی",
+          "topic": "منصوبات کا تعارف",
+          "en": {
+            "q": "What is meant by منصوبات (accusatives)?",
+            "opts": [
+              "Only verbs that cause genitive case",
+              "Only indeclinable particles",
+              "Only nominative nouns",
+              "Those nouns which come in the accusative case"
+            ],
+            "why": "Nouns that are in the accusative case are called منصوبات (accusatives)."
+          }
+        },
+        {
+          "q": "«ضَرَبَ زَيْدٌ عَمْرًا» میں مفعول بہ کیا ہے؟",
+          "opts": [
+            "عَمْرًا",
+            "زَيْدٌ",
+            "ضَرَبَ",
+            "کوئی نہیں"
+          ],
+          "a": 0,
+          "why": "عَمْرًا وہ ہے جس پر ضرب واقع ہوئی، اس لیے مفعول بہ ہے۔",
+          "page": 19,
+          "level": "بنیادی",
+          "topic": "منصوبات کا تعارف",
+          "en": {
+            "q": "In «ضَرَبَ زَيْدٌ عَمْرًا», what is the object?",
+            "opts": [
+              "عَمْرًا",
+              "زَيْدٌ",
+              "ضَرَبَ",
+              "None"
+            ],
+            "why": "عَمْرًا is that upon which ضرب (hit) was done, so it is the object (مفعول بہ)."
+          }
+        },
+        {
+          "q": "«ضَرَبْتُ ضَرْبًا» میں دوسرا «ضَرْبًا» کیا ہے؟",
+          "opts": [
+            "مضاف الیہ",
+            "مفعول مطلق",
+            "فاعل",
+            "خبر"
+          ],
+          "a": 1,
+          "why": "مصدرِ فعل کو تاکید یا نوع کے بیان کے لیے لایا گیا؛ مفعول مطلق ہے۔",
+          "page": 19,
+          "level": "متوسط",
+          "topic": "منصوبات کا تعارف",
+          "en": {
+            "q": "In «ضَرَبْتُ ضَرْبًا», what is the second «ضَرْبًا»?",
+            "opts": [
+              "Genitive (مضاف الیہ)",
+              "Absolute object (مفعول مطلق)",
+              "Subject (فاعل)",
+              "Predicate (خبر)"
+            ],
+            "why": "The verbal noun is brought to emphasize or specify the type; it is the absolute object (مفعول مطلق)."
+          }
+        },
+        {
+          "q": "«جِئْتُ طَلَبًا لِلْعِلْمِ» میں «طَلَبًا» کس قسم کا منصوب ہے؟",
+          "opts": [
+            "نائب فاعل",
+            "مبتدا",
+            "مفعول لہ",
+            "مفعول بہ"
+          ],
+          "a": 2,
+          "why": "طلبًا آنے کا سبب بیان کر رہا ہے، اس لیے مفعول لہ کی مثال ہے۔",
+          "page": 19,
+          "level": "متوسط",
+          "topic": "منصوبات کا تعارف",
+          "en": {
+            "q": "In «جِئْتُ طَلَبًا لِلْعِلْمِ», what kind of منصوب (accusative) is «طَلَبًا»?",
+            "opts": [
+              "Subject substitute (نائب فاعل)",
+              "Subject (مبتدا)",
+              "Object of cause (مفعول لہ)",
+              "Object (مفعول بہ)"
+            ],
+            "why": "طلبًا expresses the cause of coming, hence it is an example of the object of cause (مفعول لہ)."
+          }
+        },
+        {
+          "q": "«سَافَرْتُ لَيْلًا» میں «لَيْلًا» کیا ہے؟",
+          "opts": [
+            "ظرف مکان",
+            "فاعل",
+            "مضاف الیہ",
+            "ظرف زمان"
+          ],
+          "a": 3,
+          "why": "لَيْلًا فعل کے وقت کو ظاہر کرتا ہے۔",
+          "page": 19,
+          "level": "عملی",
+          "topic": "منصوبات کا تعارف",
+          "en": {
+            "q": "In «سَافَرْتُ لَيْلًا», what is «لَيْلًا»?",
+            "opts": [
+              "Adverb of place (ظرف مکان)",
+              "Subject (فاعل)",
+              "Genitive (مضاف الیہ)",
+              "Adverb of time (ظرف زمان)"
+            ],
+            "why": "لَيْلًا indicates the time of the verb (ظرف زمان)."
+          }
+        },
+        {
+          "q": "«جَلَسْتُ أَمَامَ الْبَيْتِ» میں «أَمَامَ» کیا ہے؟",
+          "opts": [
+            "ظرف مکان",
+            "ظرف زمان",
+            "فعل",
+            "مبتدا"
+          ],
+          "a": 0,
+          "why": "أَمَامَ جگہ کا تعلق بتاتا ہے۔",
+          "page": 19,
+          "level": "عملی",
+          "topic": "منصوبات کا تعارف",
+          "en": {
+            "q": "In «جَلَسْتُ أَمَامَ الْبَيْتِ», what is «أَمَامَ»?",
+            "opts": [
+              "Adverb of place",
+              "Adverb of time",
+              "Verb",
+              "Subject"
+            ],
+            "why": "أَمَامَ indicates a place."
+          }
+        },
+        {
+          "q": "«جَاءَ زَيْدٌ رَاكِبًا» میں «رَاكِبًا» کس کی مثال ہے؟",
+          "opts": [
+            "خبر إن",
+            "حال",
+            "فاعل",
+            "مضاف الیہ"
+          ],
+          "a": 1,
+          "why": "رَاكِبًا آنے کے وقت زید کی کیفیت ظاہر کرتا ہے۔",
+          "page": 19,
+          "level": "اعادہ",
+          "topic": "منصوبات کا تعارف",
+          "en": {
+            "q": "In «جَاءَ زَيْدٌ رَاكِبًا», what is the example of «رَاكِبًا»?",
+            "opts": [
+              "Khabar of إن",
+              "Circumstantial accusative (Hal)",
+              "Subject (Fa'il)",
+              "Genitive noun (Mudaf ilayh)"
+            ],
+            "why": "رَاكِبًا shows the state of Zaid at the time of coming."
+          }
+        }
+      ],
+      "title_en": "Introduction to accusatives"
+    },
+    {
+      "lesson": 17,
+      "book_lesson_number": 17,
+      "title": "مفعول کی قسمیں اور ظروف",
+      "pages": "20",
+      "page_start": 20,
+      "page_end": 20,
+      "desc": "مفعول بہ، فیہ، لہ، مطلق، ظرف زمان و مکان",
+      "questions": [
+        {
+          "q": "جس اسم پر فعل کا اثر واقع ہو اسے کیا کہتے ہیں؟",
+          "opts": [
+            "مفعول بہ",
+            "فاعل",
+            "مبتدا",
+            "اسم موصول"
+          ],
+          "a": 0,
+          "why": "فعل جس پر واقع ہو وہ مفعول بہ ہے۔",
+          "page": 20,
+          "level": "بنیادی",
+          "topic": "مفعول کی قسمیں اور ظروف",
+          "en": {
+            "q": "What is the name given to the noun on which the effect of the verb occurs?",
+            "opts": [
+              "Object",
+              "Subject",
+              "Subject (Mubtada)",
+              "Relative pronoun"
+            ],
+            "why": "The noun on which the verb acts is called the object."
+          }
+        },
+        {
+          "q": "«شَرِبَ الْوَلَدُ الْمَاءَ» میں مفعول بہ کیا ہے؟",
+          "opts": [
+            "کوئی نہیں",
+            "الْمَاءَ",
+            "الْوَلَدُ",
+            "شَرِبَ"
+          ],
+          "a": 1,
+          "why": "الماءَ نوش کرنے کی کارروائی کا مفعول ہے۔",
+          "page": 20,
+          "level": "بنیادی",
+          "topic": "مفعول کی قسمیں اور ظروف",
+          "en": {
+            "q": "In «شَرِبَ الْوَلَدُ الْمَاءَ», what is the object?",
+            "opts": [
+              "None",
+              "الْمَاءَ",
+              "الْوَلَدُ",
+              "شَرِبَ"
+            ],
+            "why": "الْمَاءَ is the object of the action of drinking."
+          }
+        },
+        {
+          "q": "«نَامَ الطِّفْلُ لَيْلًا» میں «لَيْلًا» کیا ہے؟",
+          "opts": [
+            "خبرِ کان",
+            "نعت",
+            "مفعول فیہ، ظرف زمان",
+            "فاعل"
+          ],
+          "a": 2,
+          "why": "لیلًا کام کے وقوع کا وقت بتاتا ہے۔",
+          "page": 20,
+          "level": "متوسط",
+          "topic": "مفعول کی قسمیں اور ظروف",
+          "en": {
+            "q": "In «نَامَ الطِّفْلُ لَيْلًا», what is «لَيْلًا»?",
+            "opts": [
+              "Predicate of 'Kana'",
+              "Adjective",
+              "Adverb of time, Circumstantial accusative",
+              "Subject"
+            ],
+            "why": "لَيْلًا indicates the time of the action's occurrence."
+          }
+        },
+        {
+          "q": "«جَلَسْتُ تَحْتَ الشَّجَرَةِ» میں «تَحْتَ» کیا ہے؟",
+          "opts": [
+            "ظرف زمان",
+            "مفعول بہ",
+            "مبتدا",
+            "ظرف مکان"
+          ],
+          "a": 3,
+          "why": "تحت جگہ بتانے والا ظرف مکان ہے۔",
+          "page": 20,
+          "level": "متوسط",
+          "topic": "مفعول کی قسمیں اور ظروف",
+          "en": {
+            "q": "In «جَلَسْتُ تَحْتَ الشَّجَرَةِ», what is «تَحْتَ»?",
+            "opts": [
+              "Adverb of time",
+              "Object",
+              "Subject (Mubtada)",
+              "Adverb of place"
+            ],
+            "why": "تَحْتَ denotes a place, so it is an adverb of place."
+          }
+        },
+        {
+          "q": "«قُمْتُ إِكْرَامًا لِلضَّيْفِ» میں «إِكْرَامًا» کیا ہے؟",
+          "opts": [
+            "مفعول لہ",
+            "نائب فاعل",
+            "حال",
+            "توکید لفظی"
+          ],
+          "a": 0,
+          "why": "اکرمًا کام کی وجہ یا مقصد بتاتا ہے۔",
+          "page": 20,
+          "level": "عملی",
+          "topic": "مفعول کی قسمیں اور ظروف",
+          "en": {
+            "q": "In «قُمْتُ إِكْرَامًا لِلضَّيْفِ», what is «إِكْرَامًا»?",
+            "opts": [
+              "Reason object",
+              "Agent (Naa'ib Fa'il)",
+              "Circumstantial adverb (Hal)",
+              "Emphatic particle"
+            ],
+            "why": "إِكْرَامًا indicates the cause or purpose of the action."
+          }
+        },
+        {
+          "q": "«فَرِحْتُ فَرَحًا» میں «فَرَحًا» کیا ہے؟",
+          "opts": [
+            "اسمِ إن",
+            "مفعول مطلق",
+            "مضاف الیہ",
+            "مبتدا"
+          ],
+          "a": 1,
+          "why": "مصدر کا منصوب استعمال مفعول مطلق ہے۔",
+          "page": 20,
+          "level": "عملی",
+          "topic": "مفعول کی قسمیں اور ظروف",
+          "en": {
+            "q": "In «فَرِحْتُ فَرَحًا», what is «فَرَحًا»?",
+            "opts": [
+              "Masdar (verbal noun) of 'Inna'",
+              "Absolute object (Maf'ool Mutlaq)",
+              "Genitive annexed (Mudaf Ilayh)",
+              "Subject (Mubtada)"
+            ],
+            "why": "The accusative use of a verbal noun is an absolute object (Maf'ool Mutlaq)."
+          }
+        },
+        {
+          "q": "ظرف کا عام کام کیا ہے؟",
+          "opts": [
+            "کلمہ کو معرفہ بنانا",
+            "صرف جملہ اسمیہ بنانا",
+            "کام کا زمانہ یا مکان ظاہر کرنا",
+            "ہمیشہ فاعل بننا"
+          ],
+          "a": 2,
+          "why": "ظرف سے عمل کا وقت یا جگہ معلوم ہوتی ہے۔",
+          "page": 20,
+          "level": "اعادہ",
+          "topic": "مفعول کی قسمیں اور ظروف",
+          "en": {
+            "q": "What is the general function of an adverb of time or place (Zarf)?",
+            "opts": [
+              "To make a word definite",
+              "Only to make a sentence nominal",
+              "To indicate the time or place of the action",
+              "Always to be the doer (subject)"
+            ],
+            "why": "An adverb of time or place indicates when or where the action occurs."
+          }
+        }
+      ],
+      "title_en": "Types of objects and adverbials"
+    },
+    {
+      "lesson": 18,
+      "book_lesson_number": 18,
+      "title": "حال، تمییز اور مستثنیٰ",
+      "pages": "21",
+      "page_start": 21,
+      "page_end": 21,
+      "desc": "منصوب حال، مبہم مقدار کی وضاحت اور استثناء",
+      "questions": [
+        {
+          "q": "«جَاءَ زَيْدٌ مَاشِيًا» میں «مَاشِيًا» کیا ہے؟",
+          "opts": [
+            "مضاف الیہ",
+            "حال",
+            "فاعل",
+            "مبتدا"
+          ],
+          "a": 1,
+          "why": "ماشيًا زید کے آنے کے وقت اس کی کیفیت بتاتا ہے۔",
+          "page": 21,
+          "level": "بنیادی",
+          "topic": "حال، تمییز اور مستثنیٰ",
+          "en": {
+            "q": "In the sentence «جَاءَ زَيْدٌ مَاشِيًا», what is «مَاشِيًا»?",
+            "opts": [
+              "Genitive complement (مضاف الیہ)",
+              "Circumstantial accusative (حال)",
+              "Subject (فاعل)",
+              "Subject (مبتدا)"
+            ],
+            "why": "The word ماشيًا indicates the condition or manner of Zaid at the time of coming."
+          }
+        },
+        {
+          "q": "حال عموماً کس چیز کی خبر دیتا ہے؟",
+          "opts": [
+            "فعل کا مصدر",
+            "جمع کی تعداد",
+            "صاحبِ حال کی عارضی کیفیت",
+            "حرف جر کا نام"
+          ],
+          "a": 2,
+          "why": "حال فعل کے وقت صاحبِ حال کی حالت واضح کرتا ہے۔",
+          "page": 21,
+          "level": "بنیادی",
+          "topic": "حال، تمییز اور مستثنیٰ",
+          "en": {
+            "q": "Usually, what does a حالة (حال) inform about?",
+            "opts": [
+              "The verbal noun of the verb",
+              "The number of the plural",
+              "The temporary condition of the owner of the حال",
+              "The name of the preposition"
+            ],
+            "why": "The حال clarifies the state of the owner of the حال at the time of the action."
+          }
+        },
+        {
+          "q": "حال کی بنیادی حالتِ اعراب کیا ہے؟",
+          "opts": [
+            "رفع",
+            "جر",
+            "جزم",
+            "نصب"
+          ],
+          "a": 3,
+          "why": "حال عام قاعدے کے مطابق منصوب ہوتا ہے۔",
+          "page": 21,
+          "level": "متوسط",
+          "topic": "حال، تمییز اور مستثنیٰ",
+          "en": {
+            "q": "What is the basic grammatical case ending of a حال?",
+            "opts": [
+              "Nominative (رفع)",
+              "Genitive (جر)",
+              "Jussive (جزم)",
+              "Accusative (نصب)"
+            ],
+            "why": "According to the general rule, a حال is in the accusative case."
+          }
+        },
+        {
+          "q": "«عِنْدِي عِشْرُونَ كِتَابًا» میں «كِتَابًا» کیا ہے؟",
+          "opts": [
+            "تمییز",
+            "مبتدا",
+            "فاعل",
+            "نعت مرفوع"
+          ],
+          "a": 0,
+          "why": "کتابًا مقدار بیس کی وضاحت کرتا ہے، اس لیے تمییز ہے۔",
+          "page": 21,
+          "level": "متوسط",
+          "topic": "حال، تمییز اور مستثنیٰ",
+          "en": {
+            "q": "In the phrase «عِنْدِي عِشْرُونَ كِتَابًا», what is «كِتَابًا»?",
+            "opts": [
+              "Specification (تمییز)",
+              "Subject (مبتدا)",
+              "Subject (فاعل)",
+              "Nominative adjective (نعت مرفوع)"
+            ],
+            "why": "The word كتابًا clarifies the quantity 'twenty', so it is specification (تمییز)."
+          }
+        },
+        {
+          "q": "تمییز کا بنیادی کام کیا ہے؟",
+          "opts": [
+            "اسم کو تثنیہ بنانا",
+            "پچھلی مقدار یا نسبت کا ابہام دور کرنا",
+            "جملے کو منفی بنانا",
+            "فعل کا زمانہ بدلنا"
+          ],
+          "a": 1,
+          "why": "تمییز مبہم چیز کی تشریح اور تعیین کرتا ہے۔",
+          "page": 21,
+          "level": "عملی",
+          "topic": "حال، تمییز اور مستثنیٰ",
+          "en": {
+            "q": "What is the fundamental function of a تمییز (specification)?",
+            "opts": [
+              "To make the noun dual",
+              "To remove ambiguity from the preceding quantity or relation",
+              "To negate the sentence",
+              "To change the tense of the verb"
+            ],
+            "why": "تمییز explains and determines the ambiguous thing before it."
+          }
+        },
+        {
+          "q": "«جَاءَ الْقَوْمُ إِلَّا زَيْدًا» میں «زَيْدًا» کیا کہلاتا ہے؟",
+          "opts": [
+            "خبر",
+            "مضاف",
+            "مستثنیٰ",
+            "فاعل"
+          ],
+          "a": 2,
+          "why": "زیدًا کو إلا کے ذریعے قوم سے الگ کیا گیا، اس لیے مستثنیٰ ہے۔",
+          "page": 21,
+          "level": "عملی",
+          "topic": "حال، تمییز اور مستثنیٰ",
+          "en": {
+            "q": "In the sentence «جَاءَ الْقَوْمُ إِلَّا زَيْدًا», what is the grammatical term for «زَيْدًا»?",
+            "opts": [
+              "Predicate",
+              "Idafah (Annexed)",
+              "Excepted (Mustathna)",
+              "Subject"
+            ],
+            "why": "زَيْدًا is separated from قوم by إِلَّا, therefore it is an excepted (mustathna)."
+          }
+        },
+        {
+          "q": "«إِلَّا» کس کے لیے مشہور ہے؟",
+          "opts": [
+            "قسم",
+            "نداء",
+            "استفہام",
+            "استثناء"
+          ],
+          "a": 3,
+          "why": "إلا استثناء کا معروف حرف ہے۔",
+          "page": 21,
+          "level": "اعادہ",
+          "topic": "حال، تمییز اور مستثنیٰ",
+          "en": {
+            "q": "What is the grammatical function most associated with «إِلَّا»?",
+            "opts": [
+              "Oath",
+              "Call (Nida)",
+              "Interrogation",
+              "Exception"
+            ],
+            "why": "إِلَّا is the well-known particle of exception."
+          }
+        }
+      ],
+      "title_en": "Circumstantial accusative, specification and exception"
+    },
+    {
+      "lesson": 19,
+      "book_lesson_number": 19,
+      "title": "استثناء کی قسمیں",
+      "pages": "22",
+      "page_start": 22,
+      "page_end": 22,
+      "desc": "مستثنی، مستثنی منہ، متصل، منقطع اور مفرغ",
+      "questions": [
+        {
+          "q": "استثناء میں جس کو حکم سے الگ کیا جائے اسے کیا کہتے ہیں؟",
+          "opts": [
+            "فاعل",
+            "مبتدا",
+            "مستثنیٰ",
+            "مستثنی منہ"
+          ],
+          "a": 2,
+          "why": "جسے إلا وغیرہ سے مستثنیٰ کیا جائے وہ مستثنیٰ ہے۔",
+          "page": 22,
+          "level": "بنیادی",
+          "topic": "استثناء کی قسمیں",
+          "en": {
+            "q": "In exception, what is the term for the one separated from the ruling?",
+            "opts": [
+              "Subject",
+              "Subject (Mubtada)",
+              "Exception (Mustasna)",
+              "Excluded from exception (Mustasna Minhu)"
+            ],
+            "why": "The one excluded by 'illa' or similar is called the exception (Mustasna)."
+          }
+        },
+        {
+          "q": "جس مجموعے سے کوئی چیز نکالی جائے اسے کیا کہتے ہیں؟",
+          "opts": [
+            "تمییز",
+            "خبر",
+            "ضمیر",
+            "مستثنی منہ"
+          ],
+          "a": 3,
+          "why": "استثناء کے اصل مجموعے کو مستثنی منہ کہتے ہیں۔",
+          "page": 22,
+          "level": "بنیادی",
+          "topic": "استثناء کی قسمیں",
+          "en": {
+            "q": "What is the term for the group from which something is extracted?",
+            "opts": [
+              "Specification (Tamyiz)",
+              "Predicate (Khabar)",
+              "Pronoun (Dameer)",
+              "Excluded from exception (Mustasna Minhu)"
+            ],
+            "why": "The original group in exception is called the excluded from exception (Mustasna Minhu)."
+          }
+        },
+        {
+          "q": "«جَاءَ الطُّلَّابُ إِلَّا خَالِدًا» میں مستثنیٰ کون ہے؟",
+          "opts": [
+            "خَالِدًا",
+            "الطُّلَّابُ",
+            "جَاءَ",
+            "کوئی نہیں"
+          ],
+          "a": 0,
+          "why": "خالدًا کو آنے والے طلبہ سے الگ کیا گیا ہے۔",
+          "page": 22,
+          "level": "متوسط",
+          "topic": "استثناء کی قسمیں",
+          "en": {
+            "q": "In the sentence «جَاءَ الطُّلَّابُ إِلَّا خَالِدًا», who is the exception?",
+            "opts": [
+              "خَالِدًا",
+              "الطُّلَّابُ",
+              "جَاءَ",
+              "None"
+            ],
+            "why": "Khalid (خالداً) is separated from the coming students (الطُّلَّابُ)."
+          }
+        },
+        {
+          "q": "جب مستثنیٰ مستثنی منہ کی جنس میں شامل ہو تو استثناء کیا کہلاتا ہے؟",
+          "opts": [
+            "مؤکد",
+            "متصل",
+            "منقطع",
+            "مفرغ"
+          ],
+          "a": 1,
+          "why": "متصل استثناء میں مستثنی اصل مجموعے میں داخل ہو سکتا ہے۔",
+          "page": 22,
+          "level": "متوسط",
+          "topic": "استثناء کی قسمیں",
+          "en": {
+            "q": "When the exception is included in the same class as the excluded group, what is the exception called?",
+            "opts": [
+              "Emphatic (Muakkad)",
+              "Connected (Muttasil)",
+              "Disconnected (Munqati')",
+              "Emancipated (Mufarragh)"
+            ],
+            "why": "In connected exception, the exception can be included in the original group."
+          }
+        },
+        {
+          "q": "جب مستثنیٰ مستثنی منہ کی جنس سے نہ ہو تو کیا کہلاتا ہے؟",
+          "opts": [
+            "بدل",
+            "توصیفی",
+            "منقطع",
+            "متصل"
+          ],
+          "a": 2,
+          "why": "منقطع استثناء میں مستثنیٰ جنساً الگ ہوتا ہے۔",
+          "page": 22,
+          "level": "عملی",
+          "topic": "استثناء کی قسمیں",
+          "en": {
+            "q": "When the exception is not of the same class as the excluded group, what is it called?",
+            "opts": [
+              "Substitute (Badal)",
+              "Descriptive (Tausifi)",
+              "Disconnected (Munqati')",
+              "Connected (Muttasil)"
+            ],
+            "why": "In disconnected exception, the exception is different in gender or class."
+          }
+        },
+        {
+          "q": "«مَا جَاءَ إِلَّا زَيْدٌ» میں «زَيْدٌ» کا اعراب کیا ہے؟",
+          "opts": [
+            "نصب لازماً",
+            "جر لازماً",
+            "جزم",
+            "رفع، کیونکہ فاعل ہے"
+          ],
+          "a": 3,
+          "why": "مفرغ استثناء میں إلا کے بعد لفظ کو جملے میں اپنے اصلی عامل کے مطابق اعراب دیا جاتا ہے۔",
+          "page": 22,
+          "level": "عملی",
+          "topic": "استثناء کی قسمیں",
+          "en": {
+            "q": "What is the case ending of «زَيْدٌ» in the sentence «مَا جَاءَ إِلَّا زَيْدٌ»?",
+            "opts": [
+              "Accusative necessarily",
+              "Genitive necessarily",
+              "Jussive",
+              "Nominative, because it is the subject"
+            ],
+            "why": "In absolute exception, the word after إلا is given case ending according to its original syntactic role in the sentence."
+          }
+        },
+        {
+          "q": "استثناء مفرغ کی ایک علامت کیا ہو سکتی ہے؟",
+          "opts": [
+            "نفی کے بعد مستثنی منہ کا مذکور نہ ہونا",
+            "ہمیشہ جمع سالم ہونا",
+            "اسم موصول کا داخل ہونا",
+            "ضمیر متصل ہونا"
+          ],
+          "a": 0,
+          "why": "مفرغ میں نفی کے ساتھ مستثنی منہ کا صراحتاً ذکر نہیں ہوتا۔",
+          "page": 22,
+          "level": "اعادہ",
+          "topic": "استثناء کی قسمیں",
+          "en": {
+            "q": "What can be a sign of absolute exception (Istithna' Mufrag)?",
+            "opts": [
+              "The excluded item is not explicitly mentioned after negation",
+              "It is always sound plural",
+              "The inclusion of a relative noun",
+              "The presence of an attached pronoun"
+            ],
+            "why": "In absolute exception, the excluded item is not explicitly mentioned along with the negation."
+          }
+        }
+      ],
+      "title_en": "Types of exception"
+    },
+    {
+      "lesson": 20,
+      "book_lesson_number": 20,
+      "title": "مجرورات",
+      "pages": "23",
+      "page_start": 23,
+      "page_end": 23,
+      "desc": "حرفِ جر اور اضافت سے مجرور ہونے والے اسم",
+      "questions": [
+        {
+          "q": "حرف جر کے بعد آنے والے اسم کی عام حالت کیا ہے؟",
+          "opts": [
+            "مرفوع",
+            "منصوب",
+            "مجزوم",
+            "مجرور"
+          ],
+          "a": 3,
+          "why": "حرفِ جر اپنے بعد کے اسم کو جر دیتا ہے۔",
+          "page": 23,
+          "level": "بنیادی",
+          "topic": "مجرورات",
+          "en": {
+            "q": "What is the usual case of a noun that comes after a preposition?",
+            "opts": [
+              "Nominative",
+              "Accusative",
+              "Jussive",
+              "Genitive"
+            ],
+            "why": "A preposition makes the noun following it genitive."
+          }
+        },
+        {
+          "q": "«فِي الْمَسْجِدِ» میں الْمَسْجِدِ کی حالت کیا ہے؟",
+          "opts": [
+            "مجرور",
+            "منصوب",
+            "مجزوم",
+            "مرفوع"
+          ],
+          "a": 0,
+          "why": "فِي حرف جر ہے، اس لیے الْمَسْجِدِ مجرور ہے۔",
+          "page": 23,
+          "level": "بنیادی",
+          "topic": "مجرورات",
+          "en": {
+            "q": "What is the case of الْمَسْجِدِ in «فِي الْمَسْجِدِ»?",
+            "opts": [
+              "Genitive",
+              "Accusative",
+              "Jussive",
+              "Nominative"
+            ],
+            "why": "Since فِي is a preposition, الْمَسْجِدِ is genitive."
+          }
+        },
+        {
+          "q": "«كِتَابُ زَيْدٍ» میں «زَيْدٍ» کیا ہے؟",
+          "opts": [
+            "فاعل",
+            "مضاف الیہ",
+            "مضاف",
+            "خبر"
+          ],
+          "a": 1,
+          "why": "زیدٍ، کتابُ کا مضاف الیہ ہے اور مجرور ہے۔",
+          "page": 23,
+          "level": "متوسط",
+          "topic": "مجرورات",
+          "en": {
+            "q": "What is «زَيْدٍ» in «كِتَابُ زَيْدٍ»?",
+            "opts": [
+              "Subject",
+              "Genitive (Mudaf Ilayh)",
+              "Possessed (Mudaf)",
+              "Predicate"
+            ],
+            "why": "زیدٍ is the genitive (Mudaf Ilayh) of كتاب and is in the genitive case."
+          }
+        },
+        {
+          "q": "«إِلَى» کس قسم کا کلمہ ہے؟",
+          "opts": [
+            "اسم علم",
+            "صفت",
+            "حرف جر",
+            "فعل ماضی"
+          ],
+          "a": 2,
+          "why": "إلى حروف جر میں شامل ہے۔",
+          "page": 23,
+          "level": "متوسط",
+          "topic": "مجرورات",
+          "en": {
+            "q": "What kind of word is «إِلَى»?",
+            "opts": [
+              "Proper noun",
+              "Adjective",
+              "Preposition",
+              "Past tense verb"
+            ],
+            "why": "إلى is one of the prepositions."
+          }
+        },
+        {
+          "q": "«مِنَ الْبَيْتِ» میں «الْبَيْتِ» کس وجہ سے مجرور ہے؟",
+          "opts": [
+            "مبتدا ہونے کی وجہ سے",
+            "فاعل ہونے سے",
+            "مفعول مطلق ہونے سے",
+            "مِنْ کی وجہ سے"
+          ],
+          "a": 3,
+          "why": "مِنْ حرف جر ہے جو البيتِ کو مجرور کرتا ہے۔",
+          "page": 23,
+          "level": "عملی",
+          "topic": "مجرورات",
+          "en": {
+            "q": "Why is «الْبَيْتِ» genitive in «مِنَ الْبَيْتِ»?",
+            "opts": [
+              "Because it is the subject",
+              "Because it is the doer (subject)",
+              "Because it is an absolute object",
+              "Because of مِنْ"
+            ],
+            "why": "مِنْ is a preposition which makes البيتِ genitive."
+          }
+        },
+        {
+          "q": "«بَابُ الْمَدْرَسَةِ» میں مضاف کون ہے؟",
+          "opts": [
+            "بَابُ",
+            "الْمَدْرَسَةِ",
+            "دونوں مضاف الیہ",
+            "کوئی نہیں"
+          ],
+          "a": 0,
+          "why": "بَابُ مضاف ہے اور المدرسة مضاف الیہ مجرور ہے۔",
+          "page": 23,
+          "level": "عملی",
+          "topic": "مجرورات",
+          "en": {
+            "q": "In «بَابُ الْمَدْرَسَةِ», which is the Mudhaf (possessed)?",
+            "opts": [
+              "بَابُ",
+              "الْمَدْرَسَةِ",
+              "Both Mudhaf Ilayh (possessor and possessed)",
+              "None"
+            ],
+            "why": "بَابُ is the Mudhaf (possessed), and الْمَدْرَسَةِ is the Mudhaf Ilayh (possessor) in the genitive case."
+          }
+        },
+        {
+          "q": "اضافت میں مضاف الیہ کی اعرابی حالت عمومی طور پر کیا ہوتی ہے؟",
+          "opts": [
+            "رفع",
+            "جر",
+            "نصب",
+            "جزم"
+          ],
+          "a": 1,
+          "why": "مضاف الیہ ہمیشہ مجرور ہوتا ہے۔",
+          "page": 23,
+          "level": "اعادہ",
+          "topic": "مجرورات",
+          "en": {
+            "q": "What is the usual grammatical case of the Mudhaf Ilayh in Idafah (genitive construction)?",
+            "opts": [
+              "Nominative",
+              "Genitive",
+              "Accusative",
+              "Jussive"
+            ],
+            "why": "The Mudhaf Ilayh is always in the genitive case."
+          }
+        }
+      ],
+      "title_en": "Genitives"
+    },
+    {
+      "lesson": 21,
+      "book_lesson_number": 21,
+      "title": "توابع: نعت، تاکید اور بدل",
+      "pages": "24–25",
+      "page_start": 24,
+      "page_end": 25,
+      "desc": "تابع و متبوع، نعت، عطف، بدل، تاکید لفظی و معنوی",
+      "questions": [
+        {
+          "q": "متبوع کے اعراب کی پیروی کرنے والے اسم کو کیا کہتے ہیں؟",
+          "opts": [
+            "تابع",
+            "عامل",
+            "مصدر",
+            "حرف"
+          ],
+          "a": 0,
+          "why": "تابع اپنے متبوع کے اعراب کے مطابق آتا ہے۔",
+          "page": 24,
+          "level": "بنیادی",
+          "topic": "توابع: نعت، تاکید اور بدل",
+          "en": {
+            "q": "What is a noun called that follows the grammatical case of the word it depends on?",
+            "opts": [
+              "Follower (تابع)",
+              "Agent (عامل)",
+              "Verbal noun (مصدر)",
+              "Particle (حرف)"
+            ],
+            "why": "A follower (تابع) comes according to the grammatical case of the word it depends on (متبوع)."
+          }
+        },
+        {
+          "q": "«جَاءَ الرَّجُلُ الصَّالِحُ» میں «الصَّالِحُ» کیا ہے؟",
+          "opts": [
+            "ظرف",
+            "نعت",
+            "فاعل",
+            "مفعول بہ"
+          ],
+          "a": 1,
+          "why": "الصالحُ، الرجلُ کی صفت یعنی نعت ہے۔",
+          "page": 24,
+          "level": "بنیادی",
+          "topic": "توابع: نعت، تاکید اور بدل",
+          "en": {
+            "q": "In «جَاءَ الرَّجُلُ الصَّالِحُ», what is «الصَّالِحُ»?",
+            "opts": [
+              "Adverbial (ظرف)",
+              "Adjective (نعت)",
+              "Subject (فاعل)",
+              "Object (مفعول بہ)"
+            ],
+            "why": "الصالحُ is the adjective (نعت) describing الرجلُ."
+          }
+        },
+        {
+          "q": "نعت اپنے منعوت کے کس پہلو میں مطابقت رکھتی ہے؟",
+          "opts": [
+            "ہمیشہ فعل ماضی ہونے میں",
+            "صرف جزم میں",
+            "اعراب وغیرہ میں",
+            "صرف مصدر ہونے میں"
+          ],
+          "a": 2,
+          "why": "نعت اپنے منعوت کی اعرابی اور مناسب دیگر خصوصیات کی پیروی کرتی ہے۔",
+          "page": 24,
+          "level": "متوسط",
+          "topic": "توابع: نعت، تاکید اور بدل",
+          "en": {
+            "q": "In which aspect does an adjective (نعت) agree with the noun it describes (منعوت)?",
+            "opts": [
+              "Always in past tense of the verb",
+              "Only in jussive mood",
+              "In grammatical case (اعراب) and others",
+              "Only in being a verbal noun"
+            ],
+            "why": "An adjective (نعت) agrees with the noun it describes (منعوت) in grammatical case and other appropriate characteristics."
+          }
+        },
+        {
+          "q": "«جَاءَ زَيْدٌ زَيْدٌ» میں لفظ کی تکرار کس نوع کی تاکید ہو سکتی ہے؟",
+          "opts": [
+            "بدل کل",
+            "اسم ظرف",
+            "مستثنیٰ",
+            "تاکید لفظی"
+          ],
+          "a": 3,
+          "why": "وہی لفظ دہرانا تاکید لفظی ہے۔",
+          "page": 24,
+          "level": "متوسط",
+          "topic": "توابع: نعت، تاکید اور بدل",
+          "en": {
+            "q": "In «جَاءَ زَيْدٌ زَيْدٌ», the repetition of the word can be an example of which type of emphasis?",
+            "opts": [
+              "Complete substitution (بدل کل)",
+              "Adverbial noun (اسم ظرف)",
+              "Exception (مستثنیٰ)",
+              "Verbal emphasis (تاکید لفظی)"
+            ],
+            "why": "Repeating the exact same word is verbal emphasis (تاکید لفظی)."
+          }
+        },
+        {
+          "q": "«جَاءَ الْقَوْمُ كُلُّهُمْ» میں «كُلُّهُمْ» کس کی مثال ہے؟",
+          "opts": [
+            "تاکید معنوی",
+            "فعل ناقص",
+            "مستثنیٰ",
+            "تمییز"
+          ],
+          "a": 0,
+          "why": "كلّهم تاکید معنوی ہے اور قوم کی شمولیت واضح کرتا ہے۔",
+          "page": 24,
+          "level": "عملی",
+          "topic": "توابع: نعت، تاکید اور بدل",
+          "en": {
+            "q": "In «جَاءَ الْقَوْمُ كُلُّهُمْ», «كُلُّهُمْ» is an example of what?",
+            "opts": [
+              "Emphatic meaning (تاکید معنوی)",
+              "Defective verb (فعل ناقص)",
+              "Exception (مستثنیٰ)",
+              "Specification (تمییز)"
+            ],
+            "why": "كلّهم is emphatic meaning (تاکید معنوی) and clearly indicates the inclusion of the entire قوم."
+          }
+        },
+        {
+          "q": "«جَاءَ أَخُوكَ زَيْدٌ» میں «زَيْدٌ» کو کس تابع کے طور پر لیا جا سکتا ہے؟",
+          "opts": [
+            "حرف جر",
+            "بدل",
+            "مفعول فیہ",
+            "خبر إن"
+          ],
+          "a": 1,
+          "why": "زید، أخوك کی وضاحت میں بدل کل کے طور پر آ سکتا ہے۔",
+          "page": 24,
+          "level": "عملی",
+          "topic": "توابع: نعت، تاکید اور بدل",
+          "en": {
+            "q": "In the sentence «جَاءَ أَخُوكَ زَيْدٌ», what grammatical category can «زَيْدٌ» be taken as?",
+            "opts": [
+              "Preposition",
+              "Baddal (substitute)",
+              "Object",
+              "Predicate of Inna"
+            ],
+            "why": "Zayd can come as a baddal (substitute) explaining your brother (أخوك)."
+          }
+        },
+        {
+          "q": "«رَأَيْتُ الرَّجُلَ الصَّالِحَ» میں نعت منصوب کیوں ہے؟",
+          "opts": [
+            "ضمیر ہونے سے",
+            "جمع ہونے سے",
+            "منعوت الرَّجُلَ کی پیروی سے",
+            "ال کی موجودگی سے"
+          ],
+          "a": 2,
+          "why": "نعت منعوت کی نصب کی حالت کی پیروی کرتی ہے۔",
+          "page": 25,
+          "level": "اعادہ",
+          "topic": "توابع: نعت، تاکید اور بدل",
+          "en": {
+            "q": "Why is the adjective in «رَأَيْتُ الرَّجُلَ الصَّالِحَ» in the accusative case?",
+            "opts": [
+              "Because it is a pronoun",
+              "Because it is plural",
+              "Because it follows the accusative case of the described noun الرَّجُلَ",
+              "Because of the presence of al-"
+            ],
+            "why": "The adjective follows the accusative case of the noun it describes (the described)."
+          }
+        }
+      ],
+      "title_en": "Dependent words: adjectives, emphasis and substitution"
+    },
+    {
+      "lesson": 22,
+      "book_lesson_number": 22,
+      "title": "بدل، عطفِ نسق اور عطفِ بیان",
+      "pages": "26",
+      "page_start": 26,
+      "page_end": 26,
+      "desc": "تابع کی بقیہ اقسام، حروفِ عطف اور وضاحت",
+      "questions": [
+        {
+          "q": "«جَاءَ زَيْدٌ وَعَمْرٌو» میں واو کس نوع کا حرف ہے؟",
+          "opts": [
+            "حرف استفہام",
+            "حرف عطف",
+            "حرف جر",
+            "حرف نفی"
+          ],
+          "a": 1,
+          "why": "واو سے عمرو کو زید پر عطف کیا گیا ہے۔",
+          "page": 26,
+          "level": "بنیادی",
+          "topic": "بدل، عطفِ نسق اور عطفِ بیان",
+          "en": {
+            "q": "In «جَاءَ زَيْدٌ وَعَمْرٌو», what type of particle is the letter waw?",
+            "opts": [
+              "Interrogative particle",
+              "Conjunction particle",
+              "Preposition",
+              "Negative particle"
+            ],
+            "why": "The waw here is used to coordinate 'Amr' with 'Zayd'."
+          }
+        },
+        {
+          "q": "عطفِ نسق میں دو اسموں کو جوڑنے والا کیا ہوتا ہے؟",
+          "opts": [
+            "ضمیر منفصل",
+            "اسم موصول",
+            "حرف عطف",
+            "فعل ناقص"
+          ],
+          "a": 2,
+          "why": "عطف نسق حرفِ عطف کے واسطے سے ہوتا ہے۔",
+          "page": 26,
+          "level": "بنیادی",
+          "topic": "بدل، عطفِ نسق اور عطفِ بیان",
+          "en": {
+            "q": "In coordination (ʿatf al-nisq), what connects two nouns?",
+            "opts": [
+              "Independent pronoun",
+              "Relative noun",
+              "Conjunction particle",
+              "Defective verb"
+            ],
+            "why": "Coordination is done through a conjunction particle."
+          }
+        },
+        {
+          "q": "«ثُمَّ» بطور حرف عطف عام طور پر کیا ظاہر کرتا ہے؟",
+          "opts": [
+            "فوراً نفی",
+            "صرف جر",
+            "سوال",
+            "ترتیب کے ساتھ مہلت"
+          ],
+          "a": 3,
+          "why": "ثم ترتیب اور وقفے کا مفہوم دیتی ہے۔",
+          "page": 26,
+          "level": "متوسط",
+          "topic": "بدل، عطفِ نسق اور عطفِ بیان",
+          "en": {
+            "q": "What does «ثُمَّ» usually indicate as a particle of coordination?",
+            "opts": [
+              "Immediate negation",
+              "Only genitive case",
+              "Question",
+              "Sequence with a pause"
+            ],
+            "why": "ثم conveys the meaning of sequence along with a pause."
+          }
+        },
+        {
+          "q": "«فَـ» بطور حرف عطف کیا ظاہر کر سکتا ہے؟",
+          "opts": [
+            "ترتیب مع تعقیب",
+            "جزمِ اسم",
+            "بعید اشارہ",
+            "تمنّا"
+          ],
+          "a": 0,
+          "why": "فاء ترتیب کے ساتھ جلدی یا تعقیب ظاہر کرتی ہے۔",
+          "page": 26,
+          "level": "متوسط",
+          "topic": "بدل، عطفِ نسق اور عطفِ بیان",
+          "en": {
+            "q": "What can the particle «فَـ» indicate as a conjunction?",
+            "opts": [
+              "Sequence with continuation",
+              "Jussive case of a noun",
+              "Distant indication",
+              "Wish/desire"
+            ],
+            "why": "The letter fā’ indicates sequence with immediacy or continuation."
+          }
+        },
+        {
+          "q": "بدل اور مبدل منہ میں اعراب کا بنیادی تعلق کیا ہے؟",
+          "opts": [
+            "بدل ہمیشہ مفعول فیہ ہے",
+            "بدل متبوع کے اعراب کی پیروی کرتا ہے",
+            "بدل ہمیشہ مجزوم ہوتا ہے",
+            "بدل ہمیشہ حرف ہوتا ہے"
+          ],
+          "a": 1,
+          "why": "بدل بھی توابع میں سے ہے، اس لیے اعراب کی پیروی کرتا ہے۔",
+          "page": 26,
+          "level": "عملی",
+          "topic": "بدل، عطفِ نسق اور عطفِ بیان",
+          "en": {
+            "q": "What is the basic relation of case endings between the Badal (substitute) and the Mubdal minhu (the substituted)?",
+            "opts": [
+              "Badal is always an object of place",
+              "Badal follows the case ending of the Mubdal minhu",
+              "Badal is always in jussive case",
+              "Badal is always a particle"
+            ],
+            "why": "Badal is among the mutābiʿāt (followers), therefore it follows the case ending of the Mubdal minhu."
+          }
+        },
+        {
+          "q": "عطف بیان کا اصل فائدہ کیا ہے؟",
+          "opts": [
+            "صرف نفی کرنا",
+            "عدد کو جمع بنانا",
+            "پہلے اسم کی وضاحت کرنا",
+            "فعل کو ماضی بنانا"
+          ],
+          "a": 2,
+          "why": "عطف بیان متبوع کی مزید وضاحت کرتا ہے۔",
+          "page": 26,
+          "level": "عملی",
+          "topic": "بدل، عطفِ نسق اور عطفِ بیان",
+          "en": {
+            "q": "What is the primary benefit of the coordination of enumeration (ʿAṭf Bayān)?",
+            "opts": [
+              "Only to negate",
+              "To pluralize a number",
+              "To clarify the first noun",
+              "To make the verb past tense"
+            ],
+            "why": "The coordination of enumeration provides further clarification of the term being coordinated."
+          }
+        },
+        {
+          "q": "«جَاءَ زَيْدٌ وَبَكْرٌ» میں «بَكْرٌ» کیوں مرفوع ہے؟",
+          "opts": [
+            "مفعول بہ ہونے کی وجہ سے",
+            "مجرور ہونے کی وجہ سے",
+            "ظرف ہونے کی وجہ سے",
+            "زيدٌ پر عطف ہونے کی وجہ سے"
+          ],
+          "a": 3,
+          "why": "معطوف اپنے معطوف علیہ کے اعراب میں تابع ہے۔",
+          "page": 26,
+          "level": "اعادہ",
+          "topic": "بدل، عطفِ نسق اور عطفِ بیان",
+          "en": {
+            "q": "Why is «بَكْرٌ» nominative in «جَاءَ زَيْدٌ وَبَكْرٌ»?",
+            "opts": [
+              "Because it is accusative",
+              "Because it is genitive",
+              "Because it is an adverbial",
+              "Because it is coordinated with زيدٌ"
+            ],
+            "why": "The coordinated word follows the case ending of the word it is coordinated with."
+          }
+        }
+      ],
+      "title_en": "Substitution, coordination and explanatory apposition"
+    },
+    {
+      "lesson": 23,
+      "book_lesson_number": 23,
+      "title": "اعرابِ اسم کی تفصیلات",
+      "pages": "26–27",
+      "page_start": 26,
+      "page_end": 27,
+      "desc": "اعراب لفظی و تقدیری، اسم صحیح، مقصور اور منقوص",
+      "questions": [
+        {
+          "q": "جس اسم کے آخر پر حرکت ظاہر ہو اسے کس اعراب کی مثال کہیں گے؟",
+          "opts": [
+            "جزمِ حرف",
+            "اسم مبنی",
+            "اعراب لفظی",
+            "اعراب تقدیری"
+          ],
+          "a": 2,
+          "why": "جب حرکت واضح نظر آئے تو اعراب لفظی ہوتا ہے۔",
+          "page": 27,
+          "level": "بنیادی",
+          "topic": "اعرابِ اسم کی تفصیلات",
+          "en": {
+            "q": "A noun that ends with a visible vowel mark is an example of which type of iʿrāb (inflection)?",
+            "opts": [
+              "Jazm of a letter",
+              "Constructed noun (Ism Mabni)",
+              "Lafzi iʿrāb (visible inflection)",
+              "Taqdeeri iʿrāb (estimation inflection)"
+            ],
+            "why": "When the vowel mark is clearly visible, it is called lafzi iʿrāb (visible inflection)."
+          }
+        },
+        {
+          "q": "«جَاءَ زَيْدٌ» میں زَيْدٌ کا اعراب کیسا ہے؟",
+          "opts": [
+            "تقدیری",
+            "محلی فقط",
+            "مبنی",
+            "لفظی"
+          ],
+          "a": 3,
+          "why": "زید کے آخر میں ضمہ ظاہری ہے، لہٰذا اعراب لفظی ہے۔",
+          "page": 27,
+          "level": "بنیادی",
+          "topic": "اعرابِ اسم کی تفصیلات",
+          "en": {
+            "q": "What kind of iʿrāb does زَيْدٌ in «جَاءَ زَيْدٌ» have?",
+            "opts": [
+              "Taqdeeri (estimation)",
+              "Makani only (local)",
+              "Mabni (constructed)",
+              "Lafzi (visible)"
+            ],
+            "why": "Because the ضمة (damma) on the end of زيد is visible, the iʿrāb is lafzi (visible)."
+          }
+        },
+        {
+          "q": "«جَاءَ الْفَتَى» میں رفع کی علامت کیسی ہے؟",
+          "opts": [
+            "مقدر",
+            "ظاہر ضمہ",
+            "ظاہر واو",
+            "حذف نون"
+          ],
+          "a": 0,
+          "why": "مقصور اسم کے آخری الف پر حرکت ظاہر نہیں ہوتی، اعراب مقدر ہوتا ہے۔",
+          "page": 27,
+          "level": "متوسط",
+          "topic": "اعرابِ اسم کی تفصیلات",
+          "en": {
+            "q": "In «جَاءَ الْفَتَى» what type of sign indicates the nominative case?",
+            "opts": [
+              "Muqaddar (estimated)",
+              "Visible damma",
+              "Visible wāw",
+              "Nun deletion"
+            ],
+            "why": "The last alif of an ism maqsūr does not show a vowel mark, so the iʿrāb is muqaddar (estimated)."
+          }
+        },
+        {
+          "q": "اسم مقصور عموماً کس پر ختم ہوتا ہے؟",
+          "opts": [
+            "نونِ تاکید",
+            "الف لازمہ",
+            "تاء مربوطة",
+            "واو جماعت"
+          ],
+          "a": 1,
+          "why": "مقصور اسم کے آخر میں الف لازمہ ہوتی ہے، جیسے الْفَتَى۔",
+          "page": 27,
+          "level": "متوسط",
+          "topic": "اعرابِ اسم کی تفصیلات",
+          "en": {
+            "q": "An ism maqsūr generally ends with which letter?",
+            "opts": [
+              "Nūn of emphasis (Nun al-Takīd)",
+              "Necessary alif (Alif Lazimah)",
+              "Tā’ marbūṭah",
+              "Wāw of the plural"
+            ],
+            "why": "An ism maqsūr ends with a necessary alif, for example الْفَتَى."
+          }
+        },
+        {
+          "q": "«الْقَاضِي» کس نوع کے اسم کی مثال ہے؟",
+          "opts": [
+            "جمع مکسر",
+            "حرف",
+            "منقوص",
+            "مقصور"
+          ],
+          "a": 2,
+          "why": "منقوص میں آخر پر یاء لازمہ اور ماقبل کسرہ ہوتا ہے۔",
+          "page": 27,
+          "level": "عملی",
+          "topic": "اعرابِ اسم کی تفصیلات",
+          "en": {
+            "q": "«الْقَاضِي» is an example of which type of ism?",
+            "opts": [
+              "Broken plural",
+              "Particle",
+              "Mancūs (defective noun)",
+              "Maqsūr (restricted noun)"
+            ],
+            "why": "A manqūṣ (defective noun) ends with a necessary yā’ preceded by a kasrah."
+          }
+        },
+        {
+          "q": "«عَصًا» کی اصل «عَصَا» میں کون سی خاصیت ہے؟",
+          "opts": [
+            "جمع سالم",
+            "اسمِ موصول",
+            "فعل ناقص",
+            "مقصور اسم"
+          ],
+          "a": 3,
+          "why": "عصا آخر کے الف کے سبب مقصور ہے۔",
+          "page": 27,
+          "level": "عملی",
+          "topic": "اعرابِ اسم کی تفصیلات",
+          "en": {
+            "q": "What is the characteristic of the original form «عَصَا» in «عَصًا»?",
+            "opts": [
+              "Sound plural",
+              "Relative noun",
+              "Defective verb",
+              "Maqsur noun"
+            ],
+            "why": "‘عصا’ is Maqsur due to the presence of the final alif."
+          }
+        },
+        {
+          "q": "«رَأَيْتُ الْقَاضِيَ» میں کیا خاص بات ہے؟",
+          "opts": [
+            "منقوص کے آخر میں نصب ظاہر ہو سکتا ہے",
+            "یہاں فاعل مرفوع ہے",
+            "یہ ضمیر مبنی ہے",
+            "یہ حرف شرط ہے"
+          ],
+          "a": 0,
+          "why": "اسم منقوص میں نصب کی فتحہ ظاہر ہو سکتی ہے، جبکہ دیگر حالتوں میں تقدیر آ سکتی ہے۔",
+          "page": 27,
+          "level": "اعادہ",
+          "topic": "اعرابِ اسم کی تفصیلات",
+          "en": {
+            "q": "What is special about «رَأَيْتُ الْقَاضِيَ»?",
+            "opts": [
+              "In the defective noun, the accusative can appear with a fatḥa",
+              "Here the subject is nominative",
+              "It is a built pronoun",
+              "It is a conditional particle"
+            ],
+            "why": "In the defective noun, the fatḥa can appear in accusative, whereas in other cases, a ḍamma (nominative) is expected."
+          }
+        }
+      ],
+      "title_en": "Details of noun inflection"
+    },
+    {
+      "lesson": 24,
+      "book_lesson_number": 24,
+      "title": "اسماء کی اعرابی علامتیں",
+      "pages": "28",
+      "page_start": 28,
+      "page_end": 28,
+      "desc": "تثنیہ، جمع مذکر و مؤنث سالم، اسمائے ستہ",
+      "questions": [
+        {
+          "q": "«جَاءَ الْمُسْلِمُونَ» میں جمع مذکر سالم کی رفع علامت کیا ہے؟",
+          "opts": [
+            "الف",
+            "یاء",
+            "فتحہ",
+            "واو"
+          ],
+          "a": 3,
+          "why": "جمع مذکر سالم حالت رفع میں واو سے مرفوع ہوتا ہے۔",
+          "page": 28,
+          "level": "بنیادی",
+          "topic": "اسماء کی اعرابی علامتیں",
+          "en": {
+            "q": "What is the nominative marker of the sound masculine plural in «جَاءَ الْمُسْلِمُونَ»?",
+            "opts": [
+              "Alif",
+              "Ya'",
+              "Fatha",
+              "Waw"
+            ],
+            "why": "The sound masculine plural takes 'waw' as the nominative marker."
+          }
+        },
+        {
+          "q": "«رَأَيْتُ الْمُسْلِمِينَ» میں نصب کی علامت کیا ہے؟",
+          "opts": [
+            "یاء",
+            "واو",
+            "الف",
+            "ضمہ"
+          ],
+          "a": 0,
+          "why": "جمع مذکر سالم نصب اور جر میں یاء لیتا ہے۔",
+          "page": 28,
+          "level": "بنیادی",
+          "topic": "اسماء کی اعرابی علامتیں",
+          "en": {
+            "q": "What is the accusative marker in «رَأَيْتُ الْمُسْلِمِينَ»?",
+            "opts": [
+              "Ya'",
+              "Waw",
+              "Alif",
+              "Damma"
+            ],
+            "why": "The sound masculine plural takes 'ya' in accusative and genitive cases."
+          }
+        },
+        {
+          "q": "«جَاءَ رَجُلَانِ» میں تثنیہ کی رفع علامت کیا ہے؟",
+          "opts": [
+            "کسرہ",
+            "الف",
+            "یاء",
+            "واو"
+          ],
+          "a": 1,
+          "why": "تثنیہ کی رفع الف سے ہوتی ہے۔",
+          "page": 28,
+          "level": "متوسط",
+          "topic": "اسماء کی اعرابی علامتیں",
+          "en": {
+            "q": "What is the nominative marker of the dual in «جَاءَ رَجُلَانِ»?",
+            "opts": [
+              "Kasra",
+              "Alif",
+              "Ya'",
+              "Waw"
+            ],
+            "why": "The nominative of the dual is marked by 'Alif'."
+          }
+        },
+        {
+          "q": "«رَأَيْتُ رَجُلَيْنِ» میں تثنیہ کی نصب علامت کیا ہے؟",
+          "opts": [
+            "واو",
+            "سکون",
+            "یاء",
+            "الف"
+          ],
+          "a": 2,
+          "why": "تثنیہ نصب و جر میں یاء کے ساتھ ہوتا ہے۔",
+          "page": 28,
+          "level": "متوسط",
+          "topic": "اسماء کی اعرابی علامتیں",
+          "en": {
+            "q": "What is the accusative marker of the dual in «رَأَيْتُ رَجُلَيْنِ»?",
+            "opts": [
+              "Waw",
+              "Sukoon",
+              "Ya'",
+              "Alif"
+            ],
+            "why": "The accusative and genitive of the dual is marked by 'Ya' with a nunation."
+          }
+        },
+        {
+          "q": "«رَأَيْتُ مُسْلِمَاتٍ» میں جمع مؤنث سالم کی نصب علامت کیا ہے؟",
+          "opts": [
+            "فتحہ",
+            "واو",
+            "الف",
+            "کسرہ"
+          ],
+          "a": 3,
+          "why": "جمع مؤنث سالم منصوب حالت میں بھی کسرہ کا استعمال کرتا ہے۔",
+          "page": 28,
+          "level": "عملی",
+          "topic": "اسماء کی اعرابی علامتیں",
+          "en": {
+            "q": "What is the accusative marker of the sound feminine plural in «رَأَيْتُ مُسْلِمَاتٍ»?",
+            "opts": [
+              "Fatha",
+              "Waw",
+              "Alif",
+              "Kasra"
+            ],
+            "why": "The sound feminine plural uses 'Kasra' even in the accusative state."
+          }
+        },
+        {
+          "q": "«جَاءَ أَبُوكَ» میں اسمائے ستہ کی رفع علامت کیا ہے؟",
+          "opts": [
+            "واو",
+            "الف",
+            "یاء",
+            "تنوین"
+          ],
+          "a": 0,
+          "why": "أَبُوكَ اسمائے ستہ کی شرائط کے ساتھ واو سے مرفوع ہے۔",
+          "page": 28,
+          "level": "عملی",
+          "topic": "اسماء کی اعرابی علامتیں",
+          "en": {
+            "q": "What is the nominative sign of the six nouns in «جَاءَ أَبُوكَ»?",
+            "opts": [
+              "Waw",
+              "Alif",
+              "Ya",
+              "Tanween"
+            ],
+            "why": "أَبُوكَ is nominative with a waw because it meets the conditions of the six nouns."
+          }
+        },
+        {
+          "q": "«مَرَرْتُ بِأَبِيكَ» میں جر کی علامت کیا ہے؟",
+          "opts": [
+            "حذف نون",
+            "یاء",
+            "واو",
+            "الف"
+          ],
+          "a": 1,
+          "why": "أَبِيكَ اسمائے ستہ کی صورت میں یاء سے مجرور ہے۔",
+          "page": 28,
+          "level": "اعادہ",
+          "topic": "اسماء کی اعرابی علامتیں",
+          "en": {
+            "q": "What is the genitive sign in «مَرَرْتُ بِأَبِيكَ»?",
+            "opts": [
+              "Nun deletion",
+              "Ya",
+              "Waw",
+              "Alif"
+            ],
+            "why": "أَبِيكَ is in the form of the six nouns and thus is genitive with a ya."
+          }
+        }
+      ],
+      "title_en": "Inflectional signs of nouns"
+    },
+    {
+      "lesson": 25,
+      "book_lesson_number": 25,
+      "title": "اسمِ غیر منصرف اور اعرابِ تقدیری",
+      "pages": "29–30",
+      "page_start": 29,
+      "page_end": 30,
+      "desc": "مقصور، غیر منصرف، علامتِ جر اور اعراب کی استثنائی صورتیں",
+      "questions": [
+        {
+          "q": "«جَاءَ مُوسَى» میں آخری حرکت کیوں ظاہر نہیں ہوتی؟",
+          "opts": [
+            "اسم مقصور میں اعراب مقدر ہے",
+            "یہ حرف جر ہے",
+            "یہ فعل امر ہے",
+            "یہ جمع مذکر سالم ہے"
+          ],
+          "a": 0,
+          "why": "موسیٰ کے آخر میں الف مقصورہ ہے، اس پر اعراب ظاہر نہیں ہوتا۔",
+          "page": 29,
+          "level": "بنیادی",
+          "topic": "اسمِ غیر منصرف اور اعرابِ تقدیری",
+          "en": {
+            "q": "Why is the final vowel not shown in «جَاءَ مُوسَى»?",
+            "opts": [
+              "In 'Ism Maqsur' the vowel is implied",
+              "It is a preposition",
+              "It is an imperative verb",
+              "It is a sound masculine plural"
+            ],
+            "why": "There is an 'Alif Maqsurah' at the end of موسى, so the vowel is not shown."
+          }
+        },
+        {
+          "q": "«رَأَيْتُ مُوسَى» میں اعراب کی نوعیت کیا ہے؟",
+          "opts": [
+            "جر بالواو",
+            "نصب تقدیری",
+            "رفع لفظی",
+            "جزم"
+          ],
+          "a": 1,
+          "why": "مقصور اسم کے الف پر نصب کی حرکت بھی مقدر ہوتی ہے۔",
+          "page": 29,
+          "level": "بنیادی",
+          "topic": "اسمِ غیر منصرف اور اعرابِ تقدیری",
+          "en": {
+            "q": "What is the nature of the case ending in «رَأَيْتُ مُوسَى»?",
+            "opts": [
+              "Genitive with 'waw'",
+              "Accusative implied (taqdiri)",
+              "Nominative literal",
+              "Jussive"
+            ],
+            "why": "The accusative case on the Alif of the 'Ism Maqsur' is also implied (taqdiri)."
+          }
+        },
+        {
+          "q": "«مَرَرْتُ بِمُوسَى» میں جر کی نوعیت کیا ہے؟",
+          "opts": [
+            "رفع بالضمہ",
+            "نصب بالواو",
+            "جر تقدیری",
+            "جر ظاہر بالکسرہ"
+          ],
+          "a": 2,
+          "why": "مقصور اسم کی جر بھی الف کے سبب مقدر ہے۔",
+          "page": 29,
+          "level": "متوسط",
+          "topic": "اسمِ غیر منصرف اور اعرابِ تقدیری",
+          "en": {
+            "q": "What is the nature of the genitive case in «مَرَرْتُ بِمُوسَى»?",
+            "opts": [
+              "Nominative with Dammah",
+              "Accusative with 'waw'",
+              "Implied genitive (taqdiri)",
+              "Apparent genitive with Kasrah"
+            ],
+            "why": "The genitive case of the 'Ism Maqsur' is also implied due to the Alif."
+          }
+        },
+        {
+          "q": "«جَاءَ الْقَاضِي» میں رفع کیا ہو گا؟",
+          "opts": [
+            "ظاہر فتحہ",
+            "ظاہر تنوین",
+            "حذف نون",
+            "تقدیری"
+          ],
+          "a": 3,
+          "why": "اسم منقوص میں رفع کی ضمہ عموماً مقدر ہوتی ہے۔",
+          "page": 29,
+          "level": "متوسط",
+          "topic": "اسمِ غیر منصرف اور اعرابِ تقدیری",
+          "en": {
+            "q": "What will be the nominative sign in «جَاءَ الْقَاضِي»?",
+            "opts": [
+              "Apparent Fatha",
+              "Apparent Tanween",
+              "Nunation deletion",
+              "Implied (taqdiri)"
+            ],
+            "why": "In 'Ism Manqous', the nominative Dammah is generally implied (taqdiri)."
+          }
+        },
+        {
+          "q": "«رَأَيْتُ الْقَاضِيَ» میں نصب کی علامت کیا ہے؟",
+          "opts": [
+            "ظاہر فتحہ",
+            "مقدر ضمہ",
+            "ظاہر واو",
+            "حذف الف"
+          ],
+          "a": 0,
+          "why": "منقوص کے آخر میں فتحہ ظاہر ہو سکتی ہے۔",
+          "page": 29,
+          "level": "عملی",
+          "topic": "اسمِ غیر منصرف اور اعرابِ تقدیری",
+          "en": {
+            "q": "What is the sign of the accusative in «رَأَيْتُ الْقَاضِيَ»?",
+            "opts": [
+              "Apparent Fatha",
+              "Implied Dammah",
+              "Apparent Waw",
+              "Alif deletion"
+            ],
+            "why": "At the end of 'Manqous', an apparent Fatha can occur."
+          }
+        },
+        {
+          "q": "«مَرَرْتُ بِأَحْمَدَ» میں جر کس کے ذریعے ہے؟",
+          "opts": [
+            "واو",
+            "فتحہ",
+            "کسرہ",
+            "ضمہ"
+          ],
+          "a": 1,
+          "why": "احمد غیر منصرف ہونے کے باعث عام حالتِ جر میں فتحہ لیتا ہے۔",
+          "page": 29,
+          "level": "عملی",
+          "topic": "اسمِ غیر منصرف اور اعرابِ تقدیری",
+          "en": {
+            "q": "In «مَرَرْتُ بِأَحْمَدَ», what causes the genitive case?",
+            "opts": [
+              "Wāw",
+              "Fatḥah",
+              "Kasrah",
+              "Ḍammah"
+            ],
+            "why": "Since Ahmad is diptote (ghayr munsarif), it takes fatḥah in the genitive case."
+          }
+        },
+        {
+          "q": "غیر منصرف «أَحْمَدُ» پر اضافت یا ال آجائے تو جر کیسے ہو سکتا ہے؟",
+          "opts": [
+            "حذف تاء سے",
+            "ہمیشہ ساکن",
+            "کسرہ سے",
+            "لازماً واو سے"
+          ],
+          "a": 2,
+          "why": "غیر منصرف اضافت/ال کے ساتھ مجرور کسرہ ہو سکتا ہے۔",
+          "page": 29,
+          "level": "اعادہ",
+          "topic": "اسمِ غیر منصرف اور اعرابِ تقدیری",
+          "en": {
+            "q": "If a diptote «أَحْمَدُ» is in annexation or has the definite article, how can it be in the genitive?",
+            "opts": [
+              "By omission of tāʼ",
+              "Always with sukūn",
+              "By kasrah",
+              "Necessarily by wāw"
+            ],
+            "why": "A diptote in annexation or with the definite article can be genitive by kasrah."
+          }
+        }
+      ],
+      "title_en": "Diptotes and implicit inflection"
+    },
+    {
+      "lesson": 26,
+      "book_lesson_number": 26,
+      "title": "فعلِ معرب اور فعلِ مبنی",
+      "pages": "30–31",
+      "page_start": 30,
+      "page_end": 31,
+      "desc": "مضارع کا رفع، نصب اور جزم، اور فعل ماضی و امر",
+      "questions": [
+        {
+          "q": "افعال میں عام طور پر کون سا فعل معرب ہوتا ہے؟",
+          "opts": [
+            "تمام مصادر",
+            "فعل مضارع",
+            "ہر فعل ماضی",
+            "ہر فعل امر"
+          ],
+          "a": 1,
+          "why": "فعل مضارع عام حالت میں اعراب قبول کرتا ہے۔",
+          "page": 30,
+          "level": "بنیادی",
+          "topic": "فعلِ معرب اور فعلِ مبنی",
+          "en": {
+            "q": "Which type of verb is usually inflected among verbs?",
+            "opts": [
+              "All verbal nouns (masdar)",
+              "Present tense verb",
+              "Every past tense verb",
+              "Every imperative verb"
+            ],
+            "why": "The present tense verb generally accepts i‘rāb (inflection)."
+          }
+        },
+        {
+          "q": "فعل ماضی عام طور پر کیا ہوتا ہے؟",
+          "opts": [
+            "مجرور",
+            "مثنی",
+            "مبنی",
+            "معرب"
+          ],
+          "a": 2,
+          "why": "فعل ماضی کی آخری حرکت عوامل سے اعراب کی طرح نہیں بدلتی۔",
+          "page": 30,
+          "level": "بنیادی",
+          "topic": "فعلِ معرب اور فعلِ مبنی",
+          "en": {
+            "q": "What is the general status of the past tense verb?",
+            "opts": [
+              "Genitive",
+              "Dual",
+              "Built (mabni)",
+              "Inflected (mu‘rab)"
+            ],
+            "why": "The final vowel of the past tense verb does not change its i‘rāb due to grammatical factors."
+          }
+        },
+        {
+          "q": "فعل امر عام طور پر کس قسم کا ہوتا ہے؟",
+          "opts": [
+            "معرب",
+            "مجرور",
+            "اسم منصرف",
+            "مبنی"
+          ],
+          "a": 3,
+          "why": "فعل امر مبنی ہوتا ہے۔",
+          "page": 30,
+          "level": "متوسط",
+          "topic": "فعلِ معرب اور فعلِ مبنی",
+          "en": {
+            "q": "What type is the imperative verb generally?",
+            "opts": [
+              "Inflected (mu‘rab)",
+              "Genitive",
+              "Derivative noun (ism mansarif)",
+              "Built (mabni)"
+            ],
+            "why": "The imperative verb is built (mabni)."
+          }
+        },
+        {
+          "q": "«يَكْتُبُ» کی عام حالت کیا ہے؟",
+          "opts": [
+            "مضارع مرفوع",
+            "مضارع منصوب",
+            "مضارع مجزوم",
+            "فعل ماضی"
+          ],
+          "a": 0,
+          "why": "کسی ناصب و جازم کے بغیر مضارع مرفوع ہوتا ہے۔",
+          "page": 30,
+          "level": "متوسط",
+          "topic": "فعلِ معرب اور فعلِ مبنی",
+          "en": {
+            "q": "What is the default state of «يَكْتُبُ»?",
+            "opts": [
+              "Indicative present tense (mudari‘ marfū‘)",
+              "Subjunctive present tense (mudari‘ manṣūb)",
+              "Jussive present tense (mudari‘ majzūm)",
+              "Past tense verb"
+            ],
+            "why": "Without a subjunctive (nāsib) or jussive (jāzim) particle, the present tense verb is indicative (marfū‘)."
+          }
+        },
+        {
+          "q": "«لَنْ يَكْتُبَ» میں مضارع کی حالت کیا ہے؟",
+          "opts": [
+            "مبنی علی الفتح",
+            "منصوب",
+            "مرفوع",
+            "مجرور"
+          ],
+          "a": 1,
+          "why": "لنْ فعل مضارع کو منصوب کرتا ہے۔",
+          "page": 30,
+          "level": "عملی",
+          "topic": "فعلِ معرب اور فعلِ مبنی",
+          "en": {
+            "q": "What is the state of the present tense verb in «لَنْ يَكْتُبَ»?",
+            "opts": [
+              "Built on fatḥa (mabni ‘alā al-fatḥ)",
+              "Subjunctive (manṣūb)",
+              "Indicative (marfū‘)",
+              "Genitive (majrūr)"
+            ],
+            "why": "The particle لَنْ (lan) makes the present tense verb subjunctive (manṣūb)."
+          }
+        },
+        {
+          "q": "«لَمْ يَكْتُبْ» میں مضارع کی حالت کیا ہے؟",
+          "opts": [
+            "مرفوع",
+            "مجرور",
+            "مجزوم",
+            "منصوب"
+          ],
+          "a": 2,
+          "why": "لمْ سے مضارع مجزوم ہوتا ہے۔",
+          "page": 30,
+          "level": "عملی",
+          "topic": "فعلِ معرب اور فعلِ مبنی",
+          "en": {
+            "q": "What is the mood of the present tense verb in «لَمْ يَكْتُبْ»?",
+            "opts": [
+              "Nominative",
+              "Genitive",
+              "Jussive",
+              "Accusative"
+            ],
+            "why": "The present tense verb becomes jussive with لمْ."
+          }
+        },
+        {
+          "q": "«يَكْتُبَانِ» کی عام رفع علامت کیا ہے؟",
+          "opts": [
+            "تنوین",
+            "ضمہ ظاہرہ",
+            "کسرہ",
+            "ثبوت نون"
+          ],
+          "a": 3,
+          "why": "افعال خمسہ میں رفع کی علامت نون کا ثابت رہنا ہے۔",
+          "page": 31,
+          "level": "اعادہ",
+          "topic": "فعلِ معرب اور فعلِ مبنی",
+          "en": {
+            "q": "What is the usual nominative sign of «يَكْتُبَانِ»?",
+            "opts": [
+              "Tanween",
+              "Visible Damma",
+              "Kasra",
+              "Retention of the Nun"
+            ],
+            "why": "In the five verbs (افعال خمسہ), the sign of nominative is the retention of the Nun."
+          }
+        }
+      ],
+      "title_en": "Declinable and indeclinable verbs"
+    },
+    {
+      "lesson": 27,
+      "book_lesson_number": 27,
+      "title": "اسمائے عاملہ: مصدر اور اسمِ فاعل و مفعول",
+      "pages": "31–33",
+      "page_start": 31,
+      "page_end": 33,
+      "desc": "اسم فاعل، اسم مفعول اور مصدر کا عمل",
+      "questions": [
+        {
+          "q": "«كَاتِبٌ» کس قسم کا اسم ہے؟",
+          "opts": [
+            "اسم ظرف",
+            "اسم تفضیل",
+            "اسم فاعل",
+            "اسم مفعول"
+          ],
+          "a": 2,
+          "why": "كَاتِبٌ لکھنے والے پر دلالت کرتا ہے۔",
+          "page": 32,
+          "level": "بنیادی",
+          "topic": "اسمائے عاملہ: مصدر اور اسمِ فاعل و مفعول",
+          "en": {
+            "q": "What type of noun is «كَاتِبٌ»?",
+            "opts": [
+              "Adverbial noun",
+              "Elative noun",
+              "Active participle",
+              "Passive participle"
+            ],
+            "why": "كَاتِبٌ indicates the one who writes."
+          }
+        },
+        {
+          "q": "«مَكْتُوبٌ» کس کی مثال ہے؟",
+          "opts": [
+            "اسم فاعل",
+            "اسم موصول",
+            "فعل ماضی",
+            "اسم مفعول"
+          ],
+          "a": 3,
+          "why": "مَكْتُوبٌ وہ چیز ہے جس پر لکھنے کا عمل ہوا۔",
+          "page": 32,
+          "level": "بنیادی",
+          "topic": "اسمائے عاملہ: مصدر اور اسمِ فاعل و مفعول",
+          "en": {
+            "q": "What is the example of «مَكْتُوبٌ»?",
+            "opts": [
+              "Active participle",
+              "Relative noun",
+              "Past tense verb",
+              "Passive participle"
+            ],
+            "why": "مَكْتُوبٌ is the thing on which the action of writing has taken place."
+          }
+        },
+        {
+          "q": "«ضَارِبٌ» کس صیغے کی مثال ہے؟",
+          "opts": [
+            "اسم فاعل",
+            "اسم مفعول",
+            "ظرف مکان",
+            "حرف جر"
+          ],
+          "a": 0,
+          "why": "ضاربٌ مارنے والے کے لیے اسم فاعل ہے۔",
+          "page": 32,
+          "level": "متوسط",
+          "topic": "اسمائے عاملہ: مصدر اور اسمِ فاعل و مفعول",
+          "en": {
+            "q": "«ضَارِبٌ» is an example of which form?",
+            "opts": [
+              "Active participle",
+              "Passive participle",
+              "Adverb of place",
+              "Preposition"
+            ],
+            "why": "ضاربٌ is the active participle for the one who strikes."
+          }
+        },
+        {
+          "q": "«مَضْرُوبٌ» کس صیغے کی مثال ہے؟",
+          "opts": [
+            "اسم عدد",
+            "اسم مفعول",
+            "اسم فاعل",
+            "فعل امر"
+          ],
+          "a": 1,
+          "why": "مضروب جس پر مار واقع ہوئی اس کے لیے اسم مفعول ہے۔",
+          "page": 32,
+          "level": "متوسط",
+          "topic": "اسمائے عاملہ: مصدر اور اسمِ فاعل و مفعول",
+          "en": {
+            "q": "«مَضْرُوبٌ» is an example of which form?",
+            "opts": [
+              "Numeral noun",
+              "Passive participle",
+              "Active participle",
+              "Imperative verb"
+            ],
+            "why": "مضروب is the passive participle for the one who has been struck."
+          }
+        },
+        {
+          "q": "اسم فاعل کن حالات میں اپنے فعل جیسا عمل کر سکتا ہے؟",
+          "opts": [
+            "کبھی کسی چیز پر عمل نہیں کرتا",
+            "ہمیشہ مبتدا کو مجزوم کرتا ہے",
+            "مناسب شرائط کے ساتھ فاعل یا مفعول سے تعلق قائم کر سکتا ہے",
+            "ہمیشہ حرف جر بن جاتا ہے"
+          ],
+          "a": 2,
+          "why": "اسم فاعل اپنی مقررہ شرائط کے ساتھ فعل جیسا عمل کر سکتا ہے۔",
+          "page": 32,
+          "level": "عملی",
+          "topic": "اسمائے عاملہ: مصدر اور اسمِ فاعل و مفعول",
+          "en": {
+            "q": "Under what conditions can the active participle function like its verb?",
+            "opts": [
+              "Never acts upon anything",
+              "Always makes the subject jussive",
+              "Can relate to the subject or object with appropriate conditions",
+              "Always becomes a preposition"
+            ],
+            "why": "The active participle can perform the action like its verb under its specified conditions."
+          }
+        },
+        {
+          "q": "«أَنَا ضَارِبٌ زَيْدًا» میں «زَيْدًا» کیوں منصوب ہے؟",
+          "opts": [
+            "حرف جر کے سبب",
+            "مبتدا ہونے سے",
+            "اسم موصول ہونے سے",
+            "اسم فاعل ضَارِبٌ کے عمل سے"
+          ],
+          "a": 3,
+          "why": "اسم فاعل ضارب یہاں مفعول بہ پر عمل کر رہا ہے۔",
+          "page": 32,
+          "level": "عملی",
+          "topic": "اسمائے عاملہ: مصدر اور اسمِ فاعل و مفعول",
+          "en": {
+            "q": "In «أَنَا ضَارِبٌ زَيْدًا», why is «زَيْدًا» in the accusative case?",
+            "opts": [
+              "Because of a preposition",
+              "Because it is the subject",
+              "Because it is a relative noun",
+              "Because of the action of the active participle ضَارِبٌ"
+            ],
+            "why": "The active participle ضارب here is acting upon an object, making زيدًا accusative."
+          }
+        },
+        {
+          "q": "مصدر «ضَرْبٌ» کس چیز کو ظاہر کرتا ہے؟",
+          "opts": [
+            "کام کا نام، زمانے کی تعیین کے بغیر",
+            "صرف فاعل کو",
+            "صرف حال کو",
+            "صرف مکان کو"
+          ],
+          "a": 0,
+          "why": "مصدر بنیادی عمل بتاتا ہے اور شرائط کے ساتھ عمل بھی کر سکتا ہے۔",
+          "page": 31,
+          "level": "اعادہ",
+          "topic": "اسمائے عاملہ: مصدر اور اسمِ فاعل و مفعول",
+          "en": {
+            "q": "What does the verbal noun «ضَرْبٌ» indicate?",
+            "opts": [
+              "The name of the act, without specifying the time",
+              "Only the doer (subject)",
+              "Only the present tense",
+              "Only the place"
+            ],
+            "why": "The verbal noun indicates the fundamental action and, with conditions, can also indicate the action."
+          }
+        }
+      ],
+      "title_en": "Governing nouns: verbal nouns and participles"
+    },
+    {
+      "lesson": 28,
+      "book_lesson_number": 28,
+      "title": "صفت مشبہ، اسمِ تفضیل، مدح و ذم",
+      "pages": "33–34",
+      "page_start": 33,
+      "page_end": 34,
+      "desc": "صفت مشبہ، اسم تفضیل، افعال مدح و ذم اور تعجب",
+      "questions": [
+        {
+          "q": "«حَسَنٌ» کس قسم کی صفت کی معروف مثال ہے؟",
+          "opts": [
+            "اسم مفعول",
+            "حرف جر",
+            "ظرف زمان",
+            "صفت مشبہ"
+          ],
+          "a": 3,
+          "why": "حسن مستقل وصف ظاہر کرنے والی صفت مشبہ کی مثال ہے۔",
+          "page": 33,
+          "level": "بنیادی",
+          "topic": "صفت مشبہ، اسمِ تفضیل، مدح و ذم",
+          "en": {
+            "q": "What type of adjective is «حَسَنٌ» a well-known example of?",
+            "opts": [
+              "Passive participle",
+              "Preposition",
+              "Adverb of time",
+              "Adjective of likeness"
+            ],
+            "why": "Ḥasan is an example of an adjective of likeness that describes a permanent attribute."
+          }
+        },
+        {
+          "q": "«أَكْبَرُ» کس نوع کا اسم ہے؟",
+          "opts": [
+            "اسم تفضیل",
+            "اسم موصول",
+            "اسم مفعول",
+            "فعل مجہول"
+          ],
+          "a": 0,
+          "why": "أكبر بڑائی کے تقابلی مفہوم میں اسم تفضیل ہے۔",
+          "page": 33,
+          "level": "بنیادی",
+          "topic": "صفت مشبہ، اسمِ تفضیل، مدح و ذم",
+          "en": {
+            "q": "What kind of noun is «أَكْبَرُ»?",
+            "opts": [
+              "Comparative noun",
+              "Relative pronoun",
+              "Passive participle",
+              "Passive verb"
+            ],
+            "why": "أكبر is a comparative noun expressing the concept of superiority."
+          }
+        },
+        {
+          "q": "«زَيْدٌ أَفْضَلُ مِنْ عَمْرٍو» میں «أَفْضَلُ» کیا ہے؟",
+          "opts": [
+            "حرف شرط",
+            "اسم تفضیل",
+            "اسم فاعل",
+            "اسم ظرف"
+          ],
+          "a": 1,
+          "why": "أفضل دو اشخاص کے درمیان فضیلت کا تقابل کرتا ہے۔",
+          "page": 33,
+          "level": "متوسط",
+          "topic": "صفت مشبہ، اسمِ تفضیل، مدح و ذم",
+          "en": {
+            "q": "In «زَيْدٌ أَفْضَلُ مِنْ عَمْرٍو», what is «أَفْضَلُ»?",
+            "opts": [
+              "Conditional particle",
+              "Comparative noun",
+              "Active participle",
+              "Adverbial noun"
+            ],
+            "why": "أفضل is a comparative noun that indicates superiority between two persons."
+          }
+        },
+        {
+          "q": "«نِعْمَ الرَّجُلُ زَيْدٌ» میں «نِعْمَ» کس مقصد سے آیا ہے؟",
+          "opts": [
+            "نفی",
+            "سوال",
+            "مدح",
+            "ذم"
+          ],
+          "a": 2,
+          "why": "نِعْمَ اچھائی یا تعریف کے لیے فعل مدح ہے۔",
+          "page": 34,
+          "level": "متوسط",
+          "topic": "صفت مشبہ، اسمِ تفضیل، مدح و ذم",
+          "en": {
+            "q": "In «نِعْمَ الرَّجُلُ زَيْدٌ», what is the purpose of «نِعْمَ»?",
+            "opts": [
+              "Negation",
+              "Interrogation",
+              "Praise",
+              "Blame"
+            ],
+            "why": "نِعْمَ is a verbal exclamation expressing praise or approval."
+          }
+        },
+        {
+          "q": "«بِئْسَ الرَّجُلُ» میں «بِئْسَ» کا استعمال کیا ہے؟",
+          "opts": [
+            "مدح",
+            "استفہام",
+            "شرط",
+            "ذم"
+          ],
+          "a": 3,
+          "why": "بئس مذمت ظاہر کرتا ہے، اس لیے فعل ذم ہے۔",
+          "page": 34,
+          "level": "عملی",
+          "topic": "صفت مشبہ، اسمِ تفضیل، مدح و ذم",
+          "en": {
+            "q": "In «بِئْسَ الرَّجُلُ», what is the use of «بِئْسَ»?",
+            "opts": [
+              "Praise",
+              "Interrogation",
+              "Condition",
+              "Blame"
+            ],
+            "why": "بئس expresses condemnation; therefore, it is a verb of blame."
+          }
+        },
+        {
+          "q": "«مَا أَحْسَنَ زَيْدًا!» کس اسلوب کی مثال ہے؟",
+          "opts": [
+            "تعجب",
+            "استثناء مفرغ",
+            "جملہ نفی",
+            "اسم اشارہ"
+          ],
+          "a": 0,
+          "why": "ما أفعلَهُ تعجب کا معروف اسلوب ہے۔",
+          "page": 34,
+          "level": "عملی",
+          "topic": "صفت مشبہ، اسمِ تفضیل، مدح و ذم",
+          "en": {
+            "q": "\"Mā aḥsana Zaydan!\" is an example of which style?",
+            "opts": [
+              "Exclamation",
+              "Absolute exception",
+              "Negative sentence",
+              "Demonstrative noun"
+            ],
+            "why": "Mā afʿalahū is the well-known style of exclamation."
+          }
+        },
+        {
+          "q": "«أَحْسِنْ بِزَيْدٍ!» کون سے اسلوب کی مثال ہے؟",
+          "opts": [
+            "فعل ناقص",
+            "تعجب",
+            "مضارع مجزوم",
+            "مضاف مضاف الیہ"
+          ],
+          "a": 1,
+          "why": "أفْعِلْ بِهِ تعجب کا دوسرا معروف صیغہ ہے۔",
+          "page": 34,
+          "level": "اعادہ",
+          "topic": "صفت مشبہ، اسمِ تفضیل، مدح و ذم",
+          "en": {
+            "q": "\"Aḥsin bi-Zaydin!\" is an example of which style?",
+            "opts": [
+              "Defective verb",
+              "Exclamation",
+              "Jussive present tense",
+              "Idāfa (annexation)"
+            ],
+            "why": "Afʿil bihi is another well-known form of exclamation."
+          }
+        }
+      ],
+      "title_en": "Adjectives, comparatives, praise and blame"
+    },
+    {
+      "lesson": 29,
+      "book_lesson_number": 29,
+      "title": "نواصب و جوازمِ مضارع",
+      "pages": "35–36",
+      "page_start": 35,
+      "page_end": 36,
+      "desc": "أن، لن، كي، لم، لما، لام امر اور حروف کی پہچان",
+      "questions": [
+        {
+          "q": "«لَنْ» فعل مضارع پر کیا اثر ڈالتا ہے؟",
+          "opts": [
+            "نصب",
+            "رفع",
+            "جر",
+            "تثنیہ"
+          ],
+          "a": 0,
+          "why": "لن مضارع کو منصوب کرتا ہے۔",
+          "page": 35,
+          "level": "بنیادی",
+          "topic": "نواصب و جوازمِ مضارع",
+          "en": {
+            "q": "What effect does «لَنْ» have on the present tense verb?",
+            "opts": [
+              "Accusative",
+              "Nominative",
+              "Genitive",
+              "Dual"
+            ],
+            "why": "لَنْ makes the present tense verb accusative."
+          }
+        },
+        {
+          "q": "«أُرِيدُ أَنْ أَكْتُبَ» میں «أَكْتُبَ» کیوں منصوب ہے؟",
+          "opts": [
+            "مبتدا ہونے سے",
+            "أَنْ ناصب کی وجہ سے",
+            "فاعل ہونے سے",
+            "حرف جر کی وجہ سے"
+          ],
+          "a": 1,
+          "why": "أن مصدرية ناصبہ مضارع کو نصب دیتی ہے۔",
+          "page": 35,
+          "level": "بنیادی",
+          "topic": "نواصب و جوازمِ مضارع",
+          "en": {
+            "q": "Why is «أَكْتُبَ» accusative in «أُرِيدُ أَنْ أَكْتُبَ»?",
+            "opts": [
+              "Because it is a subject",
+              "Because أَنْ is a particle that causes accusative",
+              "Because it is the subject",
+              "Because of a preposition"
+            ],
+            "why": "The accusative particle (nāsib) أَنْ causes the verb in the subjunctive to become accusative."
+          }
+        },
+        {
+          "q": "«جِئْتُ كَيْ أَتَعَلَّمَ» میں «أَتَعَلَّمَ» کی حالت کیا ہے؟",
+          "opts": [
+            "مجرور",
+            "مرفوع",
+            "منصوب",
+            "مجزوم"
+          ],
+          "a": 2,
+          "why": "كَيْ مضارع کو نصب دینے والے حروف میں ہے۔",
+          "page": 35,
+          "level": "متوسط",
+          "topic": "نواصب و جوازمِ مضارع",
+          "en": {
+            "q": "What is the state of «أَتَعَلَّمَ» in «جِئْتُ كَيْ أَتَعَلَّمَ»?",
+            "opts": [
+              "Genitive",
+              "Nominative",
+              "Accusative",
+              "Jussive"
+            ],
+            "why": "كَيْ is among the particles that cause the present tense verb to be accusative."
+          }
+        },
+        {
+          "q": "«لَمْ يَذْهَبْ» میں «يَذْهَبْ» کیوں مجزوم ہے؟",
+          "opts": [
+            "لَنْ کی وجہ سے",
+            "کان کی وجہ سے",
+            "إنَّ کی وجہ سے",
+            "لَمْ کی وجہ سے"
+          ],
+          "a": 3,
+          "why": "لَمْ حرف جازم ہے۔",
+          "page": 35,
+          "level": "متوسط",
+          "topic": "نواصب و جوازمِ مضارع",
+          "en": {
+            "q": "Why is «يَذْهَبْ» jussive in «لَمْ يَذْهَبْ»?",
+            "opts": [
+              "Because of لَنْ",
+              "Because of كان",
+              "Because of إنَّ",
+              "Because of لَمْ"
+            ],
+            "why": "لَمْ is a jussive particle."
+          }
+        },
+        {
+          "q": "«لَمَّا يَحْضُرْ» میں مضارع کی حالت؟",
+          "opts": [
+            "مجزوم",
+            "منصوب",
+            "مجرور",
+            "مبنی علی الضم"
+          ],
+          "a": 0,
+          "why": "لمّا یہاں جازم کے طور پر مضارع کو جزم دیتی ہے۔",
+          "page": 35,
+          "level": "عملی",
+          "topic": "نواصب و جوازمِ مضارع",
+          "en": {
+            "q": "What is the mood of the present tense verb in «لَمَّا يَحْضُرْ»?",
+            "opts": [
+              "Jussive",
+              "Accusative",
+              "Genitive",
+              "Indicative"
+            ],
+            "why": "لَمَّا here acts as a jussive particle and puts the present tense verb into the jussive mood."
+          }
+        },
+        {
+          "q": "«لِيَكْتُبْ» میں لام کس لیے ہے؟",
+          "opts": [
+            "لام نفی",
+            "لامِ امر",
+            "لام تعلیل ناصبہ",
+            "لام جر برائے اسم"
+          ],
+          "a": 1,
+          "why": "لام امر مضارع کو مجزوم کر کے حکم دیتی ہے۔",
+          "page": 35,
+          "level": "عملی",
+          "topic": "نواصب و جوازمِ مضارع",
+          "en": {
+            "q": "What is the function of the لام in «لِيَكْتُبْ»?",
+            "opts": [
+              "Lam of negation",
+              "Lam of imperative",
+              "Causal accusative Lam",
+              "Lam of genitive for noun"
+            ],
+            "why": "The Lam of imperative makes the present tense verb jussive and gives a command."
+          }
+        },
+        {
+          "q": "«لَا تَكْتُبْ» میں لَا کس کی مثال ہے؟",
+          "opts": [
+            "حرف عطف",
+            "لام تعلیل",
+            "لا ناہیہ جازمہ",
+            "لا نفی جنس"
+          ],
+          "a": 2,
+          "why": "لا ناہیہ مضارع کو مجزوم کر کے منع کرتی ہے۔",
+          "page": 35,
+          "level": "اعادہ",
+          "topic": "نواصب و جوازمِ مضارع",
+          "en": {
+            "q": "What is the example of لَا in «لَا تَكْتُبْ»?",
+            "opts": [
+              "Conjunction particle",
+              "Causal Lam",
+              "Prohibitive لَا that causes jussive",
+              "لَا of universal negation"
+            ],
+            "why": "The prohibitive لَا makes the present tense verb jussive and forbids the action."
+          }
+        }
+      ],
+      "title_en": "Subjunctive and jussive governors of the present verb"
+    },
+    {
+      "lesson": 30,
+      "book_lesson_number": 30,
+      "title": "حروف کے مختلف استعمال",
+      "pages": "37–38",
+      "page_start": 37,
+      "page_end": 38,
+      "desc": "حروفِ شرط، ندا، تنبیہ، زیادت، جواب، نفی اور استفہام",
+      "questions": [
+        {
+          "q": "«يَا زَيْدُ» میں «يَا» کس نوع کا حرف ہے؟",
+          "opts": [
+            "حرف شرط",
+            "حرف ندا",
+            "حرف جر",
+            "حرف عطف"
+          ],
+          "a": 1,
+          "why": "یا کسی کو پکارنے کے لیے حرف ندا ہے۔",
+          "page": 37,
+          "level": "بنیادی",
+          "topic": "حروف کے مختلف استعمال",
+          "en": {
+            "q": "In «يَا زَيْدُ», what type of particle is «يَا»?",
+            "opts": [
+              "Conditional particle",
+              "Vocative particle",
+              "Prepositional particle",
+              "Conjunctive particle"
+            ],
+            "why": "«يَا» is a vocative particle used for calling someone."
+          }
+        },
+        {
+          "q": "«إِنْ تَجْتَهِدْ تَنْجَحْ» میں «إِنْ» کیا ہے؟",
+          "opts": [
+            "حرف ندا",
+            "فعل ناقص",
+            "حرف شرط جازم",
+            "حرف عطف"
+          ],
+          "a": 2,
+          "why": "إنْ شرط جازم فعل شرط اور جواب شرط سے تعلق رکھتا ہے۔",
+          "page": 38,
+          "level": "بنیادی",
+          "topic": "حروف کے مختلف استعمال",
+          "en": {
+            "q": "In «إِنْ تَجْتَهِدْ تَنْجَحْ», what is «إِنْ»?",
+            "opts": [
+              "Vocative particle",
+              "Defective verb",
+              "Jussive conditional particle",
+              "Conjunctive particle"
+            ],
+            "why": "«إِنْ» is a jussive conditional particle that relates the if-clause and the result clause."
+          }
+        },
+        {
+          "q": "«هَلْ جَاءَ زَيْدٌ؟» میں «هَلْ» کس کی مثال ہے؟",
+          "opts": [
+            "حرف جر",
+            "حرف عطف",
+            "حرف نصب",
+            "حرف استفہام"
+          ],
+          "a": 3,
+          "why": "هل سوال کرنے کے لیے آتا ہے۔",
+          "page": 37,
+          "level": "متوسط",
+          "topic": "حروف کے مختلف استعمال",
+          "en": {
+            "q": "In «هَلْ جَاءَ زَيْدٌ؟», what is «هَلْ» an example of?",
+            "opts": [
+              "Prepositional particle",
+              "Conjunctive particle",
+              "Accusative particle",
+              "Interrogative particle"
+            ],
+            "why": "«هَلْ» is used for asking a question."
+          }
+        },
+        {
+          "q": "«نَعَمْ» عام طور پر کس نوع کے جواب کے لیے آتا ہے؟",
+          "opts": [
+            "اثباتی جواب",
+            "انکاری حکم",
+            "جزم",
+            "استثناء"
+          ],
+          "a": 0,
+          "why": "نعم اثبات میں جواب دینے کا حرف ہے۔",
+          "page": 37,
+          "level": "متوسط",
+          "topic": "حروف کے مختلف استعمال",
+          "en": {
+            "q": "«نَعَمْ» generally is used for what type of response?",
+            "opts": [
+              "Affirmative response",
+              "Negative command",
+              "Jussive",
+              "Exception"
+            ],
+            "why": "«نعم» is a particle for giving an affirmative response."
+          }
+        },
+        {
+          "q": "«لَا» کا استعمال «لَا أَدْرِي» میں کیا ظاہر کرتا ہے؟",
+          "opts": [
+            "تمنا",
+            "نفی",
+            "ندا",
+            "عطف"
+          ],
+          "a": 1,
+          "why": "یہاں لا نفی کا معنی دیتی ہے۔",
+          "page": 37,
+          "level": "عملی",
+          "topic": "حروف کے مختلف استعمال",
+          "en": {
+            "q": "The usage of «لَا» in «لَا أَدْرِي» indicates what?",
+            "opts": [
+              "Wish",
+              "Negation",
+              "Vocative",
+              "Conjunction"
+            ],
+            "why": "Here, «لا» conveys the meaning of negation."
+          }
+        },
+        {
+          "q": "«أَلَا» کس قسم کے استعمال میں آ سکتا ہے؟",
+          "opts": [
+            "فعل ماضی",
+            "اسم تثنیہ",
+            "تنبیہ",
+            "صرف مضاف الیہ"
+          ],
+          "a": 2,
+          "why": "ألا توجہ دلانے کے لیے حرف تنبیہ ہو سکتا ہے۔",
+          "page": 38,
+          "level": "عملی",
+          "topic": "حروف کے مختلف استعمال",
+          "en": {
+            "q": "In what usage can «أَلَا» appear?",
+            "opts": [
+              "Past tense verb",
+              "Dual noun",
+              "Admonition",
+              "Only genitive construct"
+            ],
+            "why": "ألا can be a particle of admonition used to draw attention."
+          }
+        },
+        {
+          "q": "«إِمَّا ... وَإِمَّا» کس مقصد سے آ سکتا ہے؟",
+          "opts": [
+            "ماضی کے جزم",
+            "جنس کے تعین",
+            "مصدر کی ساخت",
+            "اختیار یا تقسیم"
+          ],
+          "a": 3,
+          "why": "امّا دو چیزوں میں تقسیم یا اختیار بیان کرنے کے لیے آ سکتا ہے۔",
+          "page": 38,
+          "level": "اعادہ",
+          "topic": "حروف کے مختلف استعمال",
+          "en": {
+            "q": "For what purpose can «إِمَّا ... وَإِمَّا» appear?",
+            "opts": [
+              "Jussive of past tense",
+              "Determining gender",
+              "Formation of verbal noun",
+              "Choice or division"
+            ],
+            "why": "إما can be used to indicate choice or division between two things."
+          }
+        }
+      ],
+      "title_en": "Various uses of particles"
+    },
+    {
+      "lesson": 31,
+      "book_lesson_number": null,
+      "title": "جامع اعادہ — مکمل آسان نحو اوّل",
+      "pages": "3–38",
+      "page_start": 3,
+      "page_end": 38,
+      "desc": "تمام ۳۰ اسباق سے حاصلِ مطالعہ اور مثالوں پر مبنی اضافی امتحان",
+      "questions": [
+        {
+          "q": "«رَجُلٌ» اور «الرَّجُلُ» میں بنیادی فرق کیا ہے؟",
+          "opts": [
+            "رفع اور جزم",
+            "مذکر اور مؤنث",
+            "نکرہ اور معرفہ",
+            "مصدر اور فعل"
+          ],
+          "a": 2,
+          "why": "ال سے ایک غیر متعین اسم معرفہ بنتا ہے۔",
+          "page": 8,
+          "level": "بنیادی",
+          "topic": "جامع اعادہ — مکمل آسان نحو اوّل",
+          "en": {
+            "q": "What is the fundamental difference between «رَجُلٌ» and «الرَّجُلُ»?",
+            "opts": [
+              "Nominative and Jussive",
+              "Masculine and Feminine",
+              "Indefinite and Definite",
+              "Verbal Noun and Verb"
+            ],
+            "why": "The prefix 'Al' makes an indefinite noun definite."
+          }
+        },
+        {
+          "q": "«كَتَبَ زَيْدٌ رِسَالَةً» میں زید کیا ہے؟",
+          "opts": [
+            "مفعول بہ",
+            "حال",
+            "اسم إن",
+            "فاعل"
+          ],
+          "a": 3,
+          "why": "زيدٌ لکھنے والے کی حیثیت سے فاعل ہے۔",
+          "page": 15,
+          "level": "بنیادی",
+          "topic": "جامع اعادہ — مکمل آسان نحو اوّل",
+          "en": {
+            "q": "In «كَتَبَ زَيْدٌ رِسَالَةً», what is زید?",
+            "opts": [
+              "Object",
+              "Circumstantial Accusative",
+              "The noun of 'Inna'",
+              "Subject"
+            ],
+            "why": "Zayd is the subject as the doer of the writing."
+          }
+        },
+        {
+          "q": "«كَتَبَ زَيْدٌ رِسَالَةً» میں رِسَالَةً کیا ہے؟",
+          "opts": [
+            "مفعول بہ",
+            "فاعل",
+            "مبتدا",
+            "مضاف الیہ"
+          ],
+          "a": 0,
+          "why": "رسالۃً وہ چیز ہے جس پر کتابت کا عمل ہوا۔",
+          "page": 19,
+          "level": "متوسط",
+          "topic": "جامع اعادہ — مکمل آسان نحو اوّل",
+          "en": {
+            "q": "In «كَتَبَ زَيْدٌ رِسَالَةً», what is رِسَالَةً?",
+            "opts": [
+              "Object",
+              "Subject",
+              "Predicate",
+              "Genitive (Idafa)"
+            ],
+            "why": "The Risalah is the thing upon which the action of writing was performed."
+          }
+        },
+        {
+          "q": "«جَاءَ الرَّجُلُ الطَّيِّبُ» میں طَيِّبُ کا اعراب کیا ہے؟",
+          "opts": [
+            "مجزوم",
+            "مرفوع",
+            "منصوب",
+            "مجرور"
+          ],
+          "a": 1,
+          "why": "نعت منعوت الرجلُ کی رفع کی پیروی کرتا ہے۔",
+          "page": 24,
+          "level": "متوسط",
+          "topic": "جامع اعادہ — مکمل آسان نحو اوّل",
+          "en": {
+            "q": "In «جَاءَ الرَّجُلُ الطَّيِّبُ», what is the grammatical case of طَيِّبُ?",
+            "opts": [
+              "Jussive",
+              "Nominative",
+              "Accusative",
+              "Genitive"
+            ],
+            "why": "The adjective follows the nominative case of the noun it describes (الرَّجُلُ)."
+          }
+        },
+        {
+          "q": "«إِنَّ الطَّالِبَ مُجْتَهِدٌ» میں الطَّالِبَ کیا ہے؟",
+          "opts": [
+            "فاعل",
+            "مضاف الیہ",
+            "اسمِ إن منصوب",
+            "خبر إن مرفوع"
+          ],
+          "a": 2,
+          "why": "إنّ اپنے اسم کو منصوب کرتی ہے۔",
+          "page": 17,
+          "level": "عملی",
+          "topic": "جامع اعادہ — مکمل آسان نحو اوّل",
+          "en": {
+            "q": "In «إِنَّ الطَّالِبَ مُجْتَهِدٌ», what is الطَّالِبَ?",
+            "opts": [
+              "Subject",
+              "Genitive (Idafa)",
+              "The accusative noun of 'Inna'",
+              "The nominative predicate of 'Inna'"
+            ],
+            "why": "The particle 'Inna' causes its noun to be in the accusative case."
+          }
+        },
+        {
+          "q": "«كَانَ الطَّالِبُ مُجْتَهِدًا» میں مُجْتَهِدًا کیا ہے؟",
+          "opts": [
+            "اسم کان مرفوع",
+            "فاعل",
+            "نعت مرفوع",
+            "خبرِ کان منصوب"
+          ],
+          "a": 3,
+          "why": "كان خبر کو نصب دیتی ہے۔",
+          "page": 18,
+          "level": "عملی",
+          "topic": "جامع اعادہ — مکمل آسان نحو اوّل",
+          "en": {
+            "q": "In «كَانَ الطَّالِبُ مُجْتَهِدًا», what is مُجْتَهِدًا?",
+            "opts": [
+              "The nominative subject of 'Kana'",
+              "Subject",
+              "Nominative adjective",
+              "Accusative predicate of 'Kana'"
+            ],
+            "why": "'Kana' makes its predicate accusative."
+          }
+        },
+        {
+          "q": "«مَرَرْتُ بِالْمُعَلِّمِ» میں الْمُعَلِّمِ کی کیا حالت ہے؟",
+          "opts": [
+            "مجرور",
+            "مرفوع",
+            "منصوب",
+            "مجزوم"
+          ],
+          "a": 0,
+          "why": "باء کی وجہ سے اسم مجرور ہے۔",
+          "page": 23,
+          "level": "اعادہ",
+          "topic": "جامع اعادہ — مکمل آسان نحو اوّل",
+          "en": {
+            "q": "In «مَرَرْتُ بِالْمُعَلِّمِ», what is the grammatical case of الْمُعَلِّمِ?",
+            "opts": [
+              "Genitive",
+              "Nominative",
+              "Accusative",
+              "Jussive"
+            ],
+            "why": "Because of the preposition 'bi', the noun is in the genitive case."
+          }
+        },
+        {
+          "q": "«رَأَيْتُ الرَّجُلَيْنِ» میں تثنیہ کی علامت کیا ہے؟",
+          "opts": [
+            "نونِ ثقیلہ",
+            "یاء",
+            "الف",
+            "واو"
+          ],
+          "a": 1,
+          "why": "تثنیہ نصب اور جر میں یاء سے ہوتی ہے۔",
+          "page": 28,
+          "level": "بنیادی",
+          "topic": "جامع اعادہ — مکمل آسان نحو اوّل",
+          "en": {
+            "q": "In «رَأَيْتُ الرَّجُلَيْنِ», what is the dual ending?",
+            "opts": [
+              "Nun of emphasis (نون ثقیلہ)",
+              "Ya (ياء)",
+              "Alif (الف)",
+              "Waw (واو)"
+            ],
+            "why": "Dual in the accusative and genitive cases ends with Ya."
+          }
+        },
+        {
+          "q": "«الْمُسْلِمُونَ» میں رفع کی علامت کیا ہے؟",
+          "opts": [
+            "یاء",
+            "فتحہ",
+            "واو",
+            "الف"
+          ],
+          "a": 2,
+          "why": "جمع مذکر سالم مرفوع ہو تو واو آتا ہے۔",
+          "page": 28,
+          "level": "بنیادی",
+          "topic": "جامع اعادہ — مکمل آسان نحو اوّل",
+          "en": {
+            "q": "In «الْمُسْلِمُونَ», what is the sign of the nominative case?",
+            "opts": [
+              "Ya",
+              "Fatha",
+              "Waw",
+              "Alif"
+            ],
+            "why": "When the nominative plural masculine sound form is present, the ending is Waw."
+          }
+        },
+        {
+          "q": "«لَمْ يَفْهَمْ» میں يَفْهَمْ کی کیا حالت ہے؟",
+          "opts": [
+            "مرفوع",
+            "منصوب",
+            "مجرور",
+            "مجزوم"
+          ],
+          "a": 3,
+          "why": "لم جازم ہے اور مضارع کو مجزوم کرتی ہے۔",
+          "page": 35,
+          "level": "متوسط",
+          "topic": "جامع اعادہ — مکمل آسان نحو اوّل",
+          "en": {
+            "q": "In «لَمْ يَفْهَمْ», what is the grammatical case of يَفْهَمْ?",
+            "opts": [
+              "Nominative",
+              "Accusative",
+              "Genitive",
+              "Jussive"
+            ],
+            "why": "'Lam' is a jussive particle and makes the present tense verb jussive."
+          }
+        },
+        {
+          "q": "«لَنْ يَذْهَبَ» میں يَذْهَبَ کی کیا حالت ہے؟",
+          "opts": [
+            "منصوب",
+            "مجزوم",
+            "مرفوع",
+            "مجرور"
+          ],
+          "a": 0,
+          "why": "لن ناصبہ ہے۔",
+          "page": 35,
+          "level": "متوسط",
+          "topic": "جامع اعادہ — مکمل آسان نحو اوّل",
+          "en": {
+            "q": "What is the grammatical case of يَذْهَبَ in «لَنْ يَذْهَبَ»?",
+            "opts": [
+              "Accusative",
+              "Jussive",
+              "Nominative",
+              "Genitive"
+            ],
+            "why": "لن is a particle of nasb (makes the verb accusative)."
+          }
+        },
+        {
+          "q": "«جَاءَ الَّذِي نَجَحَ» میں الَّذِي کیا ہے؟",
+          "opts": [
+            "حرف جر",
+            "اسم موصول",
+            "اسم فاعل",
+            "اسم مفعول"
+          ],
+          "a": 1,
+          "why": "الذي واحد مذکر کا اسم موصول ہے۔",
+          "page": 13,
+          "level": "عملی",
+          "topic": "جامع اعادہ — مکمل آسان نحو اوّل",
+          "en": {
+            "q": "What is الَّذِي in «جَاءَ الَّذِي نَجَحَ»?",
+            "opts": [
+              "Preposition",
+              "Relative pronoun",
+              "Active participle",
+              "Passive participle"
+            ],
+            "why": "الَّذِي is a singular masculine relative pronoun."
+          }
+        },
+        {
+          "q": "«تِلْكَ فَاطِمَةُ» میں تِلْكَ کس کے لیے ہے؟",
+          "opts": [
+            "جمع مذکر",
+            "تثنیہ مذکر",
+            "بعید واحد مؤنث",
+            "قریب واحد مذکر"
+          ],
+          "a": 2,
+          "why": "تلك اشارہ بعید مؤنث کے لیے ہے۔",
+          "page": 11,
+          "level": "عملی",
+          "topic": "جامع اعادہ — مکمل آسان نحو اوّل",
+          "en": {
+            "q": "For whom is تِلْكَ used in «تِلْكَ فَاطِمَةُ»?",
+            "opts": [
+              "Masculine plural",
+              "Masculine dual",
+              "Singular feminine distant",
+              "Singular masculine near"
+            ],
+            "why": "تِلْكَ is a demonstrative for singular feminine distant."
+          }
+        },
+        {
+          "q": "«رِجَالٌ» کس قسم کی جمع ہے؟",
+          "opts": [
+            "جمع مذکر سالم",
+            "جمع مؤنث سالم",
+            "اسم تثنیہ",
+            "جمع مکسر"
+          ],
+          "a": 3,
+          "why": "رَجُلٌ سے رِجَالٌ میں وزن بدل جاتا ہے۔",
+          "page": 6,
+          "level": "اعادہ",
+          "topic": "جامع اعادہ — مکمل آسان نحو اوّل",
+          "en": {
+            "q": "What type of plural is «رِجَالٌ»?",
+            "opts": [
+              "Sound masculine plural",
+              "Sound feminine plural",
+              "Dual noun",
+              "Broken plural"
+            ],
+            "why": "The pattern changes in رِجَالٌ from رَجُلٌ."
+          }
+        },
+        {
+          "q": "«جِئْتُ لَيْلًا» میں لَيْلًا کس کا بیان کرتا ہے؟",
+          "opts": [
+            "وقت",
+            "فاعل",
+            "مصدر کا وزن",
+            "موصول"
+          ],
+          "a": 0,
+          "why": "لیلًا ظرف زمان ہے۔",
+          "page": 20,
+          "level": "بنیادی",
+          "topic": "جامع اعادہ — مکمل آسان نحو اوّل",
+          "en": {
+            "q": "What does لَيْلًا describe in «جِئْتُ لَيْلًا»?",
+            "opts": [
+              "Time",
+              "Subject",
+              "Verbal noun pattern",
+              "Relative"
+            ],
+            "why": "لَيْلًا is an adverb of time (adverbial accusative)."
+          }
+        },
+        {
+          "q": "«مَا جَاءَ إِلَّا خَالِدٌ» میں خالدٌ کیوں مرفوع ہے؟",
+          "opts": [
+            "یہ اسم مبنی ہے",
+            "استثناء مفرغ میں فاعل ہے",
+            "ہر مستثنی منصوب ہوتا ہے",
+            "حرف جر ہے"
+          ],
+          "a": 1,
+          "why": "مستثنی منہ مذکور نہیں، اس لیے خالد اپنے اصل عامل سے مرفوع ہے۔",
+          "page": 22,
+          "level": "بنیادی",
+          "topic": "جامع اعادہ — مکمل آسان نحو اوّل",
+          "en": {
+            "q": "Why is خالدٌ nominative in «مَا جَاءَ إِلَّا خَالِدٌ»?",
+            "opts": [
+              "It is a derived noun",
+              "It is the subject in an exceptive clause",
+              "Every excepted noun is accusative",
+              "It is a preposition"
+            ],
+            "why": "The excepted noun is not mentioned; therefore, خالدٌ remains nominative due to its original governing element."
+          }
+        },
+        {
+          "q": "«ضُرِبَ الرَّجُلُ» میں الرَّجُلُ کیا ہے؟",
+          "opts": [
+            "مفعول بہ منصوب",
+            "خبر إن",
+            "نائب فاعل",
+            "فاعلِ معلوم"
+          ],
+          "a": 2,
+          "why": "فعل مجہول میں الرجل نائب فاعل ہے۔",
+          "page": 16,
+          "level": "متوسط",
+          "topic": "جامع اعادہ — مکمل آسان نحو اوّل",
+          "en": {
+            "q": "What is الرَّجُلُ in «ضُرِبَ الرَّجُلُ»?",
+            "opts": [
+              "Accusative object",
+              "Predicate of إن",
+              "Subject substitute (nominative)",
+              "Known subject"
+            ],
+            "why": "In a passive verb, الرجل serves as the subject substitute ( نائب فاعل )."
+          }
+        },
+        {
+          "q": "«أَكْبَرُ» کس کی مثال ہے؟",
+          "opts": [
+            "مصدر",
+            "فعل امر",
+            "اسم موصول",
+            "اسم تفضیل"
+          ],
+          "a": 3,
+          "why": "أكبر تقابل و فضیلت ظاہر کرتا ہے۔",
+          "page": 33,
+          "level": "متوسط",
+          "topic": "جامع اعادہ — مکمل آسان نحو اوّل",
+          "en": {
+            "q": "What is «أَكْبَرُ» an example of?",
+            "opts": [
+              "Verbal noun",
+              "Imperative verb",
+              "Relative noun",
+              "Comparative/superlative noun"
+            ],
+            "why": "أكبر indicates comparison and superiority."
+          }
+        },
+        {
+          "q": "«نِعْمَ الرَّجُلُ» میں نِعْمَ کس لیے ہے؟",
+          "opts": [
+            "مدح",
+            "ذم",
+            "شرط",
+            "استفہام"
+          ],
+          "a": 0,
+          "why": "نعم تعریف کے لیے فعل مدح ہے۔",
+          "page": 34,
+          "level": "عملی",
+          "topic": "جامع اعادہ — مکمل آسان نحو اوّل",
+          "en": {
+            "q": "What is the function of نِعْمَ in «نِعْمَ الرَّجُلُ»?",
+            "opts": [
+              "Praise",
+              "Blame",
+              "Condition",
+              "Interrogation"
+            ],
+            "why": "نعم is a verb used for praise as a form of affirmation."
+          }
+        },
+        {
+          "q": "«يَا مُحَمَّدُ» میں يَا کیا ہے؟",
+          "opts": [
+            "حرف جزم",
+            "حرف ندا",
+            "حرف عطف",
+            "حرف جر"
+          ],
+          "a": 1,
+          "why": "یا ندا کے لیے آتا ہے۔",
+          "page": 37,
+          "level": "عملی",
+          "topic": "جامع اعادہ — مکمل آسان نحو اوّل",
+          "en": {
+            "q": "What is يَا in «يَا مُحَمَّدُ»?",
+            "opts": [
+              "Particle of jussive",
+              "Vocative particle",
+              "Conjunction",
+              "Preposition"
+            ],
+            "why": "يا is used as a particle of vocative."
+          }
+        }
+      ],
+      "title_en": "Comprehensive review — Asan Nahw I"
+    }
+  ]
+}

@@ -1,0 +1,847 @@
+{
+  "sarf-1": {
+    "lessons": [
+      {
+        "title": "علمِ صرف اور ضروری اصطلاحات",
+        "title_en": "Morphology and essential terminology",
+        "pages": "3",
+        "questions": [
+          {
+            "q": "علمِ صرف میں بنیادی طور پر کس چیز کے صیغوں اور صورتوں کا مطالعہ کیا جاتا ہے؟",
+            "opts": [
+              "آیات کی ترتیب کا",
+              "جملے کے اعراب کا",
+              "حروف کے مخارج کا",
+              "ایک کلمہ کی مختلف صورتوں کا"
+            ],
+            "a": 3,
+            "why": "علمِ صرف ایک کلمے کے مختلف صیغوں، اوزان اور تبدیلیوں کا علم ہے۔",
+            "page": 3,
+            "en": {
+              "q": "What is the primary focus of Arabic morphology (Sarf)?",
+              "opts": [
+                "The order of verses",
+                "The inflection of sentences",
+                "The articulation points of letters",
+                "The different forms of a single word"
+              ],
+              "why": "Sarf studies the various forms, patterns and transformations of a single word."
+            }
+          },
+          {
+            "q": "عربی میں «زبر» کو کیا کہتے ہیں؟",
+            "opts": [
+              "فَتْحَة",
+              "سُكُون",
+              "ضَمَّة",
+              "كَسْرَة"
+            ],
+            "a": 0,
+            "why": "کتاب نے زبر کے لیے فتحہ کی اصطلاح دی ہے۔",
+            "page": 3,
+            "en": {
+              "q": "What is the Arabic term for the short a vowel?",
+              "opts": [
+                "فَتْحَة",
+                "سُكُون",
+                "ضَمَّة",
+                "كَسْرَة"
+              ],
+              "why": "The short a vowel is called fatḥah."
+            }
+          },
+          {
+            "q": "عربی میں «زیر» کا نام کیا ہے؟",
+            "opts": [
+              "ضَمَّة",
+              "كَسْرَة",
+              "فَتْحَة",
+              "تَنْوِين"
+            ],
+            "a": 1,
+            "why": "زیر کو کسرہ کہا جاتا ہے۔",
+            "page": 3,
+            "en": {
+              "q": "What is the Arabic term for the short i vowel?",
+              "opts": [
+                "ضَمَّة",
+                "كَسْرَة",
+                "فَتْحَة",
+                "تَنْوِين"
+              ],
+              "why": "The short i vowel is called kasrah."
+            }
+          },
+          {
+            "q": "پیش کی عربی اصطلاح کون سی ہے؟",
+            "opts": [
+              "فَتْحَة",
+              "شَدَّة",
+              "ضَمَّة",
+              "كَسْرَة"
+            ],
+            "a": 2,
+            "why": "پیش کو ضمہ کہتے ہیں۔",
+            "page": 3,
+            "en": {
+              "q": "What is the Arabic term for the short u vowel?",
+              "opts": [
+                "فَتْحَة",
+                "شَدَّة",
+                "ضَمَّة",
+                "كَسْرَة"
+              ],
+              "why": "The short u vowel is called ḍammah."
+            }
+          },
+          {
+            "q": "جس حرف پر کوئی حرکت نہ ہو اسے کیا کہتے ہیں؟",
+            "opts": [
+              "مَفْتُوح",
+              "مُتَحَرِّك",
+              "مُنَوَّن",
+              "سَاكِن"
+            ],
+            "a": 3,
+            "why": "حرف پر حرکت نہ ہو تو اسے ساکن کہتے ہیں۔",
+            "page": 3,
+            "en": {
+              "q": "What is a letter without a following short vowel called?",
+              "opts": [
+                "مَفْتُوح",
+                "مُتَحَرِّك",
+                "مُنَوَّن",
+                "سَاكِن"
+              ],
+              "why": "A letter without a short vowel is called sākin."
+            }
+          },
+          {
+            "q": "«بَّ» میں دوہرا پن ظاہر کرنے والی علامت کیا ہے؟",
+            "opts": [
+              "تَشْدِيد",
+              "تَنْوِين",
+              "سُكُون",
+              "كَسْرَة"
+            ],
+            "a": 0,
+            "why": "تشدید حرف کو مشدد بناتی ہے۔",
+            "page": 3,
+            "en": {
+              "q": "Which sign indicates the doubling of the consonant in بَّ?",
+              "opts": [
+                "تَشْدِيد",
+                "تَنْوِين",
+                "سُكُون",
+                "كَسْرَة"
+              ],
+              "why": "Tashdīd indicates that a consonant is doubled."
+            }
+          },
+          {
+            "q": "«كِتَابٌ» کے آخر میں دو پیش کس کی مثال ہیں؟",
+            "opts": [
+              "سُكُون",
+              "تَنْوِين",
+              "فَتْحَة",
+              "تَشْدِيد"
+            ],
+            "a": 1,
+            "why": "دو پیش، دو زبر یا دو زیر کو تنوین کہتے ہیں۔",
+            "page": 3,
+            "en": {
+              "q": "What is the double ḍammah at the end of كِتَابٌ an example of?",
+              "opts": [
+                "سُكُون",
+                "تَنْوِين",
+                "فَتْحَة",
+                "تَشْدِيد"
+              ],
+              "why": "Double ḍammah, fatḥah or kasrah marks indicate tanwīn (nunation)."
+            }
+          }
+        ]
+      },
+      {
+        "title": "زمانہ اور فعل کی اقسام",
+        "title_en": "Tense and types of verbs",
+        "pages": "4",
+        "page_start": 4,
+        "page_end": 4,
+        "questions": [
+          {
+            "q": "گزرے ہوئے زمانے کو کیا کہا جاتا ہے؟",
+            "opts": [
+              "مُسْتَقْبَل",
+              "حَال",
+              "مَاضِي",
+              "اَمْر"
+            ],
+            "a": 2,
+            "why": "گزر چکے وقت کا نام ماضی ہے۔",
+            "page": 4,
+            "en": {
+              "q": "What is the term for past time?",
+              "opts": [
+                "مُسْتَقْبَل",
+                "حَال",
+                "مَاضِي",
+                "اَمْر"
+              ],
+              "why": "Time that has already passed is called māḍī."
+            }
+          },
+          {
+            "q": "آنے والے زمانے کی اصطلاح کون سی ہے؟",
+            "opts": [
+              "مَاضِي",
+              "مَصْدَر",
+              "حَال",
+              "مُسْتَقْبَل"
+            ],
+            "a": 3,
+            "why": "آئندہ آنے والا وقت مستقبل کہلاتا ہے۔",
+            "page": 4,
+            "en": {
+              "q": "What is the term for future time?",
+              "opts": [
+                "مَاضِي",
+                "مَصْدَر",
+                "حَال",
+                "مُسْتَقْبَل"
+              ],
+              "why": "Time yet to come is called mustaqbal."
+            }
+          },
+          {
+            "q": "«ضَرَبَ» کس قسم کے فعل کی مثال ہے؟",
+            "opts": [
+              "فعلِ ماضی",
+              "فعلِ مضارع",
+              "فعلِ امر",
+              "فعلِ نہی"
+            ],
+            "a": 0,
+            "why": "ضَرَبَ کا معنی اس نے مارا؛ کام ماضی میں ہوا۔",
+            "page": 4,
+            "en": {
+              "q": "Which type of verb is ضَرَبَ?",
+              "opts": [
+                "Past verb",
+                "Imperfect verb",
+                "Imperative verb",
+                "Prohibition"
+              ],
+              "why": "ضَرَبَ means “he struck”; the action took place in the past."
+            }
+          },
+          {
+            "q": "«يَضْرِبُ» کی بنیادی قسم کون سی ہے؟",
+            "opts": [
+              "فعلِ امر",
+              "فعلِ مضارع",
+              "فعلِ نہی",
+              "فعلِ ماضی"
+            ],
+            "a": 1,
+            "why": "یَضْرِبُ حال یا مستقبل کے معنی میں استعمال ہوتا ہے۔",
+            "page": 4,
+            "en": {
+              "q": "What is the basic verb type of يَضْرِبُ?",
+              "opts": [
+                "Imperative verb",
+                "Imperfect verb",
+                "Prohibition",
+                "Past verb"
+              ],
+              "why": "يَضْرِبُ is used with a present or future meaning."
+            }
+          },
+          {
+            "q": "«اُكْتُبْ» کس چیز کی مثال ہے؟",
+            "opts": [
+              "فعلِ ماضی",
+              "فعلِ نہی",
+              "فعلِ امر",
+              "مصدر"
+            ],
+            "a": 2,
+            "why": "اُكْتُبْ میں لکھنے کا حکم ہے۔",
+            "page": 4,
+            "en": {
+              "q": "What is اُكْتُبْ an example of?",
+              "opts": [
+                "Past verb",
+                "Prohibition",
+                "Imperative verb",
+                "Verbal noun"
+              ],
+              "why": "اُكْتُبْ is a command to write."
+            }
+          },
+          {
+            "q": "جس فعل میں کام کرنے والا معلوم ہو، اسے کیا کہتے ہیں؟",
+            "opts": [
+              "فعلِ نہی",
+              "فعلِ منفی",
+              "فعلِ مجہول",
+              "فعلِ معروف"
+            ],
+            "a": 3,
+            "why": "معروف وہ فعل ہے جس کا فاعل معلوم یا بیان شدہ ہو۔",
+            "page": 4,
+            "en": {
+              "q": "What is a verb with a known or expressed doer called?",
+              "opts": [
+                "Prohibition",
+                "Negative verb",
+                "Passive verb",
+                "Active verb"
+              ],
+              "why": "An active verb presents the action in relation to its doer."
+            }
+          },
+          {
+            "q": "«لَا تَضْرِبْ» میں کس طرح کا مفہوم ہے؟",
+            "opts": [
+              "فعلِ نہی",
+              "فعلِ ماضی",
+              "اسمِ فاعل",
+              "فعلِ ماضی بعید"
+            ],
+            "a": 0,
+            "why": "لَا تَضْرِبْ کا معنی ہے: مت مار۔",
+            "page": 4,
+            "en": {
+              "q": "What kind of meaning is expressed by لَا تَضْرِبْ?",
+              "opts": [
+                "Prohibition",
+                "Past verb",
+                "Active participle",
+                "Remote past"
+              ],
+              "why": "لَا تَضْرِبْ means “Do not strike.”"
+            }
+          }
+        ]
+      }
+    ]
+  },
+  "sarf-2": {
+    "lessons": [
+      {
+        "title": "علمِ صرف اور بنیادی اصطلاحات",
+        "title_en": "Morphology and basic terminology",
+        "pages": "3–5",
+        "questions": [
+          {
+            "q": "علمِ صرف میں بنیادی طور پر کس چیز کا مطالعہ ہوتا ہے؟",
+            "opts": [
+              "الفاظ کی ساخت اور ان کی مختلف صورتیں",
+              "صرف جملوں کا اعراب",
+              "صرف عربی تاریخ",
+              "صرف آیات کی تفسیر"
+            ],
+            "a": 0,
+            "why": "علمِ صرف میں کلمے کی بناوٹ اور اس کی بدلتی ہوئی صورتوں کا علم ہوتا ہے۔",
+            "page": 3,
+            "en": {
+              "q": "What does Sarf primarily study?",
+              "opts": [
+                "Word structure and its various forms",
+                "Only sentence inflection",
+                "Only Arabic history",
+                "Only the interpretation of verses"
+              ],
+              "why": "Sarf studies the structure of words and their changing forms."
+            }
+          },
+          {
+            "q": "عربی کلمے کی بنیادی قسمیں کون سی ہیں؟",
+            "opts": [
+              "اسم، فعل، حرف",
+              "ماضی، مضارع، امر",
+              "مرفوع، منصوب، مجرور",
+              "واحد، تثنیہ، جمع"
+            ],
+            "a": 0,
+            "why": "کتاب میں کلمے کی قسمیں اسم، فعل اور حرف بتائی گئی ہیں۔",
+            "page": 3,
+            "en": {
+              "q": "What are the basic categories of Arabic words?",
+              "opts": [
+                "Noun, verb, particle",
+                "Past, present, imperative",
+                "Nominative, accusative, genitive",
+                "Singular, dual, plural"
+              ],
+              "why": "The textbook classifies words as nouns, verbs and particles."
+            }
+          },
+          {
+            "q": "کسی کام کے ہونے یا کرنے کا زمانے کے ساتھ پتا دینے والا کلمہ کیا ہے؟",
+            "opts": [
+              "اسم",
+              "فعل",
+              "حرف",
+              "ضمیرِ منفصل"
+            ],
+            "a": 1,
+            "why": "فعل سے کسی کام اور اس کے زمانے کی طرف اشارہ ہوتا ہے۔",
+            "page": 3,
+            "en": {
+              "q": "Which kind of word indicates an action or occurrence together with tense?",
+              "opts": [
+                "Noun",
+                "Verb",
+                "Particle",
+                "Detached pronoun"
+              ],
+              "why": "A verb indicates an action and its tense."
+            }
+          },
+          {
+            "q": "وہ فعل جس کا اثر فاعل ہی تک محدود رہے، کیا کہلاتا ہے؟",
+            "opts": [
+              "فعلِ متعدی",
+              "فعلِ لازم",
+              "فعلِ امر",
+              "فعلِ مجہول"
+            ],
+            "a": 1,
+            "why": "فعلِ لازم میں مفعول کی ضرورت نہیں ہوتی، جیسے جَلَسَ (بیٹھا)۔",
+            "page": 3,
+            "en": {
+              "q": "What is a verb whose effect is limited to its subject called?",
+              "opts": [
+                "Transitive verb",
+                "Intransitive verb",
+                "Imperative verb",
+                "Passive verb"
+              ],
+              "why": "An intransitive verb does not require a direct object, as in جَلَسَ (he sat)."
+            }
+          },
+          {
+            "q": "وہ فعل جس کے لیے مفعول درکار ہو، کیا کہلاتا ہے؟",
+            "opts": [
+              "فعلِ لازم",
+              "فعلِ جامد",
+              "فعلِ متعدی",
+              "فعلِ نہی"
+            ],
+            "a": 2,
+            "why": "فعلِ متعدی کا اثر مفعول تک پہنچتا ہے؛ جیسے ضَرَبَ (اس نے مارا)۔",
+            "page": 4,
+            "en": {
+              "q": "What is a verb that requires an object called?",
+              "opts": [
+                "Intransitive verb",
+                "Frozen verb",
+                "Transitive verb",
+                "Prohibitive verb"
+              ],
+              "why": "A transitive verb extends to an object, as in ضَرَبَ (he struck)."
+            }
+          },
+          {
+            "q": "فعلِ معلوم میں کس کا ذکر یا علم ہوتا ہے؟",
+            "opts": [
+              "فاعل کا",
+              "صرف مفعول کا",
+              "صرف زمانے کا",
+              "صرف حرف کا"
+            ],
+            "a": 0,
+            "why": "فعلِ معلوم میں کام کرنے والا فاعل معلوم ہوتا ہے۔",
+            "page": 4,
+            "en": {
+              "q": "Which participant is stated or known in the active voice?",
+              "opts": [
+                "The subject (doer)",
+                "Only the object",
+                "Only the tense",
+                "Only the particle"
+              ],
+              "why": "In the active voice, the doer of the action is known."
+            }
+          },
+          {
+            "q": "فعلِ مجہول میں کون سا پہلو نمایاں ہوتا ہے؟",
+            "opts": [
+              "کام کرنے والا فاعل صراحت سے بیان نہیں ہوتا",
+              "فعل ہمیشہ امر ہوتا ہے",
+              "فعل میں زمانہ نہیں ہوتا",
+              "فعل ہمیشہ جمع ہوتا ہے"
+            ],
+            "a": 0,
+            "why": "فعلِ مجہول میں فاعل نامعلوم یا غیر مذکور ہوتا ہے۔",
+            "page": 4,
+            "en": {
+              "q": "What characterizes the passive voice?",
+              "opts": [
+                "The doer is not explicitly stated",
+                "The verb is always imperative",
+                "The verb has no tense",
+                "The verb is always plural"
+              ],
+              "why": "In the passive voice, the doer is unknown or unmentioned."
+            }
+          },
+          {
+            "q": "مذکر واحد سے بڑھ کر دو افراد کے لیے کون سی اصطلاح استعمال ہوتی ہے؟",
+            "opts": [
+              "جمع",
+              "تثنیہ",
+              "نکرہ",
+              "مصدر"
+            ],
+            "a": 1,
+            "why": "واحد ایک، تثنیہ دو اور جمع دو سے زائد کے لیے آتا ہے۔",
+            "page": 5,
+            "en": {
+              "q": "Which number category is used for exactly two masculine persons?",
+              "opts": [
+                "Plural",
+                "Dual",
+                "Indefinite",
+                "Verbal noun"
+              ],
+              "why": "Singular refers to one, dual to two and plural to more than two."
+            }
+          },
+          {
+            "q": "کَتَبَ کس زمانے کی مثال ہے؟",
+            "opts": [
+              "ماضی",
+              "مضارع",
+              "امر",
+              "نہی"
+            ],
+            "a": 0,
+            "why": "کَتَبَ (اس نے لکھا) فعلِ ماضی ہے۔",
+            "page": 4,
+            "en": {
+              "q": "Which tense or form does كَتَبَ exemplify?",
+              "opts": [
+                "Past",
+                "Present",
+                "Imperative",
+                "Prohibition"
+              ],
+              "why": "كَتَبَ (he wrote) is a past-tense verb."
+            }
+          }
+        ]
+      }
+    ]
+  },
+  "nahw-1": {
+    "lessons": [
+      {
+        "title": "علمِ نحو، لفظ اور کلمہ",
+        "title_en": "Syntax, utterances and words",
+        "pages": "3",
+        "questions": [
+          {
+            "q": "علمِ نحو کا اصل تعلق کس سے ہے؟",
+            "opts": [
+              "کلمات کے باہمی تعلق اور ترکیب سے",
+              "صرف اوزانِ افعال سے",
+              "صرف تجوید سے",
+              "صرف املا سے"
+            ],
+            "a": 0,
+            "why": "نحو میں کلمات کو جوڑ کر جملہ بنانے اور ان کے اعراب کی بحث ہوتی ہے۔",
+            "page": 3,
+            "en": {
+              "q": "What is the principal concern of Arabic syntax (Nahw)?",
+              "opts": [
+                "The relationships and arrangement of words",
+                "Only verb patterns",
+                "Only recitation rules",
+                "Only spelling"
+              ],
+              "why": "Nahw studies how words combine into sentences and how their inflection is determined."
+            }
+          },
+          {
+            "q": "بامعنی اکیلے لفظ کو کیا کہتے ہیں؟",
+            "opts": [
+              "عبارت",
+              "کلمہ",
+              "مرکب",
+              "جملہ"
+            ],
+            "a": 1,
+            "why": "ایک معنی رکھنے والا مفرد لفظ کلمہ کہلاتا ہے۔",
+            "page": 3,
+            "en": {
+              "q": "What is a single meaningful word called?",
+              "opts": [
+                "Passage",
+                "كَلِمَة (word)",
+                "Compound expression",
+                "Sentence"
+              ],
+              "why": "A single word with meaning is called a kalimah."
+            }
+          },
+          {
+            "q": "کلمہ کی بنیادی کتنی قسمیں ہیں؟",
+            "opts": [
+              "چار",
+              "پانچ",
+              "تین",
+              "دو"
+            ],
+            "a": 2,
+            "why": "کلمے کی اقسام اسم، فعل اور حرف ہیں۔",
+            "page": 3,
+            "en": {
+              "q": "How many basic categories of words are there?",
+              "opts": [
+                "Four",
+                "Five",
+                "Three",
+                "Two"
+              ],
+              "why": "The categories are noun, verb and particle."
+            }
+          },
+          {
+            "q": "«رَجُلٌ» کس قسم کا کلمہ ہے؟",
+            "opts": [
+              "فعل",
+              "حرف",
+              "جملہ",
+              "اسم"
+            ],
+            "a": 3,
+            "why": "رَجُلٌ ایک شخص کا نام یا معنی ظاہر کرتا ہے، زمانہ نہیں۔",
+            "page": 3,
+            "en": {
+              "q": "Which category of word is رَجُلٌ?",
+              "opts": [
+                "Verb",
+                "Particle",
+                "Sentence",
+                "Noun"
+              ],
+              "why": "رَجُلٌ denotes a person without expressing tense."
+            }
+          },
+          {
+            "q": "«كَتَبَ» کس قسم کا کلمہ ہے؟",
+            "opts": [
+              "فعل",
+              "اسم",
+              "حرف",
+              "موصول"
+            ],
+            "a": 0,
+            "why": "كَتَبَ لکھنے کا کام ماضی میں ہونے کو ظاہر کرتا ہے۔",
+            "page": 3,
+            "en": {
+              "q": "Which category of word is كَتَبَ?",
+              "opts": [
+                "Verb",
+                "Noun",
+                "Particle",
+                "Relative pronoun"
+              ],
+              "why": "كَتَبَ expresses the action of writing in the past."
+            }
+          },
+          {
+            "q": "«مِنْ» کی نحوی قسم کیا ہے؟",
+            "opts": [
+              "صفت",
+              "حرف",
+              "اسم",
+              "فعل"
+            ],
+            "a": 1,
+            "why": "مِنْ حرفِ جر ہے جس کا تعلق دوسرے کلمے سے ہوتا ہے۔",
+            "page": 3,
+            "en": {
+              "q": "What is the grammatical category of مِنْ?",
+              "opts": [
+                "Adjective",
+                "Particle",
+                "Noun",
+                "Verb"
+              ],
+              "why": "مِنْ is a preposition whose meaning relates to another word."
+            }
+          },
+          {
+            "q": "«لَفْظٌ مُهْمَلٌ» کی خصوصیت کیا ہے؟",
+            "opts": [
+              "ہمیشہ معرفہ ہوتا ہے",
+              "ہمیشہ منصوب ہوتا ہے",
+              "اہلِ زبان کے وضع کردہ معنی کے بغیر ہوتا ہے",
+              "ہمیشہ فعل ماضی ہوتا ہے"
+            ],
+            "a": 2,
+            "why": "مہمل لفظ زبان میں کسی مقررہ معنی کے لیے وضع نہیں کیا گیا ہوتا۔",
+            "page": 3,
+            "en": {
+              "q": "What characterizes a لَفْظٌ مُهْمَلٌ (unassigned utterance)?",
+              "opts": [
+                "It is always definite",
+                "It is always accusative",
+                "It has no meaning conventionally assigned by speakers",
+                "It is always a past-tense verb"
+              ],
+              "why": "An unassigned utterance has not been established for a specific meaning in the language."
+            }
+          }
+        ]
+      }
+    ]
+  },
+  "nahw-2": {
+    "lessons": [
+      {
+        "title": "کلمہ اور اس کی قسمیں",
+        "title_en": "Words and their categories",
+        "pages": "5",
+        "questions": [
+          {
+            "q": "عربی زبان میں بامعنی اکیلے لفظ کو کیا کہتے ہیں؟",
+            "opts": [
+              "کلمہ",
+              "جملہ",
+              "مفعول",
+              "مرکب"
+            ],
+            "a": 0,
+            "why": "کلمہ وہ اکیلا لفظ ہے جو کسی معنی پر دلالت کرے۔",
+            "page": 5,
+            "en": {
+              "q": "What is a single meaningful word called in Arabic?",
+              "opts": [
+                "Word (kalimah)",
+                "Sentence",
+                "Object",
+                "Compound expression"
+              ],
+              "why": "A kalimah is a single word that signifies a meaning."
+            }
+          },
+          {
+            "q": "کلمے کی بنیادی کتنی قسمیں ہیں؟",
+            "opts": [
+              "پانچ",
+              "تین",
+              "چار",
+              "دو"
+            ],
+            "a": 1,
+            "why": "اسم، فعل اور حرف کلمے کی تین بنیادی قسمیں ہیں۔",
+            "page": 5,
+            "en": {
+              "q": "How many basic categories of words are there?",
+              "opts": [
+                "Five",
+                "Three",
+                "Four",
+                "Two"
+              ],
+              "why": "Nouns, verbs and particles are the three basic word categories."
+            }
+          },
+          {
+            "q": "«كِتَابٌ» کس قسم کا کلمہ ہے؟",
+            "opts": [
+              "فعل",
+              "جملہ",
+              "اسم",
+              "حرف"
+            ],
+            "a": 2,
+            "why": "كِتَابٌ کسی چیز کا نام ہے، اس لیے اسم ہے۔",
+            "page": 5,
+            "en": {
+              "q": "Which category of word is كِتَابٌ?",
+              "opts": [
+                "Verb",
+                "Sentence",
+                "Noun",
+                "Particle"
+              ],
+              "why": "كِتَابٌ names a thing, so it is a noun."
+            }
+          },
+          {
+            "q": "«كَتَبَ» کس قسم کا کلمہ ہے؟",
+            "opts": [
+              "اسم",
+              "ضمیر",
+              "حرف",
+              "فعل"
+            ],
+            "a": 3,
+            "why": "كَتَبَ کام اور گزرے ہوئے زمانے کو ظاہر کرتا ہے۔",
+            "page": 5,
+            "en": {
+              "q": "Which category of word is كَتَبَ?",
+              "opts": [
+                "Noun",
+                "Pronoun",
+                "Particle",
+                "Verb"
+              ],
+              "why": "كَتَبَ indicates an action and past tense."
+            }
+          },
+          {
+            "q": "«مِنْ» کس قسم کا کلمہ ہے؟",
+            "opts": [
+              "حرف",
+              "فعل",
+              "اسم",
+              "مبتدا"
+            ],
+            "a": 0,
+            "why": "مِنْ حرفِ جر ہے، مستقل اسم یا فعل نہیں۔",
+            "page": 5,
+            "en": {
+              "q": "Which category of word is مِنْ?",
+              "opts": [
+                "Particle",
+                "Verb",
+                "Noun",
+                "Topic"
+              ],
+              "why": "مِنْ is a preposition, not an independent noun or verb."
+            }
+          },
+          {
+            "q": "اسم کی بنیادی خصوصیت کیا ہے؟",
+            "opts": [
+              "ہمیشہ مجزوم ہونا",
+              "زمانے کی قید کے بغیر معنی دینا",
+              "ہمیشہ ماضی بتانا",
+              "ہمیشہ امر ہونا"
+            ],
+            "a": 1,
+            "why": "اسم میں کسی عمل کا زمانہ لازمی طور پر شامل نہیں ہوتا۔",
+            "page": 5,
+            "en": {
+              "q": "What is the basic characteristic of a noun?",
+              "opts": [
+                "Always being jussive",
+                "Expressing meaning without being tied to tense",
+                "Always indicating the past",
+                "Always being an imperative"
+              ],
+              "why": "A noun does not necessarily incorporate the tense of an action."
+            }
+          }
+        ]
+      }
+    ]
+  }
+}

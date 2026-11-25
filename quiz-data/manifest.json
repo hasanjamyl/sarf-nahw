@@ -1,0 +1,940 @@
+{
+  "sarf-1": [
+    {
+      "title": "Morphology and essential terminology",
+      "pages": "3",
+      "count": 7,
+      "title_ur": "علمِ صرف اور ضروری اصطلاحات"
+    },
+    {
+      "title": "Tense and types of verbs",
+      "pages": "4",
+      "count": 7,
+      "title_ur": "زمانہ اور فعل کی اقسام"
+    },
+    {
+      "title": "Conjugation slots: third, second and first person",
+      "pages": "4–5",
+      "count": 7,
+      "title_ur": "صیغہ، غائب، حاضر، متکلم"
+    },
+    {
+      "title": "Gender and number: masculine, feminine, singular, dual and plural",
+      "pages": "5–6",
+      "count": 7,
+      "title_ur": "مذکر، مؤنث، واحد، تثنیہ اور جمع"
+    },
+    {
+      "title": "Conjugation of the affirmative past active verb",
+      "pages": "7",
+      "count": 7,
+      "title_ur": "فعلِ ماضی معروف مثبت کی گردان"
+    },
+    {
+      "title": "Past-tense patterns and practice",
+      "pages": "8",
+      "count": 7,
+      "title_ur": "ماضی کے اوزان اور مشق"
+    },
+    {
+      "title": "Past passive verb",
+      "pages": "9",
+      "count": 7,
+      "title_ur": "فعلِ ماضی مجہول"
+    },
+    {
+      "title": "Negative past: active and passive",
+      "pages": "10",
+      "count": 7,
+      "title_ur": "ماضی منفی معروف و مجہول"
+    },
+    {
+      "title": "Conjugation of the present active verb",
+      "pages": "11–12",
+      "count": 7,
+      "title_ur": "فعلِ مضارع معروف کی گردان"
+    },
+    {
+      "title": "Forming the present verb",
+      "pages": "12–13",
+      "count": 7,
+      "title_ur": "مضارع بنانے کا قاعدہ"
+    },
+    {
+      "title": "Present passive verb",
+      "pages": "13–14",
+      "count": 7,
+      "title_ur": "فعلِ مضارع مجہول"
+    },
+    {
+      "title": "Negative present: active and passive",
+      "pages": "14–15",
+      "count": 7,
+      "title_ur": "مضارع منفی معروف و مجہول"
+    },
+    {
+      "title": "Emphatic future negation with لَنْ",
+      "pages": "15–16",
+      "count": 7,
+      "title_ur": "لَنْ سے نفیِ تاکید"
+    },
+    {
+      "title": "Past negation with لَمْ",
+      "pages": "16–17",
+      "count": 7,
+      "title_ur": "لَمْ سے نفیِ جحد"
+    },
+    {
+      "title": "Emphatic lām and heavy and light nūn",
+      "pages": "17–18",
+      "count": 7,
+      "title_ur": "لامِ تاکید اور نونِ ثقیلہ و خفیفہ"
+    },
+    {
+      "title": "Second-person active imperative",
+      "pages": "19–20",
+      "count": 7,
+      "title_ur": "امرِ حاضر معروف"
+    },
+    {
+      "title": "Third-person commands: active and passive",
+      "pages": "20–22",
+      "count": 7,
+      "title_ur": "امرِ غائب اور معروف و مجہول"
+    },
+    {
+      "title": "Emphatic commands and prohibitions",
+      "pages": "22–24",
+      "count": 7,
+      "title_ur": "امرِ مؤکد اور فعلِ نہی"
+    },
+    {
+      "title": "Six basic types of past tense",
+      "pages": "24–25",
+      "count": 7,
+      "title_ur": "فعلِ ماضی کی چھ بنیادی قسمیں"
+    },
+    {
+      "title": "Remote past",
+      "pages": "26",
+      "count": 7,
+      "title_ur": "ماضی بعید"
+    },
+    {
+      "title": "Continuous past",
+      "pages": "27",
+      "count": 7,
+      "title_ur": "ماضی استمراری"
+    },
+    {
+      "title": "Probable past",
+      "pages": "28",
+      "count": 7,
+      "title_ur": "ماضی احتمالی"
+    },
+    {
+      "title": "Wishful past",
+      "pages": "29",
+      "count": 7,
+      "title_ur": "ماضی تمنائی"
+    },
+    {
+      "title": "Active and passive participles",
+      "pages": "30",
+      "count": 7,
+      "title_ur": "اسمِ فاعل اور اسمِ مفعول"
+    },
+    {
+      "title": "Nouns of time, place and instrument",
+      "pages": "31–32",
+      "count": 7,
+      "title_ur": "اسمِ ظرف اور اسمِ آلہ"
+    },
+    {
+      "title": "Comparative and superlative",
+      "pages": "32",
+      "count": 7,
+      "title_ur": "اسمِ تفضیل"
+    },
+    {
+      "title": "Patterns, root positions and radical letters",
+      "pages": "33",
+      "count": 7,
+      "title_ur": "وزن، فاء، عین، لام اور حروفِ اصلی"
+    },
+    {
+      "title": "Triliteral and quadriliteral; basic and augmented",
+      "pages": "33–34",
+      "count": 7,
+      "title_ur": "ثلاثی و رباعی، مجرد و مزید فیہ"
+    },
+    {
+      "title": "Classification of basic and augmented triliteral patterns",
+      "pages": "35",
+      "count": 7,
+      "title_ur": "ثلاثی مجرد و مزید فیہ کی باب بندی"
+    },
+    {
+      "title": "Common basic triliteral patterns",
+      "pages": "35",
+      "count": 7,
+      "title_ur": "ثلاثی مجرد کے معروف ابواب"
+    },
+    {
+      "title": "Nine augmented triliteral patterns",
+      "pages": "36",
+      "count": 7,
+      "title_ur": "ثلاثی مزید فیہ کے نو ابواب"
+    },
+    {
+      "title": "Remaining augmented patterns and introduction to quadriliterals",
+      "pages": "37",
+      "count": 7,
+      "title_ur": "ثلاثی مزید فیہ کے باقی ابواب اور رباعی کا تعارف"
+    },
+    {
+      "title": "Further quadriliteral patterns",
+      "pages": "37–38",
+      "count": 7,
+      "title_ur": "رباعی کے مزید ابواب"
+    },
+    {
+      "title": "Assimilated patterns and uncommon quadriliteral forms",
+      "pages": "38–39",
+      "count": 7,
+      "title_ur": "ملحقات اور غیر معروف رباعی اوزان"
+    },
+    {
+      "title": "Sound and weak verbs and their categories",
+      "pages": "39–40",
+      "count": 7,
+      "title_ur": "صحیح، معتل اور ان کی اقسام"
+    },
+    {
+      "title": "Comprehensive review — Asan Sarf I",
+      "pages": "3–40",
+      "count": 25,
+      "title_ur": "جامع اعادہ — مکمل آسان صرف اوّل"
+    }
+  ],
+  "sarf-2": [
+    {
+      "title": "Morphology and basic terminology",
+      "pages": "3–5",
+      "count": 9,
+      "title_ur": "علمِ صرف اور بنیادی اصطلاحات"
+    },
+    {
+      "title": "Past tense and its types",
+      "pages": "6–8",
+      "count": 10,
+      "title_ur": "فعلِ ماضی اور اس کی قسمیں"
+    },
+    {
+      "title": "Past negation and practice",
+      "pages": "8–10",
+      "count": 8,
+      "title_ur": "ماضی کی نفی اور مشق"
+    },
+    {
+      "title": "Recognizing the present verb",
+      "pages": "11–12",
+      "count": 9,
+      "title_ur": "فعلِ مضارع کی پہچان"
+    },
+    {
+      "title": "Negative present and لَنْ",
+      "pages": "12–14",
+      "count": 9,
+      "title_ur": "مضارع منفی اور لَنْ"
+    },
+    {
+      "title": "Past negation with لَمْ",
+      "pages": "15–16",
+      "count": 9,
+      "title_ur": "نفیِ جحد بِلَمْ"
+    },
+    {
+      "title": "Emphatic lām and heavy and light nūn",
+      "pages": "16–19",
+      "count": 9,
+      "title_ur": "لامِ تاکید، نونِ ثقیلہ و خفیفہ"
+    },
+    {
+      "title": "Forming the imperative",
+      "pages": "20–21",
+      "count": 9,
+      "title_ur": "فعلِ امر کی بناوٹ"
+    },
+    {
+      "title": "Imperative conjugation and prohibition",
+      "pages": "22–25",
+      "count": 10,
+      "title_ur": "امر کی گردان اور فعلِ نہی"
+    },
+    {
+      "title": "Derived nouns and active participles",
+      "pages": "26–29",
+      "count": 12,
+      "title_ur": "اسمائے مشتقہ اور اسمِ فاعل"
+    },
+    {
+      "title": "Passive participle and its identification",
+      "pages": "29–30",
+      "count": 12,
+      "title_ur": "اسمِ مفعول اور پہچان"
+    },
+    {
+      "title": "Nouns of time, place and instrument",
+      "pages": "30–32",
+      "count": 12,
+      "title_ur": "اسمِ ظرف اور اسمِ آلہ"
+    },
+    {
+      "title": "Comparative and superlative",
+      "pages": "33–34",
+      "count": 10,
+      "title_ur": "اسمِ تفضیل"
+    },
+    {
+      "title": "Intensive forms and adjectives resembling participles",
+      "pages": "34–36",
+      "count": 12,
+      "title_ur": "اسمِ مبالغہ اور صفتِ مشبہ"
+    },
+    {
+      "title": "Verbal nouns and their patterns",
+      "pages": "37–38",
+      "count": 10,
+      "title_ur": "مصدر کی پہچان اور اوزان"
+    },
+    {
+      "title": "Five common basic triliteral patterns",
+      "pages": "39–43",
+      "count": 14,
+      "title_ur": "ثلاثی مجرد کے پانچ مشہور ابواب"
+    },
+    {
+      "title": "Rare basic triliteral patterns",
+      "pages": "43–45",
+      "count": 10,
+      "title_ur": "ثلاثی مجرد کے شاذ ابواب"
+    },
+    {
+      "title": "Augmented triliteral patterns with hamzat al-waṣl: introduction",
+      "pages": "45–47",
+      "count": 10,
+      "title_ur": "ثلاثی مزید فیہ بہمزۂ وصل: ابتدائی ابواب"
+    },
+    {
+      "title": "Remaining augmented patterns with hamzat al-waṣl",
+      "pages": "47–50",
+      "count": 10,
+      "title_ur": "ہمزۂ وصل والے مزید فیہ کے بقیہ ابواب"
+    },
+    {
+      "title": "Five augmented patterns without hamzat al-waṣl",
+      "pages": "50–53",
+      "count": 13,
+      "title_ur": "بغیر ہمزۂ وصل کے پانچ مزید فیہ ابواب"
+    },
+    {
+      "title": "Basic quadriliteral verbs and conjugation",
+      "pages": "53–54",
+      "count": 10,
+      "title_ur": "فعلِ رباعی مجرد اور اس کی گردان"
+    },
+    {
+      "title": "Augmented quadriliteral patterns",
+      "pages": "54–55",
+      "count": 10,
+      "title_ur": "رباعی مزید فیہ کے ابواب"
+    },
+    {
+      "title": "Seven triliteral patterns assimilated to quadriliterals",
+      "pages": "55–57",
+      "count": 10,
+      "title_ur": "ثلاثی مزید فیہ ملحق برباعی: سات باب"
+    },
+    {
+      "title": "Further assimilated verb patterns",
+      "pages": "58–60",
+      "count": 10,
+      "title_ur": "الحاقی ابواب: قد تخرج اور قد انجم"
+    },
+    {
+      "title": "Sound, hamzated, doubled and weak verbs",
+      "pages": "62–64",
+      "count": 15,
+      "title_ur": "صحیح، مہموز، مضاعف اور معتل"
+    },
+    {
+      "title": "Doubly weak verbs and identifying roots",
+      "pages": "63–64",
+      "count": 12,
+      "title_ur": "لفیف اور کلمے کی اصل پہچان"
+    },
+    {
+      "title": "Comprehensive practice and final review",
+      "pages": "26, 61–64",
+      "count": 12,
+      "title_ur": "جامع مشق اور کتاب کا اختتامی اعادہ"
+    }
+  ],
+  "nahw-1": [
+    {
+      "title": "Syntax, utterances and words",
+      "pages": "3",
+      "count": 7,
+      "title_ur": "علمِ نحو، لفظ اور کلمہ"
+    },
+    {
+      "title": "Nouns, verbs, particles and derived words",
+      "pages": "4",
+      "count": 7,
+      "title_ur": "اسم، فعل، حرف اور مشتق"
+    },
+    {
+      "title": "Phrases and types of sentences",
+      "pages": "5",
+      "count": 7,
+      "title_ur": "مرکب اور جملہ کی قسمیں"
+    },
+    {
+      "title": "Singular, dual and plural",
+      "pages": "6",
+      "count": 7,
+      "title_ur": "واحد، تثنیہ اور جمع"
+    },
+    {
+      "title": "Masculine and feminine",
+      "pages": "7",
+      "count": 7,
+      "title_ur": "مذکر اور مؤنث"
+    },
+    {
+      "title": "Definite and indefinite nouns",
+      "pages": "8",
+      "count": 7,
+      "title_ur": "معرفہ اور نکرہ"
+    },
+    {
+      "title": "Inflection, declinable and indeclinable words",
+      "pages": "9",
+      "count": 7,
+      "title_ur": "اعراب، معرب اور مبنی"
+    },
+    {
+      "title": "Indeclinable words and pronouns",
+      "pages": "10",
+      "count": 7,
+      "title_ur": "مبنیات اور ضمائر"
+    },
+    {
+      "title": "Demonstrative nouns",
+      "pages": "11–12",
+      "count": 7,
+      "title_ur": "اسمِ اشارہ"
+    },
+    {
+      "title": "Relative pronouns and relative clauses",
+      "pages": "12–13",
+      "count": 7,
+      "title_ur": "اسمِ موصول اور صلہ"
+    },
+    {
+      "title": "Fully declinable nouns and diptotes",
+      "pages": "13–14",
+      "count": 7,
+      "title_ur": "منصرف اور غیر منصرف"
+    },
+    {
+      "title": "Nominatives and the subject of a verb",
+      "pages": "15",
+      "count": 7,
+      "title_ur": "مرفوعات اور فاعل"
+    },
+    {
+      "title": "Passive subject, topic and predicate",
+      "pages": "16",
+      "count": 7,
+      "title_ur": "نائب فاعل، مبتدا اور خبر"
+    },
+    {
+      "title": "Particles resembling verbs",
+      "pages": "17",
+      "count": 7,
+      "title_ur": "حروفِ مشبہ بالفعل"
+    },
+    {
+      "title": "Defective verbs",
+      "pages": "18",
+      "count": 7,
+      "title_ur": "افعالِ ناقصہ"
+    },
+    {
+      "title": "Introduction to accusatives",
+      "pages": "19",
+      "count": 7,
+      "title_ur": "منصوبات کا تعارف"
+    },
+    {
+      "title": "Types of objects and adverbials",
+      "pages": "20",
+      "count": 7,
+      "title_ur": "مفعول کی قسمیں اور ظروف"
+    },
+    {
+      "title": "Circumstantial accusative, specification and exception",
+      "pages": "21",
+      "count": 7,
+      "title_ur": "حال، تمییز اور مستثنیٰ"
+    },
+    {
+      "title": "Types of exception",
+      "pages": "22",
+      "count": 7,
+      "title_ur": "استثناء کی قسمیں"
+    },
+    {
+      "title": "Genitives",
+      "pages": "23",
+      "count": 7,
+      "title_ur": "مجرورات"
+    },
+    {
+      "title": "Dependent words: adjectives, emphasis and substitution",
+      "pages": "24–25",
+      "count": 7,
+      "title_ur": "توابع: نعت، تاکید اور بدل"
+    },
+    {
+      "title": "Substitution, coordination and explanatory apposition",
+      "pages": "26",
+      "count": 7,
+      "title_ur": "بدل، عطفِ نسق اور عطفِ بیان"
+    },
+    {
+      "title": "Details of noun inflection",
+      "pages": "26–27",
+      "count": 7,
+      "title_ur": "اعرابِ اسم کی تفصیلات"
+    },
+    {
+      "title": "Inflectional signs of nouns",
+      "pages": "28",
+      "count": 7,
+      "title_ur": "اسماء کی اعرابی علامتیں"
+    },
+    {
+      "title": "Diptotes and implicit inflection",
+      "pages": "29–30",
+      "count": 7,
+      "title_ur": "اسمِ غیر منصرف اور اعرابِ تقدیری"
+    },
+    {
+      "title": "Declinable and indeclinable verbs",
+      "pages": "30–31",
+      "count": 7,
+      "title_ur": "فعلِ معرب اور فعلِ مبنی"
+    },
+    {
+      "title": "Governing nouns: verbal nouns and participles",
+      "pages": "31–33",
+      "count": 7,
+      "title_ur": "اسمائے عاملہ: مصدر اور اسمِ فاعل و مفعول"
+    },
+    {
+      "title": "Adjectives, comparatives, praise and blame",
+      "pages": "33–34",
+      "count": 7,
+      "title_ur": "صفت مشبہ، اسمِ تفضیل، مدح و ذم"
+    },
+    {
+      "title": "Subjunctive and jussive governors of the present verb",
+      "pages": "35–36",
+      "count": 7,
+      "title_ur": "نواصب و جوازمِ مضارع"
+    },
+    {
+      "title": "Various uses of particles",
+      "pages": "37–38",
+      "count": 7,
+      "title_ur": "حروف کے مختلف استعمال"
+    },
+    {
+      "title": "Comprehensive review — Asan Nahw I",
+      "pages": "3–38",
+      "count": 20,
+      "title_ur": "جامع اعادہ — مکمل آسان نحو اوّل"
+    }
+  ],
+  "nahw-2": [
+    {
+      "title": "Words and their categories",
+      "pages": "5",
+      "count": 6,
+      "title_ur": "کلمہ اور اس کی قسمیں"
+    },
+    {
+      "title": "Verbs, particles and their categories",
+      "pages": "6",
+      "count": 6,
+      "title_ur": "فعل، حرف اور ان کی قسمیں"
+    },
+    {
+      "title": "Phrases and their categories",
+      "pages": "7–8",
+      "count": 6,
+      "title_ur": "مرکب اور اس کی اقسام"
+    },
+    {
+      "title": "Nominal and verbal sentences",
+      "pages": "9–10",
+      "count": 6,
+      "title_ur": "جملہ اسمیہ اور فعلیہ"
+    },
+    {
+      "title": "Complete and incomplete expressions",
+      "pages": "11–13",
+      "count": 6,
+      "title_ur": "مرکب مفید اور غیر مفید"
+    },
+    {
+      "title": "Numbers: one to ten",
+      "pages": "14",
+      "count": 6,
+      "title_ur": "عدد: ایک سے دس تک"
+    },
+    {
+      "title": "Singular, dual and plural",
+      "pages": "15–16",
+      "count": 6,
+      "title_ur": "واحد، تثنیہ اور جمع"
+    },
+    {
+      "title": "Underived nouns, verbal nouns and derived words",
+      "pages": "17",
+      "count": 6,
+      "title_ur": "جامد، مصدر اور مشتق"
+    },
+    {
+      "title": "Recognizing derived nouns",
+      "pages": "18",
+      "count": 6,
+      "title_ur": "اسمائے مشتقہ کی پہچان"
+    },
+    {
+      "title": "Masculine and feminine",
+      "pages": "19–20",
+      "count": 6,
+      "title_ur": "مذکر و مؤنث"
+    },
+    {
+      "title": "Declinable and indeclinable words",
+      "pages": "21–22",
+      "count": 6,
+      "title_ur": "معرب اور مبنی"
+    },
+    {
+      "title": "Relative adjectives, diminutives and plurals of paucity",
+      "pages": "23",
+      "count": 6,
+      "title_ur": "اسمِ منسوب، تصغیر اور جمعِ قلت"
+    },
+    {
+      "title": "Declinable nouns and inflection",
+      "pages": "24",
+      "count": 6,
+      "title_ur": "اسم معرب اور اعراب"
+    },
+    {
+      "title": "Inflection using letters",
+      "pages": "25–26",
+      "count": 6,
+      "title_ur": "اعراب بالحروف"
+    },
+    {
+      "title": "Implicit inflection",
+      "pages": "27–28",
+      "count": 6,
+      "title_ur": "اعراب تقدیری"
+    },
+    {
+      "title": "Types of pronouns",
+      "pages": "29–30",
+      "count": 6,
+      "title_ur": "ضمیر کی قسمیں"
+    },
+    {
+      "title": "Attached and detached pronouns",
+      "pages": "31",
+      "count": 6,
+      "title_ur": "متصل و منفصل ضمائر"
+    },
+    {
+      "title": "Demonstrative nouns",
+      "pages": "32",
+      "count": 6,
+      "title_ur": "اسم اشارہ"
+    },
+    {
+      "title": "Relative pronouns",
+      "pages": "33–34",
+      "count": 6,
+      "title_ur": "اسم موصول"
+    },
+    {
+      "title": "Sound expressions and adverbial nouns",
+      "pages": "35–37",
+      "count": 6,
+      "title_ur": "اسم صوت اور اسم ظرف"
+    },
+    {
+      "title": "Diptotes and their signs",
+      "pages": "38",
+      "count": 6,
+      "title_ur": "غیر منصرف اسم اور اس کی علامتیں"
+    },
+    {
+      "title": "Adjectival and altered-form causes of diptotes",
+      "pages": "39",
+      "count": 6,
+      "title_ur": "وصف اور عدل کی علتیں"
+    },
+    {
+      "title": "Definiteness and its types",
+      "pages": "40–41",
+      "count": 6,
+      "title_ur": "معرفہ اور اس کی قسمیں"
+    },
+    {
+      "title": "Parsing, governors and governed words",
+      "pages": "42",
+      "count": 6,
+      "title_ur": "ترکیب اور عامل و معمول"
+    },
+    {
+      "title": "Further rules for diptotes",
+      "pages": "43–44",
+      "count": 6,
+      "title_ur": "غیر منصرف کے مزید قواعد"
+    },
+    {
+      "title": "The subject of a verb",
+      "pages": "45–46",
+      "count": 6,
+      "title_ur": "فاعل کا بیان"
+    },
+    {
+      "title": "Further rules for verbal subjects",
+      "pages": "47",
+      "count": 6,
+      "title_ur": "فاعل کے باقی قواعد"
+    },
+    {
+      "title": "Topic and predicate",
+      "pages": "48",
+      "count": 6,
+      "title_ur": "مبتدا اور خبر"
+    },
+    {
+      "title": "Particles resembling verbs",
+      "pages": "49",
+      "count": 6,
+      "title_ur": "حروف مشبہ بالفعل"
+    },
+    {
+      "title": "Defective verbs: كَانَ and its sisters",
+      "pages": "50–51",
+      "count": 6,
+      "title_ur": "افعال ناقصہ: كان اور اخواتها"
+    },
+    {
+      "title": "مَا and لَا and verbs of near occurrence",
+      "pages": "52–54",
+      "count": 6,
+      "title_ur": "ما و لا اور افعال مقاربہ"
+    },
+    {
+      "title": "Cognate accusative",
+      "pages": "55",
+      "count": 6,
+      "title_ur": "مفعول مطلق"
+    },
+    {
+      "title": "Accusative of purpose",
+      "pages": "56–57",
+      "count": 6,
+      "title_ur": "مفعول لہ (مفعول لأجله)"
+    },
+    {
+      "title": "Exception and its particles",
+      "pages": "58–59",
+      "count": 6,
+      "title_ur": "استثناء اور اس کے آلات"
+    },
+    {
+      "title": "Accusative of accompaniment",
+      "pages": "60",
+      "count": 6,
+      "title_ur": "مفعول معہ"
+    },
+    {
+      "title": "Adverbial accusative of time and place",
+      "pages": "61–62",
+      "count": 6,
+      "title_ur": "مفعول فیہ: ظرف"
+    },
+    {
+      "title": "Circumstantial accusative and its referent",
+      "pages": "63",
+      "count": 6,
+      "title_ur": "حال اور صاحبِ حال"
+    },
+    {
+      "title": "Specification",
+      "pages": "64–65",
+      "count": 6,
+      "title_ur": "تمییز"
+    },
+    {
+      "title": "Compound numerals (eleven to nineteen)",
+      "pages": "66–67",
+      "count": 6,
+      "title_ur": "اعدادِ مرکبہ (گیارہ سے انیس)"
+    },
+    {
+      "title": "Rules for the excepted element",
+      "pages": "68–69",
+      "count": 6,
+      "title_ur": "مستثنی کے احکام"
+    },
+    {
+      "title": "Genitive construction: possessed noun and complement",
+      "pages": "70–71",
+      "count": 6,
+      "title_ur": "مضاف اور مضاف الیہ"
+    },
+    {
+      "title": "Four kinds of dependent words",
+      "pages": "72–73",
+      "count": 6,
+      "title_ur": "توابع کی چار قسمیں"
+    },
+    {
+      "title": "Verbal and semantic emphasis",
+      "pages": "74",
+      "count": 6,
+      "title_ur": "تاکید لفظی و معنوی"
+    },
+    {
+      "title": "Substitution and apposition",
+      "pages": "75",
+      "count": 6,
+      "title_ur": "بدل کا بیان"
+    },
+    {
+      "title": "Coordination and conjunctions",
+      "pages": "76",
+      "count": 6,
+      "title_ur": "معطوف اور حروف عطف"
+    },
+    {
+      "title": "Governing nouns",
+      "pages": "77–78",
+      "count": 6,
+      "title_ur": "اسمائے عاملہ"
+    },
+    {
+      "title": "Governance by the passive participle",
+      "pages": "79",
+      "count": 6,
+      "title_ur": "اسم مفعول کا عمل"
+    },
+    {
+      "title": "Comparative and superlative",
+      "pages": "80–82",
+      "count": 6,
+      "title_ur": "اسم تفضیل کا بیان"
+    },
+    {
+      "title": "Syntax of verbs",
+      "pages": "83",
+      "count": 6,
+      "title_ur": "فعل کا نحوی بیان"
+    },
+    {
+      "title": "Verbs of cognition",
+      "pages": "84–86",
+      "count": 6,
+      "title_ur": "افعالِ قلوب"
+    },
+    {
+      "title": "Introduction to governing particles",
+      "pages": "87–88",
+      "count": 6,
+      "title_ur": "حروف عاملہ کا تعارف"
+    },
+    {
+      "title": "Prepositions and meanings",
+      "pages": "89–90",
+      "count": 6,
+      "title_ur": "حروفِ جر اور معانی"
+    },
+    {
+      "title": "Subjunctive and jussive governors of the present verb",
+      "pages": "91–92",
+      "count": 6,
+      "title_ur": "نواصب و جوازمِ مضارع"
+    },
+    {
+      "title": "Non-governing particles",
+      "pages": "93",
+      "count": 6,
+      "title_ur": "حروفِ غیر عاملہ"
+    },
+    {
+      "title": "Conjunctions",
+      "pages": "94–95",
+      "count": 6,
+      "title_ur": "حروف عاطفہ"
+    },
+    {
+      "title": "Verbal-noun-forming particles",
+      "pages": "96",
+      "count": 6,
+      "title_ur": "حروفِ مصدریہ"
+    },
+    {
+      "title": "Interrogative particles",
+      "pages": "97",
+      "count": 6,
+      "title_ur": "حروفِ استفہام"
+    },
+    {
+      "title": "Exhortative particles",
+      "pages": "98",
+      "count": 6,
+      "title_ur": "حروفِ تحضیض"
+    },
+    {
+      "title": "Particles of expectation and rebuke",
+      "pages": "99",
+      "count": 6,
+      "title_ur": "حروفِ توقّع و ردع"
+    },
+    {
+      "title": "Attention particles and nunation",
+      "pages": "100–101",
+      "count": 6,
+      "title_ur": "حروفِ تنبیہ اور تنوین"
+    },
+    {
+      "title": "Comprehensive review of the book",
+      "pages": "102–104",
+      "count": 20,
+      "title_ur": "مکمل کتاب کا جامع اعادہ"
+    }
+  ]
+}
